@@ -5,7 +5,11 @@ on:
   workflow_dispatch:
     inputs:
       test:
-        description: 'Enviar solo una prueba de Telegram'
+        description: 'Enviar una prueba a Telegram'
+        type: boolean
+        default: false
+      preview:
+        description: 'En prueba, mostrar ejemplos de alerta y resumen'
         type: boolean
         default: false
 permissions:
@@ -16,7 +20,7 @@ concurrency:
 jobs:
   revisar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,10 +33,15 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          WATCH_KEYWORDS: php,linux,apache,nginx,wordpress,docker,openssl,openssh,windows
+          WATCH_KEYWORDS: php,linux,ubuntu,debian,apache,nginx,wordpress,docker,openssl,openssh,windows,postgresql,mysql,fortinet,cisco
           TEST_MODE: ${{ inputs.test }}
+          PREVIEW_MODE: ${{ inputs.preview }}
         run: |
-          if [ "$TEST_MODE" = "true" ]; then python bot.py --test; else python bot.py; fi
+          if [ "$TEST_MODE" = "true" ]; then
+            if [ "$PREVIEW_MODE" = "true" ]; then python bot.py --test --preview; else python bot.py --test; fi
+          else
+            python bot.py
+          fi
       - name: Guardar avisos ya vistos
         if: ${{ inputs.test != true }}
         run: |
@@ -41,5 +50,6 @@ jobs:
           git add state.json
           if ! git diff --cached --quiet; then
             git commit -m 'Actualizar avisos procesados [skip ci]'
-            git push
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
