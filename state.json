@@ -1854,35 +1854,11 @@
     "3529fa230912e908e9c60f5b9913b4d3c6f1bfa2c5454e519c00fb4136d84198": 1792850878.548823,
     "f6b4a9873327b7b8a0bd33000beb1c002b85d6bf5242f67ceef81a86d2576fd8": 1792850878.548823,
     "b96da1c90472ac10e7df9d6a1eccee75e4921997023b2dbe8ea6e871d2b74dfc": 1792850878.548823,
-    "d079224341261a25510712dc64fd51fe16c084842a667f3b0eb8049d52e3dfe6": 1792862767.877235
+    "d079224341261a25510712dc64fd51fe16c084842a667f3b0eb8049d52e3dfe6": 1792862767.877235,
+    "c2066cbc69cf0fbbe09dcbbdb217d98456f1f0ac16226966b8b5ea061e069ad6": 1792920469.854703
   },
-  "digest": [
-    {
-      "id": "f6b4a9873327b7b8a0bd33000beb1c002b85d6bf5242f67ceef81a86d2576fd8",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "at": 1792850878.548823,
-      "priority": 1
-    },
-    {
-      "id": "b96da1c90472ac10e7df9d6a1eccee75e4921997023b2dbe8ea6e871d2b74dfc",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "at": 1792850878.548823,
-      "priority": 1
-    },
-    {
-      "id": "d079224341261a25510712dc64fd51fe16c084842a667f3b0eb8049d52e3dfe6",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "at": 1792862767.877235,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-10-24",
+  "digest": [],
+  "last_digest": "2026-10-25",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
