@@ -1855,9 +1855,19 @@
     "f6b4a9873327b7b8a0bd33000beb1c002b85d6bf5242f67ceef81a86d2576fd8": 1792850878.548823,
     "b96da1c90472ac10e7df9d6a1eccee75e4921997023b2dbe8ea6e871d2b74dfc": 1792850878.548823,
     "d079224341261a25510712dc64fd51fe16c084842a667f3b0eb8049d52e3dfe6": 1792862767.877235,
-    "c2066cbc69cf0fbbe09dcbbdb217d98456f1f0ac16226966b8b5ea061e069ad6": 1792920469.854703
+    "c2066cbc69cf0fbbe09dcbbdb217d98456f1f0ac16226966b8b5ea061e069ad6": 1792920469.854703,
+    "eed1c94d3885ccc6dee7635cf26962eba2ffc00b712ecd872df2c8110e42f5d9": 1792948921.010016
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "eed1c94d3885ccc6dee7635cf26962eba2ffc00b712ecd872df2c8110e42f5d9",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "at": 1792948921.010016,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-10-25",
   "cvss_cache": {
     "CVE-2026-109619": {
