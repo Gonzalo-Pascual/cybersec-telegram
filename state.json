@@ -1858,35 +1858,16 @@
     "c2066cbc69cf0fbbe09dcbbdb217d98456f1f0ac16226966b8b5ea061e069ad6": 1792920469.854703,
     "eed1c94d3885ccc6dee7635cf26962eba2ffc00b712ecd872df2c8110e42f5d9": 1792948921.010016,
     "f569879a45e4a817377c049bf8a9d93b0867cc73b43769768262a1e87eb83ba9": 1792957769.203443,
-    "b5a95853e439769aec62048f67da6df1138528e88ad26855223f41d76b60c740": 1792957769.203443
+    "b5a95853e439769aec62048f67da6df1138528e88ad26855223f41d76b60c740": 1792957769.203443,
+    "8c86c8044183e49e97d1dcbf5defc0411f9fe5487527d00cfa84ad97920a8476": 1793012696.347727,
+    "454c41e4fdc1f680252b301c493a8de63d63f0207f978ae9c9c4b0fcc530ed74": 1793012696.347727,
+    "110209c13668b140dd3da09663f737602a055c247180f87b17da5511ef9e862b": 1793012696.347727,
+    "cf4cd45c572d6f891444371959157997f0eb7f0a380a71e63273067a8acac384": 1793012696.347727,
+    "3b9d1be8db020bc8cba04ab03b0af26baf6bda2550b6b100e162f49120c30e0a": 1793012696.347727,
+    "2c10eb29bbde3f775837b8f53ef8ba981599b1f21913a00d30368914fdba1e69": 1793012696.347727
   },
-  "digest": [
-    {
-      "id": "eed1c94d3885ccc6dee7635cf26962eba2ffc00b712ecd872df2c8110e42f5d9",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "at": 1792948921.010016,
-      "priority": 1
-    },
-    {
-      "id": "f569879a45e4a817377c049bf8a9d93b0867cc73b43769768262a1e87eb83ba9",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "at": 1792957769.203443,
-      "priority": 1
-    },
-    {
-      "id": "b5a95853e439769aec62048f67da6df1138528e88ad26855223f41d76b60c740",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "at": 1792957769.203443,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-10-25",
+  "digest": [],
+  "last_digest": "2026-10-26",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
