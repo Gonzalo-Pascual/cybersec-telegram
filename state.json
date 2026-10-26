@@ -1878,7 +1878,13 @@
     "b4c499fe20138c45479d181d64a83753009d46761c6afa6dc3218dab1a2f70e5": 1793035333.794195,
     "ed03f402c75aab5026cc551d43d8a462687cfb0b6024d04570c8d295bedc4cfd": 1793035333.794195,
     "b1af7d4d26ef2efd1bb61ac70b14e3c71f0d3d423636d467aae90349454e3186": 1793035333.794195,
-    "0ef34242f7f14896715677481af53c189651ecc92aea849b65bb991f9573d970": 1793035333.794195
+    "0ef34242f7f14896715677481af53c189651ecc92aea849b65bb991f9573d970": 1793035333.794195,
+    "30bf9e4f0578f03ef2ba1dc70c2f6bc20e900ac5c1197e313e6b765658471ca3": 1793051045.793357,
+    "ac05c742086b089024f6395a3bde3e6dc5e6a1a425ac45244a08e2049b5b9272": 1793051045.793357,
+    "abc1aa8f6b9ffe06959ee88ee8d9aef20097b04719327d72d735b153d1e10289": 1793051045.793357,
+    "fc948689d3898a1b20bf27013d680354b273d94fd855114fc54aded5bad609d7": 1793051045.793357,
+    "b7f2fdbf078159a6ea494102f667231b93819b4908b2cf574dea332ac5a1cbbc": 1793051045.793357,
+    "f27c54b7a9b01dfe1471ae65b8a6877ae35139a535f2188e25be350ebc940d3a": 1793051045.793357
   },
   "digest": [
     {
@@ -1936,6 +1942,54 @@
       "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
       "at": 1793035333.794195,
       "priority": 1
+    },
+    {
+      "id": "30bf9e4f0578f03ef2ba1dc70c2f6bc20e900ac5c1197e313e6b765658471ca3",
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "at": 1793051045.793357,
+      "priority": 1
+    },
+    {
+      "id": "ac05c742086b089024f6395a3bde3e6dc5e6a1a425ac45244a08e2049b5b9272",
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "at": 1793051045.793357,
+      "priority": 1
+    },
+    {
+      "id": "abc1aa8f6b9ffe06959ee88ee8d9aef20097b04719327d72d735b153d1e10289",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "at": 1793051045.793357,
+      "priority": 1
+    },
+    {
+      "id": "fc948689d3898a1b20bf27013d680354b273d94fd855114fc54aded5bad609d7",
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "at": 1793051045.793357,
+      "priority": 1
+    },
+    {
+      "id": "b7f2fdbf078159a6ea494102f667231b93819b4908b2cf574dea332ac5a1cbbc",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "at": 1793051045.793357,
+      "priority": 2
+    },
+    {
+      "id": "f27c54b7a9b01dfe1471ae65b8a6877ae35139a535f2188e25be350ebc940d3a",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "at": 1793051045.793357,
+      "priority": 1
     }
   ],
   "last_digest": "2026-10-26",
@@ -1955,6 +2009,10 @@
     "CVE-2026-114625": {
       "score": 9.4,
       "at": 1793035353.5943906
+    },
+    "CVE-2026-111497": {
+      "score": 9.2,
+      "at": 1793051049.35741
     }
   }
 }
