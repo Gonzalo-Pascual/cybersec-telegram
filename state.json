@@ -1897,9 +1897,91 @@
     "dad091f71410edf1117891e3b46e6ae804c49f65729a527f918f04a096f81625": 1793103109.991188,
     "0bd6093ddc75e459539bf8aabbec921a337b0f5320009fe8333c8be02aec3702": 1793103109.991188,
     "2f16bf7c74ae8ac3da7b21f37906e13c8dff1864a9f22b59f7718b321e2c518a": 1793103109.991188,
-    "ec4e55c25bd082a82f2d209407e42079774e46852443d22f80e2490c13047c79": 1793103109.991188
+    "ec4e55c25bd082a82f2d209407e42079774e46852443d22f80e2490c13047c79": 1793103109.991188,
+    "b3f418954cc0cf873843d0f9cce49f45720ec72cda1852f8a804beada9fafae5": 1793124132.707795,
+    "fd898f8d319dbdf9afb1ff815d926ca834c7e7954c75e0e48e0416bb0b208bd3": 1793124132.707795,
+    "2e82a056dd8189f93ba44b576aa43ca9dd031e7eed0e60ad334e516e48dc7d17": 1793124132.707795,
+    "250a2d2bbc25d9d72a63c32be24ef30308ce9ce6ada7e5b60989d984f940ace8": 1793124132.707795,
+    "cdbb2e41810c5c62c3730c9aee26e83119b8cf3944fddb0136950d43fca2082b": 1793124132.707795,
+    "0f4282eab029dfdca00c2bebbdcaa2f6fdea37d7e044600414d0dc89b9d11c5f": 1793124132.707795,
+    "fde0af7f3bef6cfa5fc22dea07109056d6504ac276f2caacf421ded1c33eb086": 1793124132.707795,
+    "f5c678871d6aeb79f27f8a4264b345cb896517992215d9172b198610f7cef974": 1793124132.707795,
+    "7ace5fcf7533ddd5faf1c509bce8663483599c5f0a10474336bd4346015edf5a": 1793124132.707795
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "b3f418954cc0cf873843d0f9cce49f45720ec72cda1852f8a804beada9fafae5",
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "fd898f8d319dbdf9afb1ff815d926ca834c7e7954c75e0e48e0416bb0b208bd3",
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "2e82a056dd8189f93ba44b576aa43ca9dd031e7eed0e60ad334e516e48dc7d17",
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "250a2d2bbc25d9d72a63c32be24ef30308ce9ce6ada7e5b60989d984f940ace8",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "at": 1793124132.707795,
+      "priority": 2
+    },
+    {
+      "id": "cdbb2e41810c5c62c3730c9aee26e83119b8cf3944fddb0136950d43fca2082b",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "0f4282eab029dfdca00c2bebbdcaa2f6fdea37d7e044600414d0dc89b9d11c5f",
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "fde0af7f3bef6cfa5fc22dea07109056d6504ac276f2caacf421ded1c33eb086",
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "f5c678871d6aeb79f27f8a4264b345cb896517992215d9172b198610f7cef974",
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "at": 1793124132.707795,
+      "priority": 1
+    },
+    {
+      "id": "7ace5fcf7533ddd5faf1c509bce8663483599c5f0a10474336bd4346015edf5a",
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "at": 1793124132.707795,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-10-27",
   "cvss_cache": {
     "CVE-2026-109619": {
