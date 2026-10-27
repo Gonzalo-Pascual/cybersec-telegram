@@ -1884,7 +1884,10 @@
     "abc1aa8f6b9ffe06959ee88ee8d9aef20097b04719327d72d735b153d1e10289": 1793051045.793357,
     "fc948689d3898a1b20bf27013d680354b273d94fd855114fc54aded5bad609d7": 1793051045.793357,
     "b7f2fdbf078159a6ea494102f667231b93819b4908b2cf574dea332ac5a1cbbc": 1793051045.793357,
-    "f27c54b7a9b01dfe1471ae65b8a6877ae35139a535f2188e25be350ebc940d3a": 1793051045.793357
+    "f27c54b7a9b01dfe1471ae65b8a6877ae35139a535f2188e25be350ebc940d3a": 1793051045.793357,
+    "315952af67c06d7a2617003e9318c4251c7398482ba350e69e220392a94a4c29": 1793062537.972512,
+    "kev:CVE-2026-109618": 1793062537.972512,
+    "kev:CVE-2026-109619": 1793062537.972512
   },
   "digest": [
     {
@@ -1990,13 +1993,21 @@
       "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
       "at": 1793051045.793357,
       "priority": 1
+    },
+    {
+      "id": "315952af67c06d7a2617003e9318c4251c7398482ba350e69e220392a94a4c29",
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "at": 1793062537.972512,
+      "priority": 1
     }
   ],
   "last_digest": "2026-10-26",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
-      "at": 1792850880.4841738
+      "at": 1793062548.035732
     },
     "CVE-2026-4316": {
       "score": 5.1,
