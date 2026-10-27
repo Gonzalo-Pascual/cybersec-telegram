@@ -1887,7 +1887,8 @@
     "f27c54b7a9b01dfe1471ae65b8a6877ae35139a535f2188e25be350ebc940d3a": 1793051045.793357,
     "315952af67c06d7a2617003e9318c4251c7398482ba350e69e220392a94a4c29": 1793062537.972512,
     "kev:CVE-2026-109618": 1793062537.972512,
-    "kev:CVE-2026-109619": 1793062537.972512
+    "kev:CVE-2026-109619": 1793062537.972512,
+    "726986af63d65ad42e36d4603ef6c422808a530826beac7eb6994db86572e8a6": 1793081379.21264
   },
   "digest": [
     {
@@ -2001,6 +2002,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
       "at": 1793062537.972512,
       "priority": 1
+    },
+    {
+      "id": "726986af63d65ad42e36d4603ef6c422808a530826beac7eb6994db86572e8a6",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "at": 1793081379.21264,
+      "priority": 2
     }
   ],
   "last_digest": "2026-10-26",
