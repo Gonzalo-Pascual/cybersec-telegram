@@ -1911,7 +1911,11 @@
     "87992f7579743eb917647b068a885b5ece80cc27b7e56461c5ccdeef0db53c97": 1793138842.980886,
     "2cea8b09dbd3a3a0565928c2dd47508bac5072ba88c046b1c42b8e104d885b98": 1793138842.980886,
     "kev:CVE-2026-48356": 1793138842.980886,
-    "kev:CVE-2026-111497": 1793138842.980886
+    "kev:CVE-2026-111497": 1793138842.980886,
+    "7198c3b210a8684d7395fbc6a13681d3c98c9dcb0bf99026955e15a05a6fa9fb": 1793150368.537289,
+    "f5b0eb99675847e9dce4bf6b12a9af76f4bdab7f3c23baf5709dee38205f2e4a": 1793150368.537289,
+    "7a5db041a33fc11ba3268db6ddb0fb3140bc670816b2f9e54058b20aab6c20d2": 1793150368.537289,
+    "93f6b71101fb0bc99bb20c967a34f6df4ded7e818d8b6fabb9d94f36478167b3": 1793150368.537289
   },
   "digest": [
     {
@@ -2009,6 +2013,30 @@
       "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
       "at": 1793138842.980886,
       "priority": 1
+    },
+    {
+      "id": "f5b0eb99675847e9dce4bf6b12a9af76f4bdab7f3c23baf5709dee38205f2e4a",
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "at": 1793150368.537289,
+      "priority": 1
+    },
+    {
+      "id": "7a5db041a33fc11ba3268db6ddb0fb3140bc670816b2f9e54058b20aab6c20d2",
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "at": 1793150368.537289,
+      "priority": 1
+    },
+    {
+      "id": "93f6b71101fb0bc99bb20c967a34f6df4ded7e818d8b6fabb9d94f36478167b3",
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "at": 1793150368.537289,
+      "priority": 1
     }
   ],
   "last_digest": "2026-10-27",
@@ -2031,7 +2059,7 @@
     },
     "CVE-2026-111497": {
       "score": 9.2,
-      "at": 1793051049.35741
+      "at": 1793150371.5199594
     },
     "CVE-2026-4337": {
       "score": null,
