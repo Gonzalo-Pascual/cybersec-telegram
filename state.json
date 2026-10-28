@@ -1944,7 +1944,10 @@
     "a65203be8beb35074a87030f8de13cdafd59c504db4c79d2313e789e2e959cf8": 1793215580.194906,
     "fdad8b74abadabfa274a4f003902b3d93c12b7d93d6083be843d6bfe299258b4": 1793215580.194906,
     "3b555b83e2da4a771a89c360de13b67b89d9a2ef79e70bc6f64853b3c8fa0933": 1793215580.194906,
-    "b41c2bc82e7656825dba02095893383840d3e56fdf5e640e15e0843f3acc4e59": 1793215580.194906
+    "b41c2bc82e7656825dba02095893383840d3e56fdf5e640e15e0843f3acc4e59": 1793215580.194906,
+    "010194d70f7b25103040718870379dc4037d6901dc0112228661a6ab64179c4e": 1793230068.013355,
+    "kev:CVE-2026-41709": 1793230068.013355,
+    "kev:CVE-2026-46300": 1793230068.013355
   },
   "digest": [
     {
@@ -2050,6 +2053,14 @@
       "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
       "at": 1793215580.194906,
       "priority": 1
+    },
+    {
+      "id": "010194d70f7b25103040718870379dc4037d6901dc0112228661a6ab64179c4e",
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "at": 1793230068.013355,
+      "priority": 1
     }
   ],
   "last_digest": "2026-10-28",
@@ -2089,6 +2100,10 @@
     "CVE-2026-14571": {
       "score": 9.1,
       "at": 1793195866.7992883
+    },
+    "CVE-2026-46300": {
+      "score": 7.8,
+      "at": 1793230073.9307663
     }
   }
 }
