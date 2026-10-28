@@ -1931,9 +1931,127 @@
     "5d66dd51b680fdddb6550fcf492b2f5591c43844ba9ab98563348887bacc220e": 1793195842.722357,
     "29c9e0979d5cb19cd417855bef62649461882deb9ece6bed8a402b58e2856083": 1793195842.722357,
     "e4442983a002bb5469f7cddf08f09cfd13fc1fd8b3460893593063aadd86c9c4": 1793195842.722357,
-    "d0d75488ee5e5c0f648faaa82eb772647a263f2c988c049925a46cc2178d636b": 1793195842.722357
+    "d0d75488ee5e5c0f648faaa82eb772647a263f2c988c049925a46cc2178d636b": 1793195842.722357,
+    "72532a1ed404450520de45d24a86de0ce0191fe337828da6bde4656192607ce1": 1793215580.194906,
+    "79787d5ef37bcd73532a20f6c0dc12da2b74f505e2d8f2472b57d51e79729bfe": 1793215580.194906,
+    "ee59cb2b0e8d843659d10a66125d4440e74aee77db9d807defb82aa4f5dfc6bd": 1793215580.194906,
+    "8c6a1db4afec0402c6311352f621188947cbaddfd77e017f210d176fc20d5491": 1793215580.194906,
+    "3b6fcda23159249039cdd44369a5794f279fb95457a58858c92b6cd5e7941d9e": 1793215580.194906,
+    "6ddaf4f19dc5fb3618cf26f52b2bf6d666cbfeb4c0d1e2913395f4852c4f167b": 1793215580.194906,
+    "4de5947696c3465d65b91d9fe5f43768aece2118bcc5763567228a602457c21d": 1793215580.194906,
+    "82ed7e801915a05265ddb034cdd509b2b9a8e6bf71432cb14be217ec51323ad2": 1793215580.194906,
+    "993ade02f488b8d3d9756be584001bcd2832bf000420680cac659408df2f048f": 1793215580.194906,
+    "a65203be8beb35074a87030f8de13cdafd59c504db4c79d2313e789e2e959cf8": 1793215580.194906,
+    "fdad8b74abadabfa274a4f003902b3d93c12b7d93d6083be843d6bfe299258b4": 1793215580.194906,
+    "3b555b83e2da4a771a89c360de13b67b89d9a2ef79e70bc6f64853b3c8fa0933": 1793215580.194906,
+    "b41c2bc82e7656825dba02095893383840d3e56fdf5e640e15e0843f3acc4e59": 1793215580.194906
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "72532a1ed404450520de45d24a86de0ce0191fe337828da6bde4656192607ce1",
+      "title": "Discord to let search engines index public server messages",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "79787d5ef37bcd73532a20f6c0dc12da2b74f505e2d8f2472b57d51e79729bfe",
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "ee59cb2b0e8d843659d10a66125d4440e74aee77db9d807defb82aa4f5dfc6bd",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "8c6a1db4afec0402c6311352f621188947cbaddfd77e017f210d176fc20d5491",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "3b6fcda23159249039cdd44369a5794f279fb95457a58858c92b6cd5e7941d9e",
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "at": 1793215580.194906,
+      "priority": 2
+    },
+    {
+      "id": "6ddaf4f19dc5fb3618cf26f52b2bf6d666cbfeb4c0d1e2913395f4852c4f167b",
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "4de5947696c3465d65b91d9fe5f43768aece2118bcc5763567228a602457c21d",
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "82ed7e801915a05265ddb034cdd509b2b9a8e6bf71432cb14be217ec51323ad2",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "993ade02f488b8d3d9756be584001bcd2832bf000420680cac659408df2f048f",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "at": 1793215580.194906,
+      "priority": 2
+    },
+    {
+      "id": "a65203be8beb35074a87030f8de13cdafd59c504db4c79d2313e789e2e959cf8",
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "fdad8b74abadabfa274a4f003902b3d93c12b7d93d6083be843d6bfe299258b4",
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "3b555b83e2da4a771a89c360de13b67b89d9a2ef79e70bc6f64853b3c8fa0933",
+      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+      "at": 1793215580.194906,
+      "priority": 1
+    },
+    {
+      "id": "b41c2bc82e7656825dba02095893383840d3e56fdf5e640e15e0843f3acc4e59",
+      "title": "Wazuh and AI for Enhanced SOC Workflows",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "at": 1793215580.194906,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-10-28",
   "cvss_cache": {
     "CVE-2026-109619": {
