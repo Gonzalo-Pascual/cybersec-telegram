@@ -1969,7 +1969,14 @@
     "472ce8262c963489a41a6a61c20e3bbaa2e30b7819eb3179c55aaca58795dd2e": 1793289602.84855,
     "e47142d6b718e14148de168806dfdad767f48f5fa487e6628030de7e6c839fc2": 1793289602.84855,
     "afae4d2e408d554703632b7685700445246740e15cc5e1c5ad8401d1da5c4089": 1793289602.84855,
-    "f5213486031c78d0c6c440cb57a2536e5ae0cca459e7a425de7050b7c79d5d62": 1793289602.84855
+    "f5213486031c78d0c6c440cb57a2536e5ae0cca459e7a425de7050b7c79d5d62": 1793289602.84855,
+    "53dfb09ba48aa290ed270319e4fae04709722f74ba0c2f81dde8a8a752c6e156": 1793307629.804224,
+    "cf5bc50086c5d47eb394497bdcb035b22a991e93926253d028b9359823481a28": 1793307629.804224,
+    "4880f1e80af574a52cfc0af49f11661c8c2f9cd77e08c8867a22013d6ad44954": 1793307629.804224,
+    "7987c47a3c2e09fd92966a454122dc39e6ed5fd03269543e2dcff23a1a835d2c": 1793307629.804224,
+    "2ea6143451829665e71b7cda5c63178c67c3b40f2db3337d4fe8adbf64c65a72": 1793307629.804224,
+    "kev:CVE-2026-97229": 1793307629.804224,
+    "kev:CVE-2026-76418": 1793307629.804224
   },
   "digest": [
     {
@@ -2083,6 +2090,46 @@
       "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
       "at": 1793289602.84855,
       "priority": 2
+    },
+    {
+      "id": "53dfb09ba48aa290ed270319e4fae04709722f74ba0c2f81dde8a8a752c6e156",
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "at": 1793307629.804224,
+      "priority": 1
+    },
+    {
+      "id": "cf5bc50086c5d47eb394497bdcb035b22a991e93926253d028b9359823481a28",
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "at": 1793307629.804224,
+      "priority": 2
+    },
+    {
+      "id": "4880f1e80af574a52cfc0af49f11661c8c2f9cd77e08c8867a22013d6ad44954",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "at": 1793307629.804224,
+      "priority": 1
+    },
+    {
+      "id": "7987c47a3c2e09fd92966a454122dc39e6ed5fd03269543e2dcff23a1a835d2c",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "at": 1793307629.804224,
+      "priority": 1
+    },
+    {
+      "id": "2ea6143451829665e71b7cda5c63178c67c3b40f2db3337d4fe8adbf64c65a72",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "at": 1793307629.804224,
+      "priority": 2
     }
   ],
   "last_digest": "2026-10-29",
@@ -2138,6 +2185,14 @@
     "CVE-2026-76418": {
       "score": 8.6,
       "at": 1793289630.3696992
+    },
+    "CVE-2026-20127": {
+      "score": 10.0,
+      "at": 1793307637.2212596
+    },
+    "CVE-2026-98432": {
+      "score": 9.8,
+      "at": 1793307646.1314166
     }
   }
 }
