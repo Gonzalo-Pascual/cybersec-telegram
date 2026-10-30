@@ -1993,9 +1993,66 @@
     "68ef7bf557e5c6499f420b7fa9878b9739205a1341ee771d2cb1094dd2395419": 1793367312.9889,
     "9f82666be5b4e51cca05c9392e9afce9c37e716e92e2aa7408b0f0f71a9837f5": 1793367312.9889,
     "95631b1325bfb51041cae082a9188a7a51d8208efdc7d6e54a48718222c94c7c": 1793367312.9889,
-    "ff49db4f08366f7fb7356d52387a7852b5e55a8bb3456fd3370fb540052546b3": 1793367312.9889
+    "ff49db4f08366f7fb7356d52387a7852b5e55a8bb3456fd3370fb540052546b3": 1793367312.9889,
+    "572b3df824e1e9f165cd57469e844d65a96644556659b0db3f2153e1bc9870a8": 1793386319.911379,
+    "3ad3d39dc8062a6841e0d3bd416d047905a9ee78449da1137efc9cbc9809f2ce": 1793386319.911379,
+    "eed8564feeb4f43d5d8fe7202ace05b77765fa5ec391b3b604986dd70e0068c6": 1793386319.911379,
+    "563b6d67ee937d56501c8bfad79a651b91c05821565ef168fd5a6db581089288": 1793386319.911379,
+    "dfe9ed931e6a43a7492c782c7d0a67d1802df02ac039542bc6226876b7fc5d53": 1793386319.911379,
+    "dbbd8901781f3da7037f94de0c83078f4c482f92ce514f5eb071f435217d6d4c": 1793386319.911379,
+    "kev:CVE-2026-118527": 1793386319.911379,
+    "kev:CVE-2026-111357": 1793386319.911379
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "572b3df824e1e9f165cd57469e844d65a96644556659b0db3f2153e1bc9870a8",
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "at": 1793386319.911379,
+      "priority": 1
+    },
+    {
+      "id": "3ad3d39dc8062a6841e0d3bd416d047905a9ee78449da1137efc9cbc9809f2ce",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "at": 1793386319.911379,
+      "priority": 1
+    },
+    {
+      "id": "eed8564feeb4f43d5d8fe7202ace05b77765fa5ec391b3b604986dd70e0068c6",
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "at": 1793386319.911379,
+      "priority": 1
+    },
+    {
+      "id": "563b6d67ee937d56501c8bfad79a651b91c05821565ef168fd5a6db581089288",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "at": 1793386319.911379,
+      "priority": 1
+    },
+    {
+      "id": "dfe9ed931e6a43a7492c782c7d0a67d1802df02ac039542bc6226876b7fc5d53",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "at": 1793386319.911379,
+      "priority": 1
+    },
+    {
+      "id": "dbbd8901781f3da7037f94de0c83078f4c482f92ce514f5eb071f435217d6d4c",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "at": 1793386319.911379,
+      "priority": 2
+    }
+  ],
   "last_digest": "2026-10-30",
   "cvss_cache": {
     "CVE-2026-109619": {
