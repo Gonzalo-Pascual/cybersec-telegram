@@ -1982,211 +1982,21 @@
     "c0f9865ff4ad431f9ce45565eb835921ef6fa987664d20c061c74659b0b1ecc6": 1793321346.831798,
     "5c883955aaa8e0fa93e7950578954641ddc57276d7d5e7a11333b9dd93c0bdff": 1793321346.831798,
     "1563c0f08771ffdeac264bb39874d9ec7214a1b722f3bccfe1edf2d0f6c0ef9d": 1793321346.831798,
-    "0ee0c65213ef99169ef36ad8f52f452207c9b7f703878eae019f03457e453216": 1793341998.118341
+    "0ee0c65213ef99169ef36ad8f52f452207c9b7f703878eae019f03457e453216": 1793341998.118341,
+    "5613f61860f10b61145f88e007ed31186a5cdd07d07a8fcf546c978dd50d4e3f": 1793367312.9889,
+    "0c8ae4065b3996f6178b6bd7f4daa218a3dfb8a7b9c04301c23048f196219832": 1793367312.9889,
+    "39ec414312ed27072bdda776ba8665eed26c0f1cefe44a9fc92f44141705e535": 1793367312.9889,
+    "b70c464303d1cbefb69d2d169d4231bd5e421d45e3676d2a86b1a10faa48264d": 1793367312.9889,
+    "bfcf396bc9c773cefeb4aced6de103092e0b55a667277d609466a9870cabbd65": 1793367312.9889,
+    "301b1bfa506e6f418ae65c0dbe1bffb27061844be4a777af5564291bb7d90f5a": 1793367312.9889,
+    "25b8d8a9f5909796b673cce604c805f9b268ff8a3cea826a99b72128ecee7daa": 1793367312.9889,
+    "68ef7bf557e5c6499f420b7fa9878b9739205a1341ee771d2cb1094dd2395419": 1793367312.9889,
+    "9f82666be5b4e51cca05c9392e9afce9c37e716e92e2aa7408b0f0f71a9837f5": 1793367312.9889,
+    "95631b1325bfb51041cae082a9188a7a51d8208efdc7d6e54a48718222c94c7c": 1793367312.9889,
+    "ff49db4f08366f7fb7356d52387a7852b5e55a8bb3456fd3370fb540052546b3": 1793367312.9889
   },
-  "digest": [
-    {
-      "id": "73e22a6f27ec68b5f3d2375be1a8b375577775871d5a656cc9d8e6f3235dc5f3",
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "at": 1793289602.84855,
-      "priority": 2
-    },
-    {
-      "id": "e02b3066f833d3128651ddd3ae6ac469ca91c20564eb07b056ec288f06e3a828",
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "684dde441b6bdbcfa6893ddf3f2ecfc5d749dcc2456ee153740b9c38e8136e7d",
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "at": 1793289602.84855,
-      "priority": 2
-    },
-    {
-      "id": "2aca08f72bbb7ba342d9f1207a6e6d55b568661a3ea2c4a28293eab069f9f3dc",
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "at": 1793289602.84855,
-      "priority": 2
-    },
-    {
-      "id": "5930badc0aa7768db3e74759a8c56ad063be8fe2731aa60c17841d1086620348",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "at": 1793289602.84855,
-      "priority": 2
-    },
-    {
-      "id": "48f09e096ed2a483bb89abccbb30ca057bdd198a6af18c53870c6167364b489d",
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "b4dfb3825b0b267bdb86d3026f43ddfb15a38aa76d02075e755d7a8aa7a9343b",
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "70011f883bf5f9fbc84f08c162177f8041d37d36ba4286d99b176d7b64e5306e",
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "2f8b93303bcbce9651c716a67ec3e9b7f851b5346c65d68b0d6d341671252cd3",
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "e4073a4be756a677009ad297dbb79804be8ca4b763f19148626095d249295c4f",
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "472ce8262c963489a41a6a61c20e3bbaa2e30b7819eb3179c55aaca58795dd2e",
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "e47142d6b718e14148de168806dfdad767f48f5fa487e6628030de7e6c839fc2",
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "at": 1793289602.84855,
-      "priority": 2
-    },
-    {
-      "id": "afae4d2e408d554703632b7685700445246740e15cc5e1c5ad8401d1da5c4089",
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "at": 1793289602.84855,
-      "priority": 1
-    },
-    {
-      "id": "f5213486031c78d0c6c440cb57a2536e5ae0cca459e7a425de7050b7c79d5d62",
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "at": 1793289602.84855,
-      "priority": 2
-    },
-    {
-      "id": "53dfb09ba48aa290ed270319e4fae04709722f74ba0c2f81dde8a8a752c6e156",
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "at": 1793307629.804224,
-      "priority": 1
-    },
-    {
-      "id": "cf5bc50086c5d47eb394497bdcb035b22a991e93926253d028b9359823481a28",
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "at": 1793307629.804224,
-      "priority": 2
-    },
-    {
-      "id": "4880f1e80af574a52cfc0af49f11661c8c2f9cd77e08c8867a22013d6ad44954",
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "at": 1793307629.804224,
-      "priority": 1
-    },
-    {
-      "id": "7987c47a3c2e09fd92966a454122dc39e6ed5fd03269543e2dcff23a1a835d2c",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "at": 1793307629.804224,
-      "priority": 1
-    },
-    {
-      "id": "2ea6143451829665e71b7cda5c63178c67c3b40f2db3337d4fe8adbf64c65a72",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "at": 1793307629.804224,
-      "priority": 2
-    },
-    {
-      "id": "7523da8ab24b0fb47a25c3533f78840da74148a093978f25782d64ca6e8bda71",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "at": 1793321346.831798,
-      "priority": 1
-    },
-    {
-      "id": "044075baaa296bcab8750aaea8ef847667d72b135c28147f8293685866cfcf77",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "at": 1793321346.831798,
-      "priority": 1
-    },
-    {
-      "id": "c0f9865ff4ad431f9ce45565eb835921ef6fa987664d20c061c74659b0b1ecc6",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "at": 1793321346.831798,
-      "priority": 1
-    },
-    {
-      "id": "5c883955aaa8e0fa93e7950578954641ddc57276d7d5e7a11333b9dd93c0bdff",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "at": 1793321346.831798,
-      "priority": 1
-    },
-    {
-      "id": "1563c0f08771ffdeac264bb39874d9ec7214a1b722f3bccfe1edf2d0f6c0ef9d",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "at": 1793321346.831798,
-      "priority": 1
-    },
-    {
-      "id": "0ee0c65213ef99169ef36ad8f52f452207c9b7f703878eae019f03457e453216",
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "at": 1793341998.118341,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-10-29",
+  "digest": [],
+  "last_digest": "2026-10-30",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2247,6 +2057,14 @@
     "CVE-2026-98432": {
       "score": 9.8,
       "at": 1793307646.1314166
+    },
+    "CVE-2026-14467": {
+      "score": 8.2,
+      "at": 1793367321.157213
+    },
+    "CVE-2026-97229": {
+      "score": 10.0,
+      "at": 1793367330.3282251
     }
   }
 }
