@@ -2001,7 +2001,8 @@
     "dfe9ed931e6a43a7492c782c7d0a67d1802df02ac039542bc6226876b7fc5d53": 1793386319.911379,
     "dbbd8901781f3da7037f94de0c83078f4c482f92ce514f5eb071f435217d6d4c": 1793386319.911379,
     "kev:CVE-2026-118527": 1793386319.911379,
-    "kev:CVE-2026-111357": 1793386319.911379
+    "kev:CVE-2026-111357": 1793386319.911379,
+    "9cfd183e52c4d8eb4f752f0009a38a2d4313221023d91354f018a1cce41b0b28": 1793400304.840749
   },
   "digest": [
     {
@@ -2050,6 +2051,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
       "at": 1793386319.911379,
+      "priority": 2
+    },
+    {
+      "id": "9cfd183e52c4d8eb4f752f0009a38a2d4313221023d91354f018a1cce41b0b28",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "at": 1793400304.840749,
       "priority": 2
     }
   ],
