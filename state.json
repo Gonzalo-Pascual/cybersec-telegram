@@ -1976,7 +1976,12 @@
     "7987c47a3c2e09fd92966a454122dc39e6ed5fd03269543e2dcff23a1a835d2c": 1793307629.804224,
     "2ea6143451829665e71b7cda5c63178c67c3b40f2db3337d4fe8adbf64c65a72": 1793307629.804224,
     "kev:CVE-2026-97229": 1793307629.804224,
-    "kev:CVE-2026-76418": 1793307629.804224
+    "kev:CVE-2026-76418": 1793307629.804224,
+    "7523da8ab24b0fb47a25c3533f78840da74148a093978f25782d64ca6e8bda71": 1793321346.831798,
+    "044075baaa296bcab8750aaea8ef847667d72b135c28147f8293685866cfcf77": 1793321346.831798,
+    "c0f9865ff4ad431f9ce45565eb835921ef6fa987664d20c061c74659b0b1ecc6": 1793321346.831798,
+    "5c883955aaa8e0fa93e7950578954641ddc57276d7d5e7a11333b9dd93c0bdff": 1793321346.831798,
+    "1563c0f08771ffdeac264bb39874d9ec7214a1b722f3bccfe1edf2d0f6c0ef9d": 1793321346.831798
   },
   "digest": [
     {
@@ -2130,6 +2135,46 @@
       "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "at": 1793307629.804224,
       "priority": 2
+    },
+    {
+      "id": "7523da8ab24b0fb47a25c3533f78840da74148a093978f25782d64ca6e8bda71",
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "at": 1793321346.831798,
+      "priority": 1
+    },
+    {
+      "id": "044075baaa296bcab8750aaea8ef847667d72b135c28147f8293685866cfcf77",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "at": 1793321346.831798,
+      "priority": 1
+    },
+    {
+      "id": "c0f9865ff4ad431f9ce45565eb835921ef6fa987664d20c061c74659b0b1ecc6",
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "at": 1793321346.831798,
+      "priority": 1
+    },
+    {
+      "id": "5c883955aaa8e0fa93e7950578954641ddc57276d7d5e7a11333b9dd93c0bdff",
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "at": 1793321346.831798,
+      "priority": 1
+    },
+    {
+      "id": "1563c0f08771ffdeac264bb39874d9ec7214a1b722f3bccfe1edf2d0f6c0ef9d",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "at": 1793321346.831798,
+      "priority": 1
     }
   ],
   "last_digest": "2026-10-29",
