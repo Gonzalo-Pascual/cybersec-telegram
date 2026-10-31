@@ -2009,7 +2009,9 @@
     "f7eaf3cb38fa4ea325147fb4d11265429378d3879a7cfe71af0500e18aa877a4": 1793457449.702798,
     "da2656096d4cc19dccdae8373d23f6da7a12b1bae6bf277de36dc29ee814fbf1": 1793457449.702798,
     "82ae7c05111dccd677e13a3c6690000f53ab2c70ef5ebbfcc357a67384a26824": 1793457449.702798,
-    "148aa091c9613e8c46cffe761c026845d72a4b8f346ee535569df4780fa0a93b": 1793457449.702798
+    "148aa091c9613e8c46cffe761c026845d72a4b8f346ee535569df4780fa0a93b": 1793457449.702798,
+    "e3c379cf2b6ce083797ed5014ce833f6745dfbb3830d88bb922f71babf9e1ce0": 1793472359.740982,
+    "ca84b1be3d7fa1e107b9237b54dec1f1d85b2bae960ab08e7fcad55f36433852": 1793472359.740982
   },
   "digest": [
     {
@@ -2050,6 +2052,22 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
       "at": 1793457449.702798,
+      "priority": 1
+    },
+    {
+      "id": "e3c379cf2b6ce083797ed5014ce833f6745dfbb3830d88bb922f71babf9e1ce0",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "at": 1793472359.740982,
+      "priority": 1
+    },
+    {
+      "id": "ca84b1be3d7fa1e107b9237b54dec1f1d85b2bae960ab08e7fcad55f36433852",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "at": 1793472359.740982,
       "priority": 1
     }
   ],
