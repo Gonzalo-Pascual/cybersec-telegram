@@ -2004,9 +2004,55 @@
     "kev:CVE-2026-111357": 1793386319.911379,
     "9cfd183e52c4d8eb4f752f0009a38a2d4313221023d91354f018a1cce41b0b28": 1793400304.840749,
     "e89bf3fe608c9f1facc52300bb61ed14fa58f1517a87c1614f7a8237eae9a1be": 1793434759.692284,
-    "c6bbba99031fca59ebbf5d336fd8cd17ed0e70656c0d06caca85a5929d407605": 1793434759.692284
+    "c6bbba99031fca59ebbf5d336fd8cd17ed0e70656c0d06caca85a5929d407605": 1793434759.692284,
+    "b60bddcd19cd83a57f8acab689c0f927cc101c470f451ad8ca84d8dfc992f410": 1793457449.702798,
+    "f7eaf3cb38fa4ea325147fb4d11265429378d3879a7cfe71af0500e18aa877a4": 1793457449.702798,
+    "da2656096d4cc19dccdae8373d23f6da7a12b1bae6bf277de36dc29ee814fbf1": 1793457449.702798,
+    "82ae7c05111dccd677e13a3c6690000f53ab2c70ef5ebbfcc357a67384a26824": 1793457449.702798,
+    "148aa091c9613e8c46cffe761c026845d72a4b8f346ee535569df4780fa0a93b": 1793457449.702798
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "b60bddcd19cd83a57f8acab689c0f927cc101c470f451ad8ca84d8dfc992f410",
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "at": 1793457449.702798,
+      "priority": 1
+    },
+    {
+      "id": "f7eaf3cb38fa4ea325147fb4d11265429378d3879a7cfe71af0500e18aa877a4",
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "at": 1793457449.702798,
+      "priority": 1
+    },
+    {
+      "id": "da2656096d4cc19dccdae8373d23f6da7a12b1bae6bf277de36dc29ee814fbf1",
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "at": 1793457449.702798,
+      "priority": 1
+    },
+    {
+      "id": "82ae7c05111dccd677e13a3c6690000f53ab2c70ef5ebbfcc357a67384a26824",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "at": 1793457449.702798,
+      "priority": 1
+    },
+    {
+      "id": "148aa091c9613e8c46cffe761c026845d72a4b8f346ee535569df4780fa0a93b",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "at": 1793457449.702798,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-10-31",
   "cvss_cache": {
     "CVE-2026-109619": {
