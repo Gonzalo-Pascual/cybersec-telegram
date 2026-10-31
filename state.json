@@ -2002,67 +2002,12 @@
     "dbbd8901781f3da7037f94de0c83078f4c482f92ce514f5eb071f435217d6d4c": 1793386319.911379,
     "kev:CVE-2026-118527": 1793386319.911379,
     "kev:CVE-2026-111357": 1793386319.911379,
-    "9cfd183e52c4d8eb4f752f0009a38a2d4313221023d91354f018a1cce41b0b28": 1793400304.840749
+    "9cfd183e52c4d8eb4f752f0009a38a2d4313221023d91354f018a1cce41b0b28": 1793400304.840749,
+    "e89bf3fe608c9f1facc52300bb61ed14fa58f1517a87c1614f7a8237eae9a1be": 1793434759.692284,
+    "c6bbba99031fca59ebbf5d336fd8cd17ed0e70656c0d06caca85a5929d407605": 1793434759.692284
   },
-  "digest": [
-    {
-      "id": "572b3df824e1e9f165cd57469e844d65a96644556659b0db3f2153e1bc9870a8",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "at": 1793386319.911379,
-      "priority": 1
-    },
-    {
-      "id": "3ad3d39dc8062a6841e0d3bd416d047905a9ee78449da1137efc9cbc9809f2ce",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "at": 1793386319.911379,
-      "priority": 1
-    },
-    {
-      "id": "eed8564feeb4f43d5d8fe7202ace05b77765fa5ec391b3b604986dd70e0068c6",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "at": 1793386319.911379,
-      "priority": 1
-    },
-    {
-      "id": "563b6d67ee937d56501c8bfad79a651b91c05821565ef168fd5a6db581089288",
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "at": 1793386319.911379,
-      "priority": 1
-    },
-    {
-      "id": "dfe9ed931e6a43a7492c782c7d0a67d1802df02ac039542bc6226876b7fc5d53",
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "at": 1793386319.911379,
-      "priority": 1
-    },
-    {
-      "id": "dbbd8901781f3da7037f94de0c83078f4c482f92ce514f5eb071f435217d6d4c",
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "at": 1793386319.911379,
-      "priority": 2
-    },
-    {
-      "id": "9cfd183e52c4d8eb4f752f0009a38a2d4313221023d91354f018a1cce41b0b28",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "at": 1793400304.840749,
-      "priority": 2
-    }
-  ],
-  "last_digest": "2026-10-30",
+  "digest": [],
+  "last_digest": "2026-10-31",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
