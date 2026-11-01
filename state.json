@@ -2016,7 +2016,8 @@
     "f938211d0f8822049358aef4780c4ad6cda57fdb9e85a378129da660b9475c54": 1793543030.159968,
     "f67468e6c9e93a01c925ed0fca436af75054bdca6f0d62343c8ca461a6bbdf85": 1793543030.159968,
     "f15b59df23c2d9079eca48ce6756ea88a12f2d3bdc679debaa05b022275fc98e": 1793543030.159968,
-    "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1": 1793543030.159968
+    "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1": 1793543030.159968,
+    "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2": 1793559985.994286
   },
   "digest": [
     {
@@ -2057,6 +2058,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
       "at": 1793543030.159968,
+      "priority": 2
+    },
+    {
+      "id": "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "at": 1793559985.994286,
       "priority": 2
     }
   ],
