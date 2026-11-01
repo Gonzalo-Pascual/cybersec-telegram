@@ -2011,9 +2011,55 @@
     "82ae7c05111dccd677e13a3c6690000f53ab2c70ef5ebbfcc357a67384a26824": 1793457449.702798,
     "148aa091c9613e8c46cffe761c026845d72a4b8f346ee535569df4780fa0a93b": 1793457449.702798,
     "e3c379cf2b6ce083797ed5014ce833f6745dfbb3830d88bb922f71babf9e1ce0": 1793472359.740982,
-    "ca84b1be3d7fa1e107b9237b54dec1f1d85b2bae960ab08e7fcad55f36433852": 1793472359.740982
+    "ca84b1be3d7fa1e107b9237b54dec1f1d85b2bae960ab08e7fcad55f36433852": 1793472359.740982,
+    "367ccf664e8722db30c2d9f189721e393c9ed1b83d6424909ea07d67335cf76b": 1793543030.159968,
+    "f938211d0f8822049358aef4780c4ad6cda57fdb9e85a378129da660b9475c54": 1793543030.159968,
+    "f67468e6c9e93a01c925ed0fca436af75054bdca6f0d62343c8ca461a6bbdf85": 1793543030.159968,
+    "f15b59df23c2d9079eca48ce6756ea88a12f2d3bdc679debaa05b022275fc98e": 1793543030.159968,
+    "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1": 1793543030.159968
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "367ccf664e8722db30c2d9f189721e393c9ed1b83d6424909ea07d67335cf76b",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "at": 1793543030.159968,
+      "priority": 1
+    },
+    {
+      "id": "f938211d0f8822049358aef4780c4ad6cda57fdb9e85a378129da660b9475c54",
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "at": 1793543030.159968,
+      "priority": 1
+    },
+    {
+      "id": "f67468e6c9e93a01c925ed0fca436af75054bdca6f0d62343c8ca461a6bbdf85",
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "at": 1793543030.159968,
+      "priority": 1
+    },
+    {
+      "id": "f15b59df23c2d9079eca48ce6756ea88a12f2d3bdc679debaa05b022275fc98e",
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "at": 1793543030.159968,
+      "priority": 1
+    },
+    {
+      "id": "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1",
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "at": 1793543030.159968,
+      "priority": 2
+    }
+  ],
   "last_digest": "2026-11-01",
   "cvss_cache": {
     "CVE-2026-109619": {
