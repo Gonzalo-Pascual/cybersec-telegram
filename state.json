@@ -2017,7 +2017,8 @@
     "f67468e6c9e93a01c925ed0fca436af75054bdca6f0d62343c8ca461a6bbdf85": 1793543030.159968,
     "f15b59df23c2d9079eca48ce6756ea88a12f2d3bdc679debaa05b022275fc98e": 1793543030.159968,
     "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1": 1793543030.159968,
-    "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2": 1793559985.994286
+    "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2": 1793559985.994286,
+    "dc97df5117ffcf1df96a58bc9c178cf7f341b47e7d2c1e4d6fbf9567ba4ce9e4": 1793573244.762841
   },
   "digest": [
     {
@@ -2067,6 +2068,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
       "at": 1793559985.994286,
       "priority": 2
+    },
+    {
+      "id": "dc97df5117ffcf1df96a58bc9c178cf7f341b47e7d2c1e4d6fbf9567ba4ce9e4",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "at": 1793573244.762841,
+      "priority": 1
     }
   ],
   "last_digest": "2026-11-01",
