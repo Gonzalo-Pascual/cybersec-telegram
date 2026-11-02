@@ -2019,9 +2019,154 @@
     "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1": 1793543030.159968,
     "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2": 1793559985.994286,
     "dc97df5117ffcf1df96a58bc9c178cf7f341b47e7d2c1e4d6fbf9567ba4ce9e4": 1793573244.762841,
-    "5f507373b6fb81cf7b6785c98ca9b4e170042da6e16ab5a2bd1d1652b958fbfc": 1793611128.868111
+    "5f507373b6fb81cf7b6785c98ca9b4e170042da6e16ab5a2bd1d1652b958fbfc": 1793611128.868111,
+    "b33af36cfaa4ec0fff4a401e54e07c0f2f45a21fb17b4ab6b5a183b2b693964c": 1793648242.261721,
+    "3a7c8a8b1fdcaf2430189720f5d9a03010448d64aa8fbf8d5861c44efee1c9f2": 1793648242.261721,
+    "866724b7b21075d80c3310b066c3b9b4d7e8278da679e86c1e172a32b940a634": 1793648242.261721,
+    "5992992923877de3371cf431a82a3950b0140dafff967fbfa5e8f42df388239d": 1793648242.261721,
+    "1b6b7287d1bae359db3ca676bbd9691087ccb75f5810c00d15bad156be4f73af": 1793648242.261721,
+    "9f064d800f3a23830a15d1b7803c5706a91f860032fe5231ea88b3911a3ccf78": 1793648242.261721,
+    "fa61d5a94ae03a2ac481e31f40a73b2b2472bc6952fe51c158b227d6bca8c67a": 1793648242.261721,
+    "bcd9637f2c6f1ff89ab410fe8c854bd9a1256cd22a1f19a49e7c7eb7649ca949": 1793648242.261721,
+    "a71f01d5c1f5d36c3bd1f1b561be5a2ea14bf7cbbe9afffc196cd324e3a93eaa": 1793648242.261721,
+    "0b23aca36e0f39f9fd4756ea939669ba6988087a0df47e5292a8bf8f04f74b4b": 1793648242.261721,
+    "110b64b419b02f571425e30aee312a3b653817e74455bfb7da1f96bb62060a87": 1793648242.261721,
+    "c0494132f2cc5309c9a36bfe4a93ba1de1bf5f3b3e3fcaea8ecdd884f093fea6": 1793648242.261721,
+    "100eefa76d9a04a6074b5a3b8ee8350ccffc07493fb8d766dd15661e2b2c84b0": 1793648242.261721,
+    "9eaca20beabf3675611fceb0a0e64029db31f3cac9231a28110208aa816451e8": 1793648242.261721,
+    "f182ccff5532c1d89ce6bd75390677383ce05217c9f2f7d9b2d02db95b55380d": 1793648242.261721,
+    "d01189f7a67e2296377f3ab72728e984ce4090b927a670ee21a1b2f947817155": 1793648242.261721
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "b33af36cfaa4ec0fff4a401e54e07c0f2f45a21fb17b4ab6b5a183b2b693964c",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "3a7c8a8b1fdcaf2430189720f5d9a03010448d64aa8fbf8d5861c44efee1c9f2",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "866724b7b21075d80c3310b066c3b9b4d7e8278da679e86c1e172a32b940a634",
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "5992992923877de3371cf431a82a3950b0140dafff967fbfa5e8f42df388239d",
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "1b6b7287d1bae359db3ca676bbd9691087ccb75f5810c00d15bad156be4f73af",
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "9f064d800f3a23830a15d1b7803c5706a91f860032fe5231ea88b3911a3ccf78",
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "at": 1793648242.261721,
+      "priority": 2
+    },
+    {
+      "id": "fa61d5a94ae03a2ac481e31f40a73b2b2472bc6952fe51c158b227d6bca8c67a",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "bcd9637f2c6f1ff89ab410fe8c854bd9a1256cd22a1f19a49e7c7eb7649ca949",
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "a71f01d5c1f5d36c3bd1f1b561be5a2ea14bf7cbbe9afffc196cd324e3a93eaa",
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "0b23aca36e0f39f9fd4756ea939669ba6988087a0df47e5292a8bf8f04f74b4b",
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "at": 1793648242.261721,
+      "priority": 2
+    },
+    {
+      "id": "110b64b419b02f571425e30aee312a3b653817e74455bfb7da1f96bb62060a87",
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "c0494132f2cc5309c9a36bfe4a93ba1de1bf5f3b3e3fcaea8ecdd884f093fea6",
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "100eefa76d9a04a6074b5a3b8ee8350ccffc07493fb8d766dd15661e2b2c84b0",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "9eaca20beabf3675611fceb0a0e64029db31f3cac9231a28110208aa816451e8",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "f182ccff5532c1d89ce6bd75390677383ce05217c9f2f7d9b2d02db95b55380d",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "at": 1793648242.261721,
+      "priority": 1
+    },
+    {
+      "id": "d01189f7a67e2296377f3ab72728e984ce4090b927a670ee21a1b2f947817155",
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "at": 1793648242.261721,
+      "priority": 2
+    }
+  ],
   "last_digest": "2026-11-02",
   "cvss_cache": {
     "CVE-2026-109619": {
