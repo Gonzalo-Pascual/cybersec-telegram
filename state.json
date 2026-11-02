@@ -2018,67 +2018,11 @@
     "f15b59df23c2d9079eca48ce6756ea88a12f2d3bdc679debaa05b022275fc98e": 1793543030.159968,
     "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1": 1793543030.159968,
     "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2": 1793559985.994286,
-    "dc97df5117ffcf1df96a58bc9c178cf7f341b47e7d2c1e4d6fbf9567ba4ce9e4": 1793573244.762841
+    "dc97df5117ffcf1df96a58bc9c178cf7f341b47e7d2c1e4d6fbf9567ba4ce9e4": 1793573244.762841,
+    "5f507373b6fb81cf7b6785c98ca9b4e170042da6e16ab5a2bd1d1652b958fbfc": 1793611128.868111
   },
-  "digest": [
-    {
-      "id": "367ccf664e8722db30c2d9f189721e393c9ed1b83d6424909ea07d67335cf76b",
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "at": 1793543030.159968,
-      "priority": 1
-    },
-    {
-      "id": "f938211d0f8822049358aef4780c4ad6cda57fdb9e85a378129da660b9475c54",
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "at": 1793543030.159968,
-      "priority": 1
-    },
-    {
-      "id": "f67468e6c9e93a01c925ed0fca436af75054bdca6f0d62343c8ca461a6bbdf85",
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "at": 1793543030.159968,
-      "priority": 1
-    },
-    {
-      "id": "f15b59df23c2d9079eca48ce6756ea88a12f2d3bdc679debaa05b022275fc98e",
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "at": 1793543030.159968,
-      "priority": 1
-    },
-    {
-      "id": "fefcf0126ff60bf94d9e22f0c978167152965cfee716bb38d46104c6e56aaff1",
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "at": 1793543030.159968,
-      "priority": 2
-    },
-    {
-      "id": "fa7aea8356a871f666ac638182fa0dbc4faea0accf6bdf3f7770795c59d5e3d2",
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "at": 1793559985.994286,
-      "priority": 2
-    },
-    {
-      "id": "dc97df5117ffcf1df96a58bc9c178cf7f341b47e7d2c1e4d6fbf9567ba4ce9e4",
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "at": 1793573244.762841,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-01",
+  "digest": [],
+  "last_digest": "2026-11-02",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
