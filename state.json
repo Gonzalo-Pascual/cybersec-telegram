@@ -2040,9 +2040,123 @@
     "d03269199bf3cb25e06943cf29cf51fc3eed2f1a548d651c7742ded8325ee81b": 1793695218.079878,
     "c5dc5545e748fece88d98d05a16b77cce61ac8b9daf3219e326fda6f7207d524": 1793695218.079878,
     "7bcb60eca93cb26a6b022275a6b8559d4465691ca94a5f95082c01e3d62d62cd": 1793695218.079878,
-    "97480659c6352f4a8c8f51a67d0176cc978455a441d70ca16e16693ea14e6ca1": 1793695218.079878
+    "97480659c6352f4a8c8f51a67d0176cc978455a441d70ca16e16693ea14e6ca1": 1793695218.079878,
+    "48b7fac43a9a25e2ff0f75d97e8162b25b38180042cf121bef05c41e1e2363bc": 1793723803.741854,
+    "462da2f7a3a80574d83d3c49942d48a120f3309335569397119f43a37be1e454": 1793723803.741854,
+    "7ca3b55351bb7e3dbb3abab31e025215584ce1d4af6438dc51bb5c2bbca2d338": 1793723803.741854,
+    "8ecc5e65e2861cbc2adf33835cab3423a663c79130cf5771d34faea969b641d8": 1793723803.741854,
+    "688e04e7bf6aee8b10ee1017445e4ff118c8ea7e230eb76bebda5816a85c8f59": 1793723803.741854,
+    "ca2bd2221ef58187334f9b718595aedab9d4dadea85c1d681a63e67e4e29a890": 1793723803.741854,
+    "82278564cd3ddbd2c8968f0ee1ad0f6a5b0583020e716dbb27650fed9a28aad1": 1793723803.741854,
+    "99921cb8d843e9622b9ea8ae717d1c28d7009d0cce372f20e84df72daf1f8927": 1793723803.741854,
+    "e1cc8163bfb665f9bcb08bd5c7c5aa587bb91e2849f016029401012b24b9cb53": 1793723803.741854,
+    "2c23bd3e9c585c8b1256bcf53ad69f959da060ffa9154a74cd2f8861535b32c1": 1793723803.741854,
+    "3f33e36ca761c9f708a9233f18c0f212deadba6865fd6d07890d55c19f7ce296": 1793723803.741854,
+    "c44ec5d15d333c0e98fb314d75e376a5048f1e99f626e31f55666994f3fa6262": 1793723803.741854,
+    "9488af96551c5a3dfd2d08e8525ac4cd6946e8046335c87eec6d12531cc38267": 1793723803.741854,
+    "483d04c3ad10f346afb72318fe3ee14c9e48e5d65d1444802762e0cce0903f2b": 1793723803.741854,
+    "44547058a2ff511fff7b5ad789839c3c79dfbdea32c6cec380dfa69a4247d842": 1793723803.741854,
+    "6c2f2d17db09848b5f5a15a8a70f87361d477289fdff867a22d8bc80a66c00f7": 1793723803.741854,
+    "f692f1084199b5bc315eecbc2b781af50822521584e064d36216ec79dc676631": 1793723803.741854
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "ca2bd2221ef58187334f9b718595aedab9d4dadea85c1d681a63e67e4e29a890",
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "82278564cd3ddbd2c8968f0ee1ad0f6a5b0583020e716dbb27650fed9a28aad1",
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "99921cb8d843e9622b9ea8ae717d1c28d7009d0cce372f20e84df72daf1f8927",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "e1cc8163bfb665f9bcb08bd5c7c5aa587bb91e2849f016029401012b24b9cb53",
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "2c23bd3e9c585c8b1256bcf53ad69f959da060ffa9154a74cd2f8861535b32c1",
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "3f33e36ca761c9f708a9233f18c0f212deadba6865fd6d07890d55c19f7ce296",
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "c44ec5d15d333c0e98fb314d75e376a5048f1e99f626e31f55666994f3fa6262",
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "9488af96551c5a3dfd2d08e8525ac4cd6946e8046335c87eec6d12531cc38267",
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "at": 1793723803.741854,
+      "priority": 2
+    },
+    {
+      "id": "483d04c3ad10f346afb72318fe3ee14c9e48e5d65d1444802762e0cce0903f2b",
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "at": 1793723803.741854,
+      "priority": 2
+    },
+    {
+      "id": "44547058a2ff511fff7b5ad789839c3c79dfbdea32c6cec380dfa69a4247d842",
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "6c2f2d17db09848b5f5a15a8a70f87361d477289fdff867a22d8bc80a66c00f7",
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "at": 1793723803.741854,
+      "priority": 1
+    },
+    {
+      "id": "f692f1084199b5bc315eecbc2b781af50822521584e064d36216ec79dc676631",
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "at": 1793723803.741854,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-03",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2103,7 +2217,7 @@
     },
     "CVE-2026-98432": {
       "score": 9.8,
-      "at": 1793307646.1314166
+      "at": 1793723808.2930605
     },
     "CVE-2026-14467": {
       "score": 8.2,
@@ -2116,6 +2230,14 @@
     "CVE-2026-81648": {
       "score": 10.0,
       "at": 1793695223.827691
+    },
+    "CVE-2026-119314": {
+      "score": null,
+      "at": 1793723816.4477065
+    },
+    "CVE-2026-58868": {
+      "score": null,
+      "at": 1793723823.4899945
     }
   }
 }
