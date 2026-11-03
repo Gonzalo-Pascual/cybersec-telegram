@@ -2035,7 +2035,8 @@
     "100eefa76d9a04a6074b5a3b8ee8350ccffc07493fb8d766dd15661e2b2c84b0": 1793648242.261721,
     "9eaca20beabf3675611fceb0a0e64029db31f3cac9231a28110208aa816451e8": 1793648242.261721,
     "f182ccff5532c1d89ce6bd75390677383ce05217c9f2f7d9b2d02db95b55380d": 1793648242.261721,
-    "d01189f7a67e2296377f3ab72728e984ce4090b927a670ee21a1b2f947817155": 1793648242.261721
+    "d01189f7a67e2296377f3ab72728e984ce4090b927a670ee21a1b2f947817155": 1793648242.261721,
+    "a1b448a158d30754f4af55beccfd1f113b34b20c28fcfa324f042caf2dc75756": 1793670474.309385
   },
   "digest": [
     {
@@ -2165,6 +2166,14 @@
       "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
       "at": 1793648242.261721,
       "priority": 2
+    },
+    {
+      "id": "a1b448a158d30754f4af55beccfd1f113b34b20c28fcfa324f042caf2dc75756",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "at": 1793670474.309385,
+      "priority": 1
     }
   ],
   "last_digest": "2026-11-02",
