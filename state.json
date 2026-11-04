@@ -2066,171 +2066,14 @@
     "4020f5d213be44caec20067be31ce0f96b968baf52e7cf2015b60140bcbb5b9f": 1793743221.720578,
     "e5c6a281fb54b949fcb19e3a473702919e99e29ea0a0ab02550b3eefc1516775": 1793743221.720578,
     "kev:CVE-2026-119977": 1793743221.720578,
-    "97ec4e47e104947bc5c5ad57c2b62f6cc53b1f26ede8b68533610288f398a187": 1793758206.482008
+    "97ec4e47e104947bc5c5ad57c2b62f6cc53b1f26ede8b68533610288f398a187": 1793758206.482008,
+    "df11a08a6aca49f13f7d32c21aa1a53f3dbdcc9f6e5b968ad9a63dcec1429c03": 1793783590.975947,
+    "63694852797a5fdf8e3bcf0bfec07ac55979a57f8bde66c7b7046779ff08ebae": 1793783590.975947,
+    "6b34cfde34af96cb83cc03cb716380fd0ae8a3dff3ed42328c57df171e03b746": 1793783590.975947,
+    "6b0c0f3dd553994ce0fc803e76e07d9175c2351b25dea386944036eb6a284b6c": 1793783590.975947
   },
-  "digest": [
-    {
-      "id": "ca2bd2221ef58187334f9b718595aedab9d4dadea85c1d681a63e67e4e29a890",
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "82278564cd3ddbd2c8968f0ee1ad0f6a5b0583020e716dbb27650fed9a28aad1",
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "99921cb8d843e9622b9ea8ae717d1c28d7009d0cce372f20e84df72daf1f8927",
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "e1cc8163bfb665f9bcb08bd5c7c5aa587bb91e2849f016029401012b24b9cb53",
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "2c23bd3e9c585c8b1256bcf53ad69f959da060ffa9154a74cd2f8861535b32c1",
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "3f33e36ca761c9f708a9233f18c0f212deadba6865fd6d07890d55c19f7ce296",
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "c44ec5d15d333c0e98fb314d75e376a5048f1e99f626e31f55666994f3fa6262",
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "9488af96551c5a3dfd2d08e8525ac4cd6946e8046335c87eec6d12531cc38267",
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "at": 1793723803.741854,
-      "priority": 2
-    },
-    {
-      "id": "483d04c3ad10f346afb72318fe3ee14c9e48e5d65d1444802762e0cce0903f2b",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "at": 1793723803.741854,
-      "priority": 2
-    },
-    {
-      "id": "44547058a2ff511fff7b5ad789839c3c79dfbdea32c6cec380dfa69a4247d842",
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "6c2f2d17db09848b5f5a15a8a70f87361d477289fdff867a22d8bc80a66c00f7",
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "f692f1084199b5bc315eecbc2b781af50822521584e064d36216ec79dc676631",
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "at": 1793723803.741854,
-      "priority": 1
-    },
-    {
-      "id": "92e2701b1352dfa6b55caa905e993141f524a590896455d2074dab98ca8e75be",
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "146489e6eb7621b24a89757a6dcb7a7aa03c3e571816fe986ce7ca967fc87f89",
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "0e9f35af90ed927441f70fe1cef3d29a8df025088c5d4f9fc8247e81a4b1ca9d",
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "e9f561c38ce3f55e5b4abd2c4ecc121d6959f94c8c40461542f7f6ef66b30f3a",
-      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "2faada15b754e9eb7d724aa36012791fcf6c038d9d0a78adcbcc8720cec16260",
-      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "4020f5d213be44caec20067be31ce0f96b968baf52e7cf2015b60140bcbb5b9f",
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "e5c6a281fb54b949fcb19e3a473702919e99e29ea0a0ab02550b3eefc1516775",
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "at": 1793743221.720578,
-      "priority": 1
-    },
-    {
-      "id": "97ec4e47e104947bc5c5ad57c2b62f6cc53b1f26ede8b68533610288f398a187",
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "at": 1793758206.482008,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-03",
+  "digest": [],
+  "last_digest": "2026-11-04",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2315,6 +2158,10 @@
     "CVE-2026-119977": {
       "score": 8.1,
       "at": 1793743232.5329826
+    },
+    "CVE-2026-111036": {
+      "score": null,
+      "at": 1793783597.5313969
     }
   }
 }
