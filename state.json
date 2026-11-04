@@ -2070,9 +2070,151 @@
     "df11a08a6aca49f13f7d32c21aa1a53f3dbdcc9f6e5b968ad9a63dcec1429c03": 1793783590.975947,
     "63694852797a5fdf8e3bcf0bfec07ac55979a57f8bde66c7b7046779ff08ebae": 1793783590.975947,
     "6b34cfde34af96cb83cc03cb716380fd0ae8a3dff3ed42328c57df171e03b746": 1793783590.975947,
-    "6b0c0f3dd553994ce0fc803e76e07d9175c2351b25dea386944036eb6a284b6c": 1793783590.975947
+    "6b0c0f3dd553994ce0fc803e76e07d9175c2351b25dea386944036eb6a284b6c": 1793783590.975947,
+    "d68f62691a0e8145eca4e7964c0d09e7b43f60ee0a903ae8a47deb0c7ff965a5": 1793812982.255794,
+    "53a38ba8327f55f39acb008427f670cb1458b9829a0cee99f4f7c288fd1f171b": 1793812982.255794,
+    "9dbd5f374520a2d4f808ffeda104a592ac60d236c63fe6f4f890de677f53619c": 1793812982.255794,
+    "86be6b3e89deff415a947aa3edb8152aac6fbb369337977db3252b87021e752c": 1793812982.255794,
+    "54f7ae54e03f1b5d16ab682298a8afcc4d8e28980d3a696d56caa887413489be": 1793812982.255794,
+    "b59710b7d82fe8335313d75a8f733e48deadcc25fb37e4f9e82605e1095fa860": 1793812982.255794,
+    "6a53e0a2ef396e6c41b63e1bdb32a75aaf12126a97a482e3d9acb5f8626940b1": 1793812982.255794,
+    "33bb65e81c9b849a203650954ef33b7c0449de7177539917b5d420e58ce9a02e": 1793812982.255794,
+    "aa3d0e59493e01165548049e4df1d22b6936808e53cdc0c178f6f2f200ea5d57": 1793812982.255794,
+    "8a1f0df4147418f128703e0046ff512061892c0176030ca6268cd52827f4cba6": 1793812982.255794,
+    "336fdd0ba4bf9a1889747cbe82f544202f829af0f41814be66c6e310117f98f2": 1793812982.255794,
+    "59578996ae5b24d44dd170347aa9cb2845c2293988bf79fef384114d968d4b66": 1793812982.255794,
+    "b3e205abb52833c8f570108b07fd85b08b7642c5691f13995419a325a8da8c95": 1793812982.255794,
+    "ca57a8eee17bd169075a15fac84e663ec3d66b379638f1c199d5dca8face32bb": 1793812982.255794,
+    "390d00998282055f943a1ee2a1122c8b76fbe08cfd5c7956dba6c5bca5eb4eaf": 1793812982.255794,
+    "d7423e7b87f24c1bfe801e1a6489a4bc23c719541bcaf4def8345dfacec6aec2": 1793812982.255794,
+    "9d42f19950f41d4012c6d7a1b38498a4d555de042f00fe1fa2f4bdff2b64144f": 1793812982.255794,
+    "c1c67408ccb25fcaa637d91b71a920f3fbdf95e2c54b9777d8b761923dd30a07": 1793812982.255794,
+    "c8ee375949c06833466752466fc9f30114efafa5a0eb085b81da8a61a8ef1800": 1793812982.255794,
+    "c2e429eadbca0162158aa319f7752f8a0b0df456c4e3860547f44dca23e94e55": 1793812982.255794,
+    "6813a52bb7f82a5eb5db59e1c5393159a0824763cbf39a991bd524cfbfc95482": 1793812982.255794
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "6a53e0a2ef396e6c41b63e1bdb32a75aaf12126a97a482e3d9acb5f8626940b1",
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "33bb65e81c9b849a203650954ef33b7c0449de7177539917b5d420e58ce9a02e",
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "aa3d0e59493e01165548049e4df1d22b6936808e53cdc0c178f6f2f200ea5d57",
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "8a1f0df4147418f128703e0046ff512061892c0176030ca6268cd52827f4cba6",
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "336fdd0ba4bf9a1889747cbe82f544202f829af0f41814be66c6e310117f98f2",
+      "title": "US charges two Canadians accused of hacking US universities",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "59578996ae5b24d44dd170347aa9cb2845c2293988bf79fef384114d968d4b66",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "at": 1793812982.255794,
+      "priority": 2
+    },
+    {
+      "id": "b3e205abb52833c8f570108b07fd85b08b7642c5691f13995419a325a8da8c95",
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "ca57a8eee17bd169075a15fac84e663ec3d66b379638f1c199d5dca8face32bb",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "at": 1793812982.255794,
+      "priority": 2
+    },
+    {
+      "id": "390d00998282055f943a1ee2a1122c8b76fbe08cfd5c7956dba6c5bca5eb4eaf",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "d7423e7b87f24c1bfe801e1a6489a4bc23c719541bcaf4def8345dfacec6aec2",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "9d42f19950f41d4012c6d7a1b38498a4d555de042f00fe1fa2f4bdff2b64144f",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "c1c67408ccb25fcaa637d91b71a920f3fbdf95e2c54b9777d8b761923dd30a07",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "c8ee375949c06833466752466fc9f30114efafa5a0eb085b81da8a61a8ef1800",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "c2e429eadbca0162158aa319f7752f8a0b0df456c4e3860547f44dca23e94e55",
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "at": 1793812982.255794,
+      "priority": 1
+    },
+    {
+      "id": "6813a52bb7f82a5eb5db59e1c5393159a0824763cbf39a991bd524cfbfc95482",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "at": 1793812982.255794,
+      "priority": 2
+    }
+  ],
   "last_digest": "2026-11-04",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2093,7 +2235,7 @@
     },
     "CVE-2026-111497": {
       "score": 9.2,
-      "at": 1793289617.6938426
+      "at": 1793812986.3508458
     },
     "CVE-2026-4337": {
       "score": null,
@@ -2133,7 +2275,7 @@
     },
     "CVE-2026-98432": {
       "score": 9.8,
-      "at": 1793723808.2930605
+      "at": 1793812994.939282
     },
     "CVE-2026-14467": {
       "score": 8.2,
@@ -2162,6 +2304,10 @@
     "CVE-2026-111036": {
       "score": null,
       "at": 1793783597.5313969
+    },
+    "CVE-2026-109593": {
+      "score": 9.1,
+      "at": 1793813003.299258
     }
   }
 }
