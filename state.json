@@ -2065,7 +2065,8 @@
     "2faada15b754e9eb7d724aa36012791fcf6c038d9d0a78adcbcc8720cec16260": 1793743221.720578,
     "4020f5d213be44caec20067be31ce0f96b968baf52e7cf2015b60140bcbb5b9f": 1793743221.720578,
     "e5c6a281fb54b949fcb19e3a473702919e99e29ea0a0ab02550b3eefc1516775": 1793743221.720578,
-    "kev:CVE-2026-119977": 1793743221.720578
+    "kev:CVE-2026-119977": 1793743221.720578,
+    "97ec4e47e104947bc5c5ad57c2b62f6cc53b1f26ede8b68533610288f398a187": 1793758206.482008
   },
   "digest": [
     {
@@ -2218,6 +2219,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
       "at": 1793743221.720578,
+      "priority": 1
+    },
+    {
+      "id": "97ec4e47e104947bc5c5ad57c2b62f6cc53b1f26ede8b68533610288f398a187",
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "at": 1793758206.482008,
       "priority": 1
     }
   ],
