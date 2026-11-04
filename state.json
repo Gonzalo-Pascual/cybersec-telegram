@@ -2091,7 +2091,12 @@
     "c1c67408ccb25fcaa637d91b71a920f3fbdf95e2c54b9777d8b761923dd30a07": 1793812982.255794,
     "c8ee375949c06833466752466fc9f30114efafa5a0eb085b81da8a61a8ef1800": 1793812982.255794,
     "c2e429eadbca0162158aa319f7752f8a0b0df456c4e3860547f44dca23e94e55": 1793812982.255794,
-    "6813a52bb7f82a5eb5db59e1c5393159a0824763cbf39a991bd524cfbfc95482": 1793812982.255794
+    "6813a52bb7f82a5eb5db59e1c5393159a0824763cbf39a991bd524cfbfc95482": 1793812982.255794,
+    "67cffa8976cb34ca6b43adedb8d623f741656040f8b6cdd7f92b2093d9ac794f": 1793832269.335734,
+    "1ad6b269bea9f9df0286cf053ef0665b956f8bcde97559d6161246721dd909e7": 1793832269.335734,
+    "f4acdb037668b7fa36a39222ce05d7c31d7adbbeefc1e747ef49e76541d96229": 1793832269.335734,
+    "ff8385f7f9f3d51be9182a0aaeaf86012d639c85cc567892617ec0804f1b5557": 1793832269.335734,
+    "kev:CVE-2024-27834": 1793832269.335734
   },
   "digest": [
     {
@@ -2213,6 +2218,38 @@
       "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
       "at": 1793812982.255794,
       "priority": 2
+    },
+    {
+      "id": "67cffa8976cb34ca6b43adedb8d623f741656040f8b6cdd7f92b2093d9ac794f",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "at": 1793832269.335734,
+      "priority": 1
+    },
+    {
+      "id": "1ad6b269bea9f9df0286cf053ef0665b956f8bcde97559d6161246721dd909e7",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "at": 1793832269.335734,
+      "priority": 1
+    },
+    {
+      "id": "f4acdb037668b7fa36a39222ce05d7c31d7adbbeefc1e747ef49e76541d96229",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "at": 1793832269.335734,
+      "priority": 1
+    },
+    {
+      "id": "ff8385f7f9f3d51be9182a0aaeaf86012d639c85cc567892617ec0804f1b5557",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "at": 1793832269.335734,
+      "priority": 1
     }
   ],
   "last_digest": "2026-11-04",
