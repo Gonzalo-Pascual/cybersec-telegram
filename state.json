@@ -2096,163 +2096,18 @@
     "1ad6b269bea9f9df0286cf053ef0665b956f8bcde97559d6161246721dd909e7": 1793832269.335734,
     "f4acdb037668b7fa36a39222ce05d7c31d7adbbeefc1e747ef49e76541d96229": 1793832269.335734,
     "ff8385f7f9f3d51be9182a0aaeaf86012d639c85cc567892617ec0804f1b5557": 1793832269.335734,
-    "kev:CVE-2024-27834": 1793832269.335734
+    "kev:CVE-2024-27834": 1793832269.335734,
+    "3848d361a8b196725fc4a0b0a542201189ff7565e2cc6e0b39a078f3a1803812": 1793875286.421558,
+    "83373ec458268393a48fda046cd43152ea65e02a49c0013e1821a7bb1f123a74": 1793875286.421558,
+    "1861b0299a6c93a881d9fc216bf7eda29a7d48a119402ef08d93d0b8ee7bdf01": 1793875286.421558,
+    "4cc1ff420bce10defc4790fe9f5f47f95f2e8fe66faf07bb627071495d9c0890": 1793875286.421558,
+    "18c2f526904fd61698c22f4670435fdb91c8307bd19eb4cd2f27171924b27ca8": 1793875286.421558,
+    "a87fc9d207488d15198087d9cb8b219a55bf2057d9c4a3595c6d80f0f4457c68": 1793875286.421558,
+    "5fbca8b09cf824769ec58b43a4cbc0b356ca3b8dd27cf17ae390fcc0234a2150": 1793875286.421558,
+    "a11de597839d522e57e3f0771510866730e87bb56ae556d27b3bff1c58e41d5a": 1793875286.421558
   },
-  "digest": [
-    {
-      "id": "6a53e0a2ef396e6c41b63e1bdb32a75aaf12126a97a482e3d9acb5f8626940b1",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "33bb65e81c9b849a203650954ef33b7c0449de7177539917b5d420e58ce9a02e",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "aa3d0e59493e01165548049e4df1d22b6936808e53cdc0c178f6f2f200ea5d57",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "8a1f0df4147418f128703e0046ff512061892c0176030ca6268cd52827f4cba6",
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "336fdd0ba4bf9a1889747cbe82f544202f829af0f41814be66c6e310117f98f2",
-      "title": "US charges two Canadians accused of hacking US universities",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "59578996ae5b24d44dd170347aa9cb2845c2293988bf79fef384114d968d4b66",
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "at": 1793812982.255794,
-      "priority": 2
-    },
-    {
-      "id": "b3e205abb52833c8f570108b07fd85b08b7642c5691f13995419a325a8da8c95",
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "ca57a8eee17bd169075a15fac84e663ec3d66b379638f1c199d5dca8face32bb",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "at": 1793812982.255794,
-      "priority": 2
-    },
-    {
-      "id": "390d00998282055f943a1ee2a1122c8b76fbe08cfd5c7956dba6c5bca5eb4eaf",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "d7423e7b87f24c1bfe801e1a6489a4bc23c719541bcaf4def8345dfacec6aec2",
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "9d42f19950f41d4012c6d7a1b38498a4d555de042f00fe1fa2f4bdff2b64144f",
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "c1c67408ccb25fcaa637d91b71a920f3fbdf95e2c54b9777d8b761923dd30a07",
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "c8ee375949c06833466752466fc9f30114efafa5a0eb085b81da8a61a8ef1800",
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "c2e429eadbca0162158aa319f7752f8a0b0df456c4e3860547f44dca23e94e55",
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "at": 1793812982.255794,
-      "priority": 1
-    },
-    {
-      "id": "6813a52bb7f82a5eb5db59e1c5393159a0824763cbf39a991bd524cfbfc95482",
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "at": 1793812982.255794,
-      "priority": 2
-    },
-    {
-      "id": "67cffa8976cb34ca6b43adedb8d623f741656040f8b6cdd7f92b2093d9ac794f",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "at": 1793832269.335734,
-      "priority": 1
-    },
-    {
-      "id": "1ad6b269bea9f9df0286cf053ef0665b956f8bcde97559d6161246721dd909e7",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "at": 1793832269.335734,
-      "priority": 1
-    },
-    {
-      "id": "f4acdb037668b7fa36a39222ce05d7c31d7adbbeefc1e747ef49e76541d96229",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "at": 1793832269.335734,
-      "priority": 1
-    },
-    {
-      "id": "ff8385f7f9f3d51be9182a0aaeaf86012d639c85cc567892617ec0804f1b5557",
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "at": 1793832269.335734,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-04",
+  "digest": [],
+  "last_digest": "2026-11-05",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2345,6 +2200,14 @@
     "CVE-2026-109593": {
       "score": 9.1,
       "at": 1793813003.299258
+    },
+    "CVE-2026-111489": {
+      "score": null,
+      "at": 1793875290.5862885
+    },
+    "CVE-2026-121639": {
+      "score": 9.2,
+      "at": 1793875297.816105
     }
   }
 }
