@@ -2111,7 +2111,12 @@
     "6184df30ed4cccc866a7623802fc7ea9b228a96eb07a89e2fbbe4ef59837b7da": 1793902661.706363,
     "4adbbf69dab1dacf0e6766add50fdfe93bb464409f5ebe4bb418e62582e54c44": 1793902661.706363,
     "4faeed86c24cebbce846f7dce2688dae383c0a4ed50d9188afca2f7870b9b881": 1793902661.706363,
-    "22f058349583746f1caaff452593c0fd2bd1dae1350f097c61ff2c265141ce0b": 1793902661.706363
+    "22f058349583746f1caaff452593c0fd2bd1dae1350f097c61ff2c265141ce0b": 1793902661.706363,
+    "05494616ac5e9859fafadf842c6e1994c0b37143dde6b6705c31c2136b7ce1aa": 1793922222.62795,
+    "7eb3ac58512c97a86e0ca4a84351e693238e6b47c563da27a3a13d747dc8fc13": 1793922222.62795,
+    "78346d90c5af98a1ca58d0d5b657e3d5a7384777b263af104dda4a3b7692513a": 1793922222.62795,
+    "a1e93c7cd86c279247458452c57fae339a9d4835d934306b98f6ce975fd4ccb4": 1793922222.62795,
+    "72152210d8a9a5387866a82668b73d84eb65e2d5c715278e353644c682b1d44b": 1793922222.62795
   },
   "digest": [
     {
@@ -2168,6 +2173,46 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
       "at": 1793902661.706363,
+      "priority": 1
+    },
+    {
+      "id": "05494616ac5e9859fafadf842c6e1994c0b37143dde6b6705c31c2136b7ce1aa",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "at": 1793922222.62795,
+      "priority": 1
+    },
+    {
+      "id": "7eb3ac58512c97a86e0ca4a84351e693238e6b47c563da27a3a13d747dc8fc13",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "at": 1793922222.62795,
+      "priority": 1
+    },
+    {
+      "id": "78346d90c5af98a1ca58d0d5b657e3d5a7384777b263af104dda4a3b7692513a",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "at": 1793922222.62795,
+      "priority": 1
+    },
+    {
+      "id": "a1e93c7cd86c279247458452c57fae339a9d4835d934306b98f6ce975fd4ccb4",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "at": 1793922222.62795,
+      "priority": 2
+    },
+    {
+      "id": "72152210d8a9a5387866a82668b73d84eb65e2d5c715278e353644c682b1d44b",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "at": 1793922222.62795,
       "priority": 1
     }
   ],
