@@ -2104,9 +2104,73 @@
     "18c2f526904fd61698c22f4670435fdb91c8307bd19eb4cd2f27171924b27ca8": 1793875286.421558,
     "a87fc9d207488d15198087d9cb8b219a55bf2057d9c4a3595c6d80f0f4457c68": 1793875286.421558,
     "5fbca8b09cf824769ec58b43a4cbc0b356ca3b8dd27cf17ae390fcc0234a2150": 1793875286.421558,
-    "a11de597839d522e57e3f0771510866730e87bb56ae556d27b3bff1c58e41d5a": 1793875286.421558
+    "a11de597839d522e57e3f0771510866730e87bb56ae556d27b3bff1c58e41d5a": 1793875286.421558,
+    "7f6c9ec8ce102deba789713cf8f273571484ea7a4744d3aa8a71ef9b6ef36de4": 1793902661.706363,
+    "0da7c5ff7bd49c98a05cdbbe387ff1759254178a98937490b0de4939bcff74f0": 1793902661.706363,
+    "5a81a8b9fb326deced86433b06ce5257140bc81b61eea3dbc387f6dc67ea7583": 1793902661.706363,
+    "6184df30ed4cccc866a7623802fc7ea9b228a96eb07a89e2fbbe4ef59837b7da": 1793902661.706363,
+    "4adbbf69dab1dacf0e6766add50fdfe93bb464409f5ebe4bb418e62582e54c44": 1793902661.706363,
+    "4faeed86c24cebbce846f7dce2688dae383c0a4ed50d9188afca2f7870b9b881": 1793902661.706363,
+    "22f058349583746f1caaff452593c0fd2bd1dae1350f097c61ff2c265141ce0b": 1793902661.706363
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "7f6c9ec8ce102deba789713cf8f273571484ea7a4744d3aa8a71ef9b6ef36de4",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "at": 1793902661.706363,
+      "priority": 2
+    },
+    {
+      "id": "0da7c5ff7bd49c98a05cdbbe387ff1759254178a98937490b0de4939bcff74f0",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "at": 1793902661.706363,
+      "priority": 2
+    },
+    {
+      "id": "5a81a8b9fb326deced86433b06ce5257140bc81b61eea3dbc387f6dc67ea7583",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "at": 1793902661.706363,
+      "priority": 1
+    },
+    {
+      "id": "6184df30ed4cccc866a7623802fc7ea9b228a96eb07a89e2fbbe4ef59837b7da",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "at": 1793902661.706363,
+      "priority": 1
+    },
+    {
+      "id": "4adbbf69dab1dacf0e6766add50fdfe93bb464409f5ebe4bb418e62582e54c44",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "at": 1793902661.706363,
+      "priority": 2
+    },
+    {
+      "id": "4faeed86c24cebbce846f7dce2688dae383c0a4ed50d9188afca2f7870b9b881",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "at": 1793902661.706363,
+      "priority": 1
+    },
+    {
+      "id": "22f058349583746f1caaff452593c0fd2bd1dae1350f097c61ff2c265141ce0b",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "at": 1793902661.706363,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-05",
   "cvss_cache": {
     "CVE-2026-109619": {
