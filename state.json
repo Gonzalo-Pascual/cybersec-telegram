@@ -2135,7 +2135,11 @@
     "2aa966969b06fe68e5432ddbb6a39370dc7eee771dc4aa2c1ab9aa25ae891a50": 1793989733.623604,
     "09c314af04b347d8e9321955d1d967b8b32ba085077568528c871aab57ec5744": 1793989733.623604,
     "6247bb3ddeaaa63e645b760b34916dccf7c5c89e6056a06466a1ce66c3d71b0f": 1793989733.623604,
-    "b25871f48a81fe63d0c324b451bf1ee958edd1a1256fb1bd6c519270e53e225f": 1793989733.623604
+    "b25871f48a81fe63d0c324b451bf1ee958edd1a1256fb1bd6c519270e53e225f": 1793989733.623604,
+    "19779c40ba34b890e4ca8cf58430a87396cdf7d93c0a833e64298de50206cba1": 1794007637.812345,
+    "4ad3ed8f1adc13840b37eebe6dd7719f20bafa5fe9e0e929e0db0c6b4e08ecd7": 1794007637.812345,
+    "e19a946b3ffce5868fd068885305f2c1fe0fe4159810254c25d05b6dde4037d1": 1794007637.812345,
+    "kev:CVE-2026-19868": 1794007637.812345
   },
   "digest": [
     {
@@ -2216,6 +2220,30 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
       "at": 1793989733.623604,
+      "priority": 1
+    },
+    {
+      "id": "19779c40ba34b890e4ca8cf58430a87396cdf7d93c0a833e64298de50206cba1",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "at": 1794007637.812345,
+      "priority": 1
+    },
+    {
+      "id": "4ad3ed8f1adc13840b37eebe6dd7719f20bafa5fe9e0e929e0db0c6b4e08ecd7",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "at": 1794007637.812345,
+      "priority": 2
+    },
+    {
+      "id": "e19a946b3ffce5868fd068885305f2c1fe0fe4159810254c25d05b6dde4037d1",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "at": 1794007637.812345,
       "priority": 1
     }
   ],
