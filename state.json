@@ -2116,7 +2116,8 @@
     "7eb3ac58512c97a86e0ca4a84351e693238e6b47c563da27a3a13d747dc8fc13": 1793922222.62795,
     "78346d90c5af98a1ca58d0d5b657e3d5a7384777b263af104dda4a3b7692513a": 1793922222.62795,
     "a1e93c7cd86c279247458452c57fae339a9d4835d934306b98f6ce975fd4ccb4": 1793922222.62795,
-    "72152210d8a9a5387866a82668b73d84eb65e2d5c715278e353644c682b1d44b": 1793922222.62795
+    "72152210d8a9a5387866a82668b73d84eb65e2d5c715278e353644c682b1d44b": 1793922222.62795,
+    "39db3482a6f50bbcdab928e13b324b887a7ccf1d4f6bf72584ceb494654f7f03": 1793936647.715653
   },
   "digest": [
     {
@@ -2213,6 +2214,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
       "at": 1793922222.62795,
+      "priority": 1
+    },
+    {
+      "id": "39db3482a6f50bbcdab928e13b324b887a7ccf1d4f6bf72584ceb494654f7f03",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "at": 1793936647.715653,
       "priority": 1
     }
   ],
