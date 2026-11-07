@@ -2139,7 +2139,8 @@
     "19779c40ba34b890e4ca8cf58430a87396cdf7d93c0a833e64298de50206cba1": 1794007637.812345,
     "4ad3ed8f1adc13840b37eebe6dd7719f20bafa5fe9e0e929e0db0c6b4e08ecd7": 1794007637.812345,
     "e19a946b3ffce5868fd068885305f2c1fe0fe4159810254c25d05b6dde4037d1": 1794007637.812345,
-    "kev:CVE-2026-19868": 1794007637.812345
+    "kev:CVE-2026-19868": 1794007637.812345,
+    "8a0dfa4695f609ef0b934bfe8290633a3213b8bcdf0d0a572786381c9c3ba942": 1794020765.733356
   },
   "digest": [
     {
@@ -2244,6 +2245,14 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
       "at": 1794007637.812345,
+      "priority": 1
+    },
+    {
+      "id": "8a0dfa4695f609ef0b934bfe8290633a3213b8bcdf0d0a572786381c9c3ba942",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "at": 1794020765.733356,
       "priority": 1
     }
   ],
