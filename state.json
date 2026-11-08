@@ -2143,9 +2143,19 @@
     "8a0dfa4695f609ef0b934bfe8290633a3213b8bcdf0d0a572786381c9c3ba942": 1794020765.733356,
     "4a69f136ccf95a670724bcd3cb04f1de04e155e8d93a34a3895cb3b6553ac1c2": 1794045782.286529,
     "1f2570362aaba21966690c303f804b2b64018e7109dc5335bfc23222dda3c4fb": 1794068516.597682,
-    "8ba868fddc457555f5eef98b73151eb8aa0965df4f6a8fbd44b57c2ae339a2c1": 1794068516.597682
+    "8ba868fddc457555f5eef98b73151eb8aa0965df4f6a8fbd44b57c2ae339a2c1": 1794068516.597682,
+    "acfd890e46ee17707313b87e77d727373602d45665fcb0b4963ecbf2f95f327c": 1794154813.080608
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "acfd890e46ee17707313b87e77d727373602d45665fcb0b4963ecbf2f95f327c",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "at": 1794154813.080608,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-08",
   "cvss_cache": {
     "CVE-2026-109619": {
