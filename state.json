@@ -2145,27 +2145,26 @@
     "1f2570362aaba21966690c303f804b2b64018e7109dc5335bfc23222dda3c4fb": 1794068516.597682,
     "8ba868fddc457555f5eef98b73151eb8aa0965df4f6a8fbd44b57c2ae339a2c1": 1794068516.597682,
     "acfd890e46ee17707313b87e77d727373602d45665fcb0b4963ecbf2f95f327c": 1794154813.080608,
-    "d8e188b81758a7714503b3b0ab346b711ddf2e191d9cfea63287417c40e054c9": 1794204438.837589
+    "d8e188b81758a7714503b3b0ab346b711ddf2e191d9cfea63287417c40e054c9": 1794204438.837589,
+    "7c90f706a622d8e4ab30886d28681d99144441e5f9cf09d6677ef2376ea2d296": 1794240817.272425,
+    "29ac548a84e13280074cd80ac32a3bc227b194fe85b69c930ca39e8e19e34142": 1794240817.272425,
+    "0ae9d1fc881b366ef8512fac9e77c2cf24b657ac37fbfde58525ea99367cf3bc": 1794240817.272425,
+    "5590852c94bcb2255e1f64a15d5309e5ff3e58768236c3e5a14591d7c39159fe": 1794240817.272425,
+    "0ee313b39173c7debcf534b75092693ba5460828578543ce10650023249286e5": 1794240817.272425,
+    "09f73e7151ec9f58c8867c9184117d95d15b4e51b46f5ba21088998aa1ee41ec": 1794240817.272425,
+    "701b5586b380b224002935c2ec7a0d7cea888b5aaf4f1b1c5e8f90fbde066c85": 1794240817.272425,
+    "621dadc064276a2b593f8face5f5f68489c9180fa0d83a66c9bbe7edbaf946b9": 1794240817.272425,
+    "1ea0b30eec4bc71af54d8b0fd9cadc8547d2eff24097438747af36f883b3aaea": 1794240817.272425,
+    "264e9e2d352f439b22561e39c3d3fb119456335913a41b8704a4b5c8a49c82b3": 1794240817.272425,
+    "d091cb0375eb4236ce79cceb073e4696fcb8ec6d7d946c68aee16fd154bb6305": 1794240817.272425,
+    "3151afb00c942d72769722360ecae26f021ae6fe7991045778cb862595b6cc29": 1794240817.272425,
+    "51d34498afca76c721dea4852f4b2997b117310ee803f0fa5bdd1c32695282e8": 1794240817.272425,
+    "a082da6160ec9c55e15c83cca249ba9afa44bcc4a91a86d97768cbaf1236580e": 1794240817.272425,
+    "62fe27b4e227d1852b8321532b5b4a79bc8a4c0595b632d60af68835fb6fcf51": 1794240817.272425,
+    "28bdf6db6c62498b38511faa468d569cfc1ae5a9af405ee72b53dedc2e0df6b5": 1794240817.272425
   },
-  "digest": [
-    {
-      "id": "acfd890e46ee17707313b87e77d727373602d45665fcb0b4963ecbf2f95f327c",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "at": 1794154813.080608,
-      "priority": 1
-    },
-    {
-      "id": "d8e188b81758a7714503b3b0ab346b711ddf2e191d9cfea63287417c40e054c9",
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "at": 1794204438.837589,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-08",
+  "digest": [],
+  "last_digest": "2026-11-09",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2269,7 +2268,7 @@
     },
     "CVE-2026-123158": {
       "score": 8.1,
-      "at": 1793965071.9206061
+      "at": 1794240844.6232126
     },
     "CVE-2026-123087": {
       "score": 8.7,
@@ -2278,6 +2277,14 @@
     "CVE-2026-83844": {
       "score": 8.1,
       "at": 1793989744.6518745
+    },
+    "CVE-2026-19868": {
+      "score": 7.5,
+      "at": 1794240829.6370542
+    },
+    "CVE-2026-124637": {
+      "score": 5.3,
+      "at": 1794240837.1298125
     }
   }
 }
