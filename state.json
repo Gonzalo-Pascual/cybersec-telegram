@@ -2144,7 +2144,8 @@
     "4a69f136ccf95a670724bcd3cb04f1de04e155e8d93a34a3895cb3b6553ac1c2": 1794045782.286529,
     "1f2570362aaba21966690c303f804b2b64018e7109dc5335bfc23222dda3c4fb": 1794068516.597682,
     "8ba868fddc457555f5eef98b73151eb8aa0965df4f6a8fbd44b57c2ae339a2c1": 1794068516.597682,
-    "acfd890e46ee17707313b87e77d727373602d45665fcb0b4963ecbf2f95f327c": 1794154813.080608
+    "acfd890e46ee17707313b87e77d727373602d45665fcb0b4963ecbf2f95f327c": 1794154813.080608,
+    "d8e188b81758a7714503b3b0ab346b711ddf2e191d9cfea63287417c40e054c9": 1794204438.837589
   },
   "digest": [
     {
@@ -2153,6 +2154,14 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "at": 1794154813.080608,
+      "priority": 1
+    },
+    {
+      "id": "d8e188b81758a7714503b3b0ab346b711ddf2e191d9cfea63287417c40e054c9",
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "at": 1794204438.837589,
       "priority": 1
     }
   ],
