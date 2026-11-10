@@ -2189,7 +2189,27 @@
     "136a1c6b52ea2ec5304d31039ba1f76b8f9c02d4affaa62b62d86fc2002d8272": 1794325515.870536,
     "265e839e47ba3a0a46ad86b2108d60c43adc4b9f9f4927e719d435fe7fb8f0d1": 1794325515.870536,
     "b5c58c3ce20a58dd40180fe49bc5df0c93d86f70f7d83cb8337337a563076d02": 1794325515.870536,
-    "8260fef89d137cdf780a0807756b28cc7bcf4c36a54f5c70ed3f3a5922d2bd57": 1794325515.870536
+    "8260fef89d137cdf780a0807756b28cc7bcf4c36a54f5c70ed3f3a5922d2bd57": 1794325515.870536,
+    "f4a4022a3bf7c9e91d1917ff664a30eb3ce6618399b23b801525ac57c9dfbb69": 1794346095.805769,
+    "f9eed27d7f085cd19488129ae3b6f94489d0e3cfcd591fc962ece862fb317f53": 1794346095.805769,
+    "fa065f176ae2bf786a1657bc53ad667acd7729041dc29dc67f753df9a3106ae6": 1794346095.805769,
+    "d70d37822e28f058bb4f035590bad0a65f910e2f11125b27a17ac249e16a2444": 1794346095.805769,
+    "d0f5269df8fb977f02da413d4652cee1a37618d06fe812404b2dc95c51cfbb96": 1794346095.805769,
+    "f6254c1ebdbe585f455dfbd4da3989313a86557774ff520f50f551e3fea34030": 1794346095.805769,
+    "3413d07ad45d069665e646f1713962842a1b437d30a8bd9cdff6a7b196a51850": 1794346095.805769,
+    "b9bb61c3aba463e4742c94c992be049abb3f1b03513a33c16e0f368b1b82301c": 1794346095.805769,
+    "5ed0daa54edc4c741e1ca1a69bf749311c0ce7b09b4bfd37d4edb4bd18d39707": 1794346095.805769,
+    "e0eec9dd5fe5a15633f6412d24a89284266af5b452e078b1cab3e347e3334382": 1794346095.805769,
+    "6855438b285839403cb949eb5cd1a60825f33e962f17d9e0d5cb6c2469d096a5": 1794346095.805769,
+    "ea3ef86c904cfc360610429d79f0aaaaae3721c8480fae2971b007efdb288d68": 1794346095.805769,
+    "3c41136bdf10072d5884ccf662eb7f1ef07b24a88b855496fecf1ac96ab90891": 1794346095.805769,
+    "e990eeaa0528a2e862d17ff7a06b5d9741016f458a6b10c5eec0ea000045ce9f": 1794346095.805769,
+    "kev:CVE-2026-124194": 1794346095.805769,
+    "kev:CVE-2026-111793": 1794346095.805769,
+    "kev:CVE-2026-20320": 1794346095.805769,
+    "kev:CVE-2026-111560": 1794346095.805769,
+    "kev:CVE-2026-116606": 1794346095.805769,
+    "kev:CVE-2026-125350": 1794346095.805769
   },
   "digest": [
     {
@@ -2294,6 +2314,118 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
       "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "f4a4022a3bf7c9e91d1917ff664a30eb3ce6618399b23b801525ac57c9dfbb69",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "f9eed27d7f085cd19488129ae3b6f94489d0e3cfcd591fc962ece862fb317f53",
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "at": 1794346095.805769,
+      "priority": 2
+    },
+    {
+      "id": "fa065f176ae2bf786a1657bc53ad667acd7729041dc29dc67f753df9a3106ae6",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "d70d37822e28f058bb4f035590bad0a65f910e2f11125b27a17ac249e16a2444",
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "d0f5269df8fb977f02da413d4652cee1a37618d06fe812404b2dc95c51cfbb96",
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "at": 1794346095.805769,
+      "priority": 2
+    },
+    {
+      "id": "f6254c1ebdbe585f455dfbd4da3989313a86557774ff520f50f551e3fea34030",
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "3413d07ad45d069665e646f1713962842a1b437d30a8bd9cdff6a7b196a51850",
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "b9bb61c3aba463e4742c94c992be049abb3f1b03513a33c16e0f368b1b82301c",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "5ed0daa54edc4c741e1ca1a69bf749311c0ce7b09b4bfd37d4edb4bd18d39707",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "e0eec9dd5fe5a15633f6412d24a89284266af5b452e078b1cab3e347e3334382",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "6855438b285839403cb949eb5cd1a60825f33e962f17d9e0d5cb6c2469d096a5",
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "ea3ef86c904cfc360610429d79f0aaaaae3721c8480fae2971b007efdb288d68",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "3c41136bdf10072d5884ccf662eb7f1ef07b24a88b855496fecf1ac96ab90891",
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+      "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "e990eeaa0528a2e862d17ff7a06b5d9741016f458a6b10c5eec0ea000045ce9f",
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "at": 1794346095.805769,
       "priority": 1
     }
   ],
@@ -2422,6 +2554,10 @@
     "CVE-2026-123218": {
       "score": 9.8,
       "at": 1794295900.246412
+    },
+    "CVE-2026-20320": {
+      "score": 7.5,
+      "at": 1794346100.9619713
     }
   }
 }
