@@ -2176,9 +2176,127 @@
     "kev:CVE-2026-123218": 1794269987.789057,
     "5bcb51a83e2169f7867eaaadfd0bf8fb59b61bd21b7fb42638e8ed256578440a": 1794295896.939888,
     "ab725314dbe92dc892c947c19c331c2c086dea4c4e9266b650b1f9d1a064ebe6": 1794295896.939888,
-    "d43f978cde90ce291a5fc8df085adfc6a628cf0f31c5dad51942e1568244a8df": 1794295896.939888
+    "d43f978cde90ce291a5fc8df085adfc6a628cf0f31c5dad51942e1568244a8df": 1794295896.939888,
+    "3e879422c333e5fe91d8217bc7c2b0861e7d03d363b089c316582ef1b0e0ebc3": 1794325515.870536,
+    "19a0f8f7380c73891da1d56637e983224e0fea4b50fbe69d464e9570b4aa67d4": 1794325515.870536,
+    "b4ca0b256770ee6f6f2556e8a04a9bff373068fe0bfa9192cefed746d15d0139": 1794325515.870536,
+    "bb7f40a49b2f499cc2be9bf9eac8f9fb9e746c0526a95ec364a972498895eafa": 1794325515.870536,
+    "e3c703058014a33830967beeb7a5ea426b1bb877b419774a457102cd7b9e04a2": 1794325515.870536,
+    "b8d8fd4f2e70a908d78b2f53180a73a79e5411135f340cbf87a82359fc856e51": 1794325515.870536,
+    "77ef148814c71aab3fb8f7a2996d0d0b41e62d020d83888c1edcf8381517e711": 1794325515.870536,
+    "e938ec0fd2a5d57956ce586ea36dcced721a65c6a9bc33aea50d721caeecb37d": 1794325515.870536,
+    "0c6b8d89ebf39147efde2ea12410031ce34a13efef9dd74ab1d85f26d2150fd6": 1794325515.870536,
+    "136a1c6b52ea2ec5304d31039ba1f76b8f9c02d4affaa62b62d86fc2002d8272": 1794325515.870536,
+    "265e839e47ba3a0a46ad86b2108d60c43adc4b9f9f4927e719d435fe7fb8f0d1": 1794325515.870536,
+    "b5c58c3ce20a58dd40180fe49bc5df0c93d86f70f7d83cb8337337a563076d02": 1794325515.870536,
+    "8260fef89d137cdf780a0807756b28cc7bcf4c36a54f5c70ed3f3a5922d2bd57": 1794325515.870536
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "3e879422c333e5fe91d8217bc7c2b0861e7d03d363b089c316582ef1b0e0ebc3",
+      "title": "Ransomware recovery is now a client retention metric",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "19a0f8f7380c73891da1d56637e983224e0fea4b50fbe69d464e9570b4aa67d4",
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "b4ca0b256770ee6f6f2556e8a04a9bff373068fe0bfa9192cefed746d15d0139",
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "bb7f40a49b2f499cc2be9bf9eac8f9fb9e746c0526a95ec364a972498895eafa",
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "e3c703058014a33830967beeb7a5ea426b1bb877b419774a457102cd7b9e04a2",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "b8d8fd4f2e70a908d78b2f53180a73a79e5411135f340cbf87a82359fc856e51",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "77ef148814c71aab3fb8f7a2996d0d0b41e62d020d83888c1edcf8381517e711",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "e938ec0fd2a5d57956ce586ea36dcced721a65c6a9bc33aea50d721caeecb37d",
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "0c6b8d89ebf39147efde2ea12410031ce34a13efef9dd74ab1d85f26d2150fd6",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "136a1c6b52ea2ec5304d31039ba1f76b8f9c02d4affaa62b62d86fc2002d8272",
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "265e839e47ba3a0a46ad86b2108d60c43adc4b9f9f4927e719d435fe7fb8f0d1",
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "b5c58c3ce20a58dd40180fe49bc5df0c93d86f70f7d83cb8337337a563076d02",
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    },
+    {
+      "id": "8260fef89d137cdf780a0807756b28cc7bcf4c36a54f5c70ed3f3a5922d2bd57",
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "at": 1794325515.870536,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-10",
   "cvss_cache": {
     "CVE-2026-109619": {
