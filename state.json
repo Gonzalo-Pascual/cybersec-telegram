@@ -2161,9 +2161,86 @@
     "51d34498afca76c721dea4852f4b2997b117310ee803f0fa5bdd1c32695282e8": 1794240817.272425,
     "a082da6160ec9c55e15c83cca249ba9afa44bcc4a91a86d97768cbaf1236580e": 1794240817.272425,
     "62fe27b4e227d1852b8321532b5b4a79bc8a4c0595b632d60af68835fb6fcf51": 1794240817.272425,
-    "28bdf6db6c62498b38511faa468d569cfc1ae5a9af405ee72b53dedc2e0df6b5": 1794240817.272425
+    "28bdf6db6c62498b38511faa468d569cfc1ae5a9af405ee72b53dedc2e0df6b5": 1794240817.272425,
+    "03c62698a8c4247d3c9057175c26fbfa08ff0f0a30636b1ad6ca6107a4424a4f": 1794269987.789057,
+    "a6aee9ac6edae2fff5332d36026eda8841b6db55a3c635f6da6a9301207aaa78": 1794269987.789057,
+    "8e48e8021fb85d2dddc2e755ccb247e28795dc21cd8ad950231386a8a39bf56c": 1794269987.789057,
+    "bcb898182168f0393f3a47576e264219d9915f70d62252c1960435ebcf0a6766": 1794269987.789057,
+    "26d3eb464074c9d59f60f743baef05eff1fee23764690dfce61210b50c773925": 1794269987.789057,
+    "bbe2aedc12dd6d97508f88ede5bad04fd3e3615119a4406d13dd1ff8aba67d32": 1794269987.789057,
+    "04610a07d687786fffdd54d44852e5876536bae997ef72a8fd18e7b050ef00ce": 1794269987.789057,
+    "8a822b63923e32370ca7b92c5055a00f29ada32fad9264d1f130b9c10e84a92f": 1794269987.789057,
+    "kev:CVE-2026-102895": 1794269987.789057,
+    "kev:CVE-2026-123158": 1794269987.789057,
+    "kev:CVE-2026-116779": 1794269987.789057,
+    "kev:CVE-2026-123218": 1794269987.789057
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "03c62698a8c4247d3c9057175c26fbfa08ff0f0a30636b1ad6ca6107a4424a4f",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "a6aee9ac6edae2fff5332d36026eda8841b6db55a3c635f6da6a9301207aaa78",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "8e48e8021fb85d2dddc2e755ccb247e28795dc21cd8ad950231386a8a39bf56c",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "bcb898182168f0393f3a47576e264219d9915f70d62252c1960435ebcf0a6766",
+      "title": "York University breach exposed personal information dating to 2007",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "26d3eb464074c9d59f60f743baef05eff1fee23764690dfce61210b50c773925",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "bbe2aedc12dd6d97508f88ede5bad04fd3e3615119a4406d13dd1ff8aba67d32",
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "04610a07d687786fffdd54d44852e5876536bae997ef72a8fd18e7b050ef00ce",
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "at": 1794269987.789057,
+      "priority": 1
+    },
+    {
+      "id": "8a822b63923e32370ca7b92c5055a00f29ada32fad9264d1f130b9c10e84a92f",
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "at": 1794269987.789057,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-09",
   "cvss_cache": {
     "CVE-2026-109619": {
