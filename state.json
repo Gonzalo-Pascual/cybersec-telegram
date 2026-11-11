@@ -2232,7 +2232,11 @@
     "31fb3d601bd3fdbf39b7ef3099bd9a5dd4a7d4efdbaa69f020d322335e68e165": 1794414084.075597,
     "98673cb69a449a6514e7439f6f96b2b22648b550ec8e90ed879c591066110fa5": 1794414084.075597,
     "5948f9c7deb0fa2aaf939cfc60d05ffbb7677b7f67014ffb39fb12cde76f9423": 1794414084.075597,
-    "c859e461226d0d88a6ba84e9e161ca1a0a124899429f37014f57fd84659ad42b": 1794414084.075597
+    "c859e461226d0d88a6ba84e9e161ca1a0a124899429f37014f57fd84659ad42b": 1794414084.075597,
+    "5a45cd786a572b33929515951ff7d27b07047a14133cd7ba20de64ff5295ad7d": 1794437552.039368,
+    "63f59204bbb91b5d64c47c48e30b94304c1976bf3b7e54b4faf08530699e9a85": 1794437552.039368,
+    "e1f267876aeb7ee768c4c326bb02abd4755fa93c1d1687aa5f5a2bac7496e897": 1794437552.039368,
+    "57473097906c2f4e7adc4f9bf3f376a6dfb1909cd700cfa695309dc7b170ad5d": 1794437552.039368
   },
   "digest": [
     {
@@ -2346,6 +2350,38 @@
       "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
       "at": 1794414084.075597,
       "priority": 1
+    },
+    {
+      "id": "5a45cd786a572b33929515951ff7d27b07047a14133cd7ba20de64ff5295ad7d",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "at": 1794437552.039368,
+      "priority": 1
+    },
+    {
+      "id": "63f59204bbb91b5d64c47c48e30b94304c1976bf3b7e54b4faf08530699e9a85",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "at": 1794437552.039368,
+      "priority": 1
+    },
+    {
+      "id": "e1f267876aeb7ee768c4c326bb02abd4755fa93c1d1687aa5f5a2bac7496e897",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "at": 1794437552.039368,
+      "priority": 1
+    },
+    {
+      "id": "57473097906c2f4e7adc4f9bf3f376a6dfb1909cd700cfa695309dc7b170ad5d",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "at": 1794437552.039368,
+      "priority": 2
     }
   ],
   "last_digest": "2026-11-11",
@@ -2489,6 +2525,10 @@
     "CVE-2026-90436": {
       "score": 9.8,
       "at": 1794414103.6718466
+    },
+    "CVE-2026-108186": {
+      "score": 9.6,
+      "at": 1794437555.037431
     }
   }
 }
