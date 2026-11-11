@@ -2209,7 +2209,8 @@
     "kev:CVE-2026-20320": 1794346095.805769,
     "kev:CVE-2026-111560": 1794346095.805769,
     "kev:CVE-2026-116606": 1794346095.805769,
-    "kev:CVE-2026-125350": 1794346095.805769
+    "kev:CVE-2026-125350": 1794346095.805769,
+    "0d449d3f865f6eaa5b39ebb15420615f906ec2dde5de13e38d5783ab1238bcda": 1794360360.979411
   },
   "digest": [
     {
@@ -2426,6 +2427,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
       "at": 1794346095.805769,
+      "priority": 1
+    },
+    {
+      "id": "0d449d3f865f6eaa5b39ebb15420615f906ec2dde5de13e38d5783ab1238bcda",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "at": 1794360360.979411,
       "priority": 1
     }
   ],
