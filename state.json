@@ -2211,9 +2211,143 @@
     "kev:CVE-2026-116606": 1794346095.805769,
     "kev:CVE-2026-125350": 1794346095.805769,
     "0d449d3f865f6eaa5b39ebb15420615f906ec2dde5de13e38d5783ab1238bcda": 1794360360.979411,
-    "f8f60c105e3607d217463f677cdf6f06e53530aac60fd8fff96bcc3038474e25": 1794384988.989614
+    "f8f60c105e3607d217463f677cdf6f06e53530aac60fd8fff96bcc3038474e25": 1794384988.989614,
+    "64fde1b2dca5b3df084828e037629cf0fbab2c7dbff50bcd07e299c787cd0ea6": 1794414084.075597,
+    "db25449452d95b9ab0f3abd2eb58d351ad197652b0b560b883ba93ec271615e7": 1794414084.075597,
+    "d5832a54758278d91b2d82218a17a748d6cdc9ec2138985820a430bd3039bf95": 1794414084.075597,
+    "8dd5e8c1360325b302dc4d91493a884257b9efc2811b29339023109184e42144": 1794414084.075597,
+    "230cd15b320c09bfa9f72ececb55bf80b5683a26e0e313dcb81d6443cbc7deed": 1794414084.075597,
+    "b79729c9e19e210d6526dda7362a6d258349a9cf01e992ddf18561cad24b94ed": 1794414084.075597,
+    "25794083949f060046f9aee06942f1f9d827e26ae607f2f37a0b992394012df6": 1794414084.075597,
+    "c2552f12bf009c56d77468a0b53d6f9fd82967aff3144724ee2c23e46ac14e2f": 1794414084.075597,
+    "7a739f1d6bcb099132b9881497a0fe84ad7b5a5a235bcc095fc56473c07da73d": 1794414084.075597,
+    "b2549b295054a7f717e5eb7b4a30d041e3f9209e62cd0d4c384bfa0cc9483e86": 1794414084.075597,
+    "028e2350e0588d8ef8723fa041d795f368e81ca4af2cdfe3b2c419e13f390ba5": 1794414084.075597,
+    "3f3dfe80cce3642022d092ad45ce1108ec4e38755371a5218399527ec44c91c0": 1794414084.075597,
+    "5c54cbabd31c308656d5f5323fd7f9744c06119472c108903efd9b1bbdd38357": 1794414084.075597,
+    "eaddf99f3660f07431729db62e53f59cb5285c90de35b525728b3575b63fd527": 1794414084.075597,
+    "1bb6be59207ce6d28c0fe7853b8cc0fae895af7915ff66ed33bea294fe69490c": 1794414084.075597,
+    "fa8385e2154d9b7835cd1cba773160696910dc3caf28b728b4928654738ab4c2": 1794414084.075597,
+    "5d71e59849116a0a203861a2bd50e5b26d418ecc1f7a5a749694731ad1bd1ee8": 1794414084.075597,
+    "31fb3d601bd3fdbf39b7ef3099bd9a5dd4a7d4efdbaa69f020d322335e68e165": 1794414084.075597,
+    "98673cb69a449a6514e7439f6f96b2b22648b550ec8e90ed879c591066110fa5": 1794414084.075597,
+    "5948f9c7deb0fa2aaf939cfc60d05ffbb7677b7f67014ffb39fb12cde76f9423": 1794414084.075597,
+    "c859e461226d0d88a6ba84e9e161ca1a0a124899429f37014f57fd84659ad42b": 1794414084.075597
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "c2552f12bf009c56d77468a0b53d6f9fd82967aff3144724ee2c23e46ac14e2f",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "7a739f1d6bcb099132b9881497a0fe84ad7b5a5a235bcc095fc56473c07da73d",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "at": 1794414084.075597,
+      "priority": 2
+    },
+    {
+      "id": "b2549b295054a7f717e5eb7b4a30d041e3f9209e62cd0d4c384bfa0cc9483e86",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "028e2350e0588d8ef8723fa041d795f368e81ca4af2cdfe3b2c419e13f390ba5",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "at": 1794414084.075597,
+      "priority": 2
+    },
+    {
+      "id": "3f3dfe80cce3642022d092ad45ce1108ec4e38755371a5218399527ec44c91c0",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "at": 1794414084.075597,
+      "priority": 2
+    },
+    {
+      "id": "5c54cbabd31c308656d5f5323fd7f9744c06119472c108903efd9b1bbdd38357",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "at": 1794414084.075597,
+      "priority": 2
+    },
+    {
+      "id": "eaddf99f3660f07431729db62e53f59cb5285c90de35b525728b3575b63fd527",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "1bb6be59207ce6d28c0fe7853b8cc0fae895af7915ff66ed33bea294fe69490c",
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "fa8385e2154d9b7835cd1cba773160696910dc3caf28b728b4928654738ab4c2",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "5d71e59849116a0a203861a2bd50e5b26d418ecc1f7a5a749694731ad1bd1ee8",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "31fb3d601bd3fdbf39b7ef3099bd9a5dd4a7d4efdbaa69f020d322335e68e165",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "98673cb69a449a6514e7439f6f96b2b22648b550ec8e90ed879c591066110fa5",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "at": 1794414084.075597,
+      "priority": 2
+    },
+    {
+      "id": "5948f9c7deb0fa2aaf939cfc60d05ffbb7677b7f67014ffb39fb12cde76f9423",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    },
+    {
+      "id": "c859e461226d0d88a6ba84e9e161ca1a0a124899429f37014f57fd84659ad42b",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "at": 1794414084.075597,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-11",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2343,6 +2477,18 @@
     "CVE-2026-20320": {
       "score": 7.5,
       "at": 1794346100.9619713
+    },
+    "CVE-2026-121653": {
+      "score": 9.8,
+      "at": 1794414087.0700886
+    },
+    "CVE-2026-112174": {
+      "score": 9.3,
+      "at": 1794414095.5183296
+    },
+    "CVE-2026-90436": {
+      "score": 9.8,
+      "at": 1794414103.6718466
     }
   }
 }
