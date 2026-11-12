@@ -2236,7 +2236,9 @@
     "5a45cd786a572b33929515951ff7d27b07047a14133cd7ba20de64ff5295ad7d": 1794437552.039368,
     "63f59204bbb91b5d64c47c48e30b94304c1976bf3b7e54b4faf08530699e9a85": 1794437552.039368,
     "e1f267876aeb7ee768c4c326bb02abd4755fa93c1d1687aa5f5a2bac7496e897": 1794437552.039368,
-    "57473097906c2f4e7adc4f9bf3f376a6dfb1909cd700cfa695309dc7b170ad5d": 1794437552.039368
+    "57473097906c2f4e7adc4f9bf3f376a6dfb1909cd700cfa695309dc7b170ad5d": 1794437552.039368,
+    "d82b57e501a7cb4636840f09275e8985253660d2deb54f6d6c516e51a7364197": 1794454299.395638,
+    "67133b11d1fa19978ee24f852a82c0d856105708a1c1802b8579cdd8b6451e74": 1794454299.395638
   },
   "digest": [
     {
@@ -2382,6 +2384,22 @@
       "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
       "at": 1794437552.039368,
       "priority": 2
+    },
+    {
+      "id": "d82b57e501a7cb4636840f09275e8985253660d2deb54f6d6c516e51a7364197",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "at": 1794454299.395638,
+      "priority": 1
+    },
+    {
+      "id": "67133b11d1fa19978ee24f852a82c0d856105708a1c1802b8579cdd8b6451e74",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "at": 1794454299.395638,
+      "priority": 1
     }
   ],
   "last_digest": "2026-11-11",
