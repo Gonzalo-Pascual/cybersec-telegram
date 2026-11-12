@@ -2238,171 +2238,17 @@
     "e1f267876aeb7ee768c4c326bb02abd4755fa93c1d1687aa5f5a2bac7496e897": 1794437552.039368,
     "57473097906c2f4e7adc4f9bf3f376a6dfb1909cd700cfa695309dc7b170ad5d": 1794437552.039368,
     "d82b57e501a7cb4636840f09275e8985253660d2deb54f6d6c516e51a7364197": 1794454299.395638,
-    "67133b11d1fa19978ee24f852a82c0d856105708a1c1802b8579cdd8b6451e74": 1794454299.395638
+    "67133b11d1fa19978ee24f852a82c0d856105708a1c1802b8579cdd8b6451e74": 1794454299.395638,
+    "3723bf521ddcdf8cd6c4cf6b08e312a3d27c8de8af40cc4f734d7d0c12edeb84": 1794483994.521052,
+    "83d0f4db2e7942aac56c7f3ae0aa3ffeb5a1618628850d5a2782e2507edc9bc9": 1794483994.521052,
+    "d85625e945a4a13511de1fe2eaf20bfdf5ff52574485b554a23ae9440ed21167": 1794483994.521052,
+    "454c76a866bd5cf918d3ba047e7449076d4fed3c1bc8d78f29576353c6fd76dc": 1794483994.521052,
+    "93195e6a70f070f09da47932e151be8fa324eade55105850c4d7b2fa1963ff4f": 1794483994.521052,
+    "e17e280806ec9b7d404c97a5ba2bf4839d53caf241893278ab3575efdb47669e": 1794483994.521052,
+    "892b98fa98f1abce4a968f9393b974b7b60c8a5d18d07619303373c727e7b870": 1794483994.521052
   },
-  "digest": [
-    {
-      "id": "c2552f12bf009c56d77468a0b53d6f9fd82967aff3144724ee2c23e46ac14e2f",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "7a739f1d6bcb099132b9881497a0fe84ad7b5a5a235bcc095fc56473c07da73d",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "at": 1794414084.075597,
-      "priority": 2
-    },
-    {
-      "id": "b2549b295054a7f717e5eb7b4a30d041e3f9209e62cd0d4c384bfa0cc9483e86",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "028e2350e0588d8ef8723fa041d795f368e81ca4af2cdfe3b2c419e13f390ba5",
-      "title": "Microsoft fixes audio issues caused by September security updates",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "at": 1794414084.075597,
-      "priority": 2
-    },
-    {
-      "id": "3f3dfe80cce3642022d092ad45ce1108ec4e38755371a5218399527ec44c91c0",
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "at": 1794414084.075597,
-      "priority": 2
-    },
-    {
-      "id": "5c54cbabd31c308656d5f5323fd7f9744c06119472c108903efd9b1bbdd38357",
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-      "at": 1794414084.075597,
-      "priority": 2
-    },
-    {
-      "id": "eaddf99f3660f07431729db62e53f59cb5285c90de35b525728b3575b63fd527",
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "1bb6be59207ce6d28c0fe7853b8cc0fae895af7915ff66ed33bea294fe69490c",
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "fa8385e2154d9b7835cd1cba773160696910dc3caf28b728b4928654738ab4c2",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "5d71e59849116a0a203861a2bd50e5b26d418ecc1f7a5a749694731ad1bd1ee8",
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "31fb3d601bd3fdbf39b7ef3099bd9a5dd4a7d4efdbaa69f020d322335e68e165",
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "98673cb69a449a6514e7439f6f96b2b22648b550ec8e90ed879c591066110fa5",
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "at": 1794414084.075597,
-      "priority": 2
-    },
-    {
-      "id": "5948f9c7deb0fa2aaf939cfc60d05ffbb7677b7f67014ffb39fb12cde76f9423",
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "c859e461226d0d88a6ba84e9e161ca1a0a124899429f37014f57fd84659ad42b",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "at": 1794414084.075597,
-      "priority": 1
-    },
-    {
-      "id": "5a45cd786a572b33929515951ff7d27b07047a14133cd7ba20de64ff5295ad7d",
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "at": 1794437552.039368,
-      "priority": 1
-    },
-    {
-      "id": "63f59204bbb91b5d64c47c48e30b94304c1976bf3b7e54b4faf08530699e9a85",
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "at": 1794437552.039368,
-      "priority": 1
-    },
-    {
-      "id": "e1f267876aeb7ee768c4c326bb02abd4755fa93c1d1687aa5f5a2bac7496e897",
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "at": 1794437552.039368,
-      "priority": 1
-    },
-    {
-      "id": "57473097906c2f4e7adc4f9bf3f376a6dfb1909cd700cfa695309dc7b170ad5d",
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "at": 1794437552.039368,
-      "priority": 2
-    },
-    {
-      "id": "d82b57e501a7cb4636840f09275e8985253660d2deb54f6d6c516e51a7364197",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "at": 1794454299.395638,
-      "priority": 1
-    },
-    {
-      "id": "67133b11d1fa19978ee24f852a82c0d856105708a1c1802b8579cdd8b6451e74",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "at": 1794454299.395638,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-11",
+  "digest": [],
+  "last_digest": "2026-11-12",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2547,6 +2393,10 @@
     "CVE-2026-108186": {
       "score": 9.6,
       "at": 1794437555.037431
+    },
+    "CVE-2026-119618": {
+      "score": null,
+      "at": 1794484057.0060759
     }
   }
 }
