@@ -2285,7 +2285,14 @@
     "2860f2a6656b9119193b931f554ff967c2fa1e6cd6767ebd0f3aaf783bd6a88f": 1794583902.6118,
     "b2f817f50823c12c0e512c659463ff3d8416c14d16904dfb2412b5e069a35d54": 1794583902.6118,
     "4c53fe18cbba950d1ff603810394b9ca37868c3d94fd08282a7965a1d5121647": 1794583902.6118,
-    "45b845f8713f3bafd872b9c207cafa1375254544dd0bb8d2e892464e0918fd7a": 1794583902.6118
+    "45b845f8713f3bafd872b9c207cafa1375254544dd0bb8d2e892464e0918fd7a": 1794583902.6118,
+    "98a96aff07fa450db22f44325c922597849ec4f633f4ebe3bfe4da31a5ecadd2": 1794605694.410819,
+    "dec72ae8ae411073f06e53abfc2147a73c0fac33c58da2735f54e386b347a984": 1794605694.410819,
+    "676e754b730c05432bda2ac89539732b7a1277ac87aa6eb6ace2832f3bf4fba1": 1794605694.410819,
+    "39bbbdb17d04c6e23708a40e6ebc4438325ff166fe7abd005a27a79a65677821": 1794605694.410819,
+    "c45e228fe8391d27eb3d7a323501e837c6bef4ccb7b6a7b0bce4fff387a72ae0": 1794605694.410819,
+    "kev:CVE-2026-114713": 1794605694.410819,
+    "kev:CVE-2026-123039": 1794605694.410819
   },
   "digest": [
     {
@@ -2374,6 +2381,46 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
       "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "98a96aff07fa450db22f44325c922597849ec4f633f4ebe3bfe4da31a5ecadd2",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "at": 1794605694.410819,
+      "priority": 1
+    },
+    {
+      "id": "dec72ae8ae411073f06e53abfc2147a73c0fac33c58da2735f54e386b347a984",
+      "title": "German military drone operations disrupted by cyberattack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "at": 1794605694.410819,
+      "priority": 1
+    },
+    {
+      "id": "676e754b730c05432bda2ac89539732b7a1277ac87aa6eb6ace2832f3bf4fba1",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "at": 1794605694.410819,
+      "priority": 1
+    },
+    {
+      "id": "39bbbdb17d04c6e23708a40e6ebc4438325ff166fe7abd005a27a79a65677821",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "at": 1794605694.410819,
+      "priority": 2
+    },
+    {
+      "id": "c45e228fe8391d27eb3d7a323501e837c6bef4ccb7b6a7b0bce4fff387a72ae0",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "at": 1794605694.410819,
       "priority": 1
     }
   ],
@@ -2542,6 +2589,10 @@
     "CVE-2026-112181": {
       "score": 8.3,
       "at": 1794583945.43349
+    },
+    "CVE-2026-6460": {
+      "score": 8.8,
+      "at": 1794605718.9365811
     }
   }
 }
