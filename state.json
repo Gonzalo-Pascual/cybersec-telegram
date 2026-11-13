@@ -2266,7 +2266,11 @@
     "bcaa15da7b1f2b055402eb5083062a22365f86ab8fd81505e5bf48156c002cc5": 1794510826.869385,
     "30cd0808ea68627eca61f654533f53d0f90694005acdcdc8da5ae6af04a0936f": 1794510826.869385,
     "c04bee4104ae523eb80d552933664a6e4e78104fa84dbae0153a882f83c50525": 1794510826.869385,
-    "22459023aec72ff460af3a646b637d5df2ba3c0d9a21201f627008aa5088a72e": 1794510826.869385
+    "22459023aec72ff460af3a646b637d5df2ba3c0d9a21201f627008aa5088a72e": 1794510826.869385,
+    "a0dc5e5e8203ba8ae036e460063c4d2ee3e202cddaa5dc5ad47500889328d5d8": 1794530077.807901,
+    "00c9fc014f5f788a9b0614c75355de043c2b6192245281190e2b3d4e851b6824": 1794530077.807901,
+    "1961e7c9f101ea45bf030f1cb996c68889434535c15d3f4a0bbe83f87f341f0d": 1794530077.807901,
+    "eca47eb5adc3196b3085fe66b534a9bd6c3944551a7f8daf3bf335f23e27b93a": 1794530077.807901
   },
   "digest": [
     {
@@ -2403,6 +2407,38 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
       "at": 1794510826.869385,
+      "priority": 1
+    },
+    {
+      "id": "a0dc5e5e8203ba8ae036e460063c4d2ee3e202cddaa5dc5ad47500889328d5d8",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "at": 1794530077.807901,
+      "priority": 1
+    },
+    {
+      "id": "00c9fc014f5f788a9b0614c75355de043c2b6192245281190e2b3d4e851b6824",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "at": 1794530077.807901,
+      "priority": 1
+    },
+    {
+      "id": "1961e7c9f101ea45bf030f1cb996c68889434535c15d3f4a0bbe83f87f341f0d",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "at": 1794530077.807901,
+      "priority": 1
+    },
+    {
+      "id": "eca47eb5adc3196b3085fe66b534a9bd6c3944551a7f8daf3bf335f23e27b93a",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "at": 1794530077.807901,
       "priority": 1
     }
   ],
