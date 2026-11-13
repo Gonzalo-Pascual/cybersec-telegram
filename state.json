@@ -2271,9 +2271,112 @@
     "00c9fc014f5f788a9b0614c75355de043c2b6192245281190e2b3d4e851b6824": 1794530077.807901,
     "1961e7c9f101ea45bf030f1cb996c68889434535c15d3f4a0bbe83f87f341f0d": 1794530077.807901,
     "eca47eb5adc3196b3085fe66b534a9bd6c3944551a7f8daf3bf335f23e27b93a": 1794530077.807901,
-    "112f84532069c9f3d7f16e187688726e8eeb323d2f553a4db338a31125ec8ba3": 1794554354.881827
+    "112f84532069c9f3d7f16e187688726e8eeb323d2f553a4db338a31125ec8ba3": 1794554354.881827,
+    "d3b0f1b4463f7cfbf5dcd13d550726bffdc5a1924c5ebcd412a49d6bc07a59d6": 1794583902.6118,
+    "a939a94e490df7f1a99059dde17f8a43011e82d3da54ec2832239d0638a570d3": 1794583902.6118,
+    "9c883eb7349165b1b6d39b18def765657c42b964013c20840c1aba0d7aefa3d9": 1794583902.6118,
+    "8adc87acaa167b5270a86468d0c7179cadd294b38028fa70a5e81a46e9241663": 1794583902.6118,
+    "b52f1711b15b7063deac792388aacca8b12440819b2e7ec8d22b48ba0644b94d": 1794583902.6118,
+    "de007595e82c5ea81f2129037e49e3b744020bdb46a88b636e241a06f46fef0b": 1794583902.6118,
+    "51ccc7811005969dc5e1ae4fa728f22b4e7eb03f1a1cce3c07f807172696bb4d": 1794583902.6118,
+    "1412c3efb8171ac73cdf866211a0972b6cff34b00e7554179cdd24ec2682795a": 1794583902.6118,
+    "a7a133ad796c645d08e928bf279af4797ff26bd2e2af80bfc21312b9e016d5e5": 1794583902.6118,
+    "9703de0f83e29de4295ae35493094350e2ab18b67a48711ff42afbef6d9a3551": 1794583902.6118,
+    "2860f2a6656b9119193b931f554ff967c2fa1e6cd6767ebd0f3aaf783bd6a88f": 1794583902.6118,
+    "b2f817f50823c12c0e512c659463ff3d8416c14d16904dfb2412b5e069a35d54": 1794583902.6118,
+    "4c53fe18cbba950d1ff603810394b9ca37868c3d94fd08282a7965a1d5121647": 1794583902.6118,
+    "45b845f8713f3bafd872b9c207cafa1375254544dd0bb8d2e892464e0918fd7a": 1794583902.6118
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "8adc87acaa167b5270a86468d0c7179cadd294b38028fa70a5e81a46e9241663",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "b52f1711b15b7063deac792388aacca8b12440819b2e7ec8d22b48ba0644b94d",
+      "title": "Microsoft says November security updates cause printing issues",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "de007595e82c5ea81f2129037e49e3b744020bdb46a88b636e241a06f46fef0b",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "51ccc7811005969dc5e1ae4fa728f22b4e7eb03f1a1cce3c07f807172696bb4d",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "at": 1794583902.6118,
+      "priority": 2
+    },
+    {
+      "id": "1412c3efb8171ac73cdf866211a0972b6cff34b00e7554179cdd24ec2682795a",
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "a7a133ad796c645d08e928bf279af4797ff26bd2e2af80bfc21312b9e016d5e5",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "9703de0f83e29de4295ae35493094350e2ab18b67a48711ff42afbef6d9a3551",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "2860f2a6656b9119193b931f554ff967c2fa1e6cd6767ebd0f3aaf783bd6a88f",
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "b2f817f50823c12c0e512c659463ff3d8416c14d16904dfb2412b5e069a35d54",
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "4c53fe18cbba950d1ff603810394b9ca37868c3d94fd08282a7965a1d5121647",
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "at": 1794583902.6118,
+      "priority": 1
+    },
+    {
+      "id": "45b845f8713f3bafd872b9c207cafa1375254544dd0bb8d2e892464e0918fd7a",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "at": 1794583902.6118,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-13",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2431,6 +2534,14 @@
     "CVE-2026-76173": {
       "score": 8.8,
       "at": 1794510866.8182294
+    },
+    "CVE-2026-120868": {
+      "score": 9.3,
+      "at": 1794583933.869101
+    },
+    "CVE-2026-112181": {
+      "score": 8.3,
+      "at": 1794583945.43349
     }
   }
 }
