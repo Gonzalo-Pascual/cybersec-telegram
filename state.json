@@ -2293,7 +2293,9 @@
     "c45e228fe8391d27eb3d7a323501e837c6bef4ccb7b6a7b0bce4fff387a72ae0": 1794605694.410819,
     "kev:CVE-2026-114713": 1794605694.410819,
     "kev:CVE-2026-123039": 1794605694.410819,
-    "fd4e34466352c51ce593ffc1beef9068af6393b0e9e183578ec850d7ced8b48a": 1794668635.186172
+    "fd4e34466352c51ce593ffc1beef9068af6393b0e9e183578ec850d7ced8b48a": 1794668635.186172,
+    "5979ebe3f3d48a6491833836ff03edcddea7ea6d28d12cfa94a99b12ac7445e8": 1794686136.382513,
+    "a19af6bf034637995ac138ead5f8cfbfd18d3d49f5edeb11e74b63e0fbe2e78f": 1794686136.382513
   },
   "digest": [
     {
@@ -2302,6 +2304,22 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
       "at": 1794668635.186172,
+      "priority": 1
+    },
+    {
+      "id": "5979ebe3f3d48a6491833836ff03edcddea7ea6d28d12cfa94a99b12ac7445e8",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "at": 1794686136.382513,
+      "priority": 1
+    },
+    {
+      "id": "a19af6bf034637995ac138ead5f8cfbfd18d3d49f5edeb11e74b63e0fbe2e78f",
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "at": 1794686136.382513,
       "priority": 1
     }
   ],
