@@ -2292,9 +2292,19 @@
     "39bbbdb17d04c6e23708a40e6ebc4438325ff166fe7abd005a27a79a65677821": 1794605694.410819,
     "c45e228fe8391d27eb3d7a323501e837c6bef4ccb7b6a7b0bce4fff387a72ae0": 1794605694.410819,
     "kev:CVE-2026-114713": 1794605694.410819,
-    "kev:CVE-2026-123039": 1794605694.410819
+    "kev:CVE-2026-123039": 1794605694.410819,
+    "fd4e34466352c51ce593ffc1beef9068af6393b0e9e183578ec850d7ced8b48a": 1794668635.186172
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "fd4e34466352c51ce593ffc1beef9068af6393b0e9e183578ec850d7ced8b48a",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "at": 1794668635.186172,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-14",
   "cvss_cache": {
     "CVE-2026-109619": {
