@@ -2299,7 +2299,8 @@
     "935964d23f6064399b1d09d2cf93d0da6219b67486c6f08826e0676f5b1ac7c3": 1794712398.670895,
     "50bc14eeff687fd2322237865cbc068a399d8c0de80d09082de0708371cc37b0": 1794741300.686427,
     "38357f92686a19a9aa9225970968fbc8b358e7f2838d5ae40c6a75f4e529c765": 1794765122.535758,
-    "126b3ad6575a92070542b759e8fdd794b71a422fccb92ca30617c4914d4d8995": 1794765122.535758
+    "126b3ad6575a92070542b759e8fdd794b71a422fccb92ca30617c4914d4d8995": 1794765122.535758,
+    "2dce8a3e0023e6281603c734d119237d22a0869531f0c4844e72b0c8629ad095": 1794781224.241286
   },
   "digest": [
     {
@@ -2316,6 +2317,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
       "at": 1794765122.535758,
+      "priority": 1
+    },
+    {
+      "id": "2dce8a3e0023e6281603c734d119237d22a0869531f0c4844e72b0c8629ad095",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "at": 1794781224.241286,
       "priority": 1
     }
   ],
