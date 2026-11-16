@@ -2304,9 +2304,130 @@
     "d2ae22574db3688840b0fa602579eaa31123cadff85eaf1b2fe910e03c5e52ee": 1794822945.943455,
     "00465c2a6c8c78986f9cf8f498fc947107d4a2b473feaf7827c507cc0c9638f4": 1794822945.943455,
     "1843c792acc362da2d223b30afad7e1eedd19a3b0e337dc341859e7e36c63f4f": 1794822945.943455,
-    "db4186fe7d68b859a4fd7454c41e33b52527225853c42fb5ffd0f85aef30ccc0": 1794822945.943455
+    "db4186fe7d68b859a4fd7454c41e33b52527225853c42fb5ffd0f85aef30ccc0": 1794822945.943455,
+    "90999003cfe09e361b9a71a9d653a78ed23fe90896eeb29d3ecb97e39875394f": 1794860174.040374,
+    "07a2004b898c5fa50c01d9c0b6ba1729cddce143370b33e5dd6bef5431494454": 1794860174.040374,
+    "83273881a1803bef0008b08756efb8d4ea1677fd64b70746a1e564f4116c6be0": 1794860174.040374,
+    "d5207138f209dc79ca03c09a1412bafa38393e02d7dcdd8af19b3d9a6365cf07": 1794860174.040374,
+    "a4b5c0a37f55470b6baa64221c54103ea81a364ebba492a68016968db5b70b51": 1794860174.040374,
+    "2e932ac01fdd9e5bb52e539df15f616eac604197328c97670105c58359ede63c": 1794860174.040374,
+    "5732636d81e5ebee499482f78845bb3b039a810abb10c2dee7c0c3f7a7690244": 1794860174.040374,
+    "0229c7f383a856d0c0b3fb9456ced989e2d9295a271b9bf5e210958bf7efa983": 1794860174.040374,
+    "55d47cb8eeb109e590ed9da01155526835b60b78f8b2aeaae3e761f6837caebb": 1794860174.040374,
+    "37c34a968c619d3fa8a00f8f61642c2276408158324629f6e89466e586f73f20": 1794860174.040374,
+    "80b303c8c7273ff5d597747ae15de7ec4c6e8b85a506b61b31c728bbab8a3824": 1794860174.040374,
+    "9a4fbbf2ca6b793d4ca706c44f34abd4eb4ac20f15da762643dfb0e3a49a2641": 1794860174.040374,
+    "2a62c2b769f168411acad6a1ecf1a26735290cbb18c3a5657f9ef8735f57db72": 1794860174.040374,
+    "78215995c5726723a1f53b4f820743b9b29106e44359e656d4d34c1152727465": 1794860174.040374,
+    "90f1d5b02f74d2a1576111ae100a6ff265933ff79152c55449319882c800238f": 1794860174.040374,
+    "95cca29690c3021f196544f793e54f22d725e199ea32b61bccf0971facdd3626": 1794860174.040374
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "d5207138f209dc79ca03c09a1412bafa38393e02d7dcdd8af19b3d9a6365cf07",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "a4b5c0a37f55470b6baa64221c54103ea81a364ebba492a68016968db5b70b51",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "2e932ac01fdd9e5bb52e539df15f616eac604197328c97670105c58359ede63c",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "5732636d81e5ebee499482f78845bb3b039a810abb10c2dee7c0c3f7a7690244",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "0229c7f383a856d0c0b3fb9456ced989e2d9295a271b9bf5e210958bf7efa983",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "55d47cb8eeb109e590ed9da01155526835b60b78f8b2aeaae3e761f6837caebb",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "at": 1794860174.040374,
+      "priority": 2
+    },
+    {
+      "id": "37c34a968c619d3fa8a00f8f61642c2276408158324629f6e89466e586f73f20",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "80b303c8c7273ff5d597747ae15de7ec4c6e8b85a506b61b31c728bbab8a3824",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "9a4fbbf2ca6b793d4ca706c44f34abd4eb4ac20f15da762643dfb0e3a49a2641",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "2a62c2b769f168411acad6a1ecf1a26735290cbb18c3a5657f9ef8735f57db72",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "at": 1794860174.040374,
+      "priority": 2
+    },
+    {
+      "id": "78215995c5726723a1f53b4f820743b9b29106e44359e656d4d34c1152727465",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "90f1d5b02f74d2a1576111ae100a6ff265933ff79152c55449319882c800238f",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "at": 1794860174.040374,
+      "priority": 1
+    },
+    {
+      "id": "95cca29690c3021f196544f793e54f22d725e199ea32b61bccf0971facdd3626",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "at": 1794860174.040374,
+      "priority": 2
+    }
+  ],
   "last_digest": "2026-11-16",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2476,6 +2597,18 @@
     "CVE-2026-6460": {
       "score": 8.8,
       "at": 1794605718.9365811
+    },
+    "CVE-2026-127043": {
+      "score": 7.1,
+      "at": 1794860181.2523699
+    },
+    "CVE-2026-84869": {
+      "score": 9.9,
+      "at": 1794860188.3673415
+    },
+    "CVE-2026-129354": {
+      "score": 9.3,
+      "at": 1794860197.1253114
     }
   }
 }
