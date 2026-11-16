@@ -2300,35 +2300,14 @@
     "50bc14eeff687fd2322237865cbc068a399d8c0de80d09082de0708371cc37b0": 1794741300.686427,
     "38357f92686a19a9aa9225970968fbc8b358e7f2838d5ae40c6a75f4e529c765": 1794765122.535758,
     "126b3ad6575a92070542b759e8fdd794b71a422fccb92ca30617c4914d4d8995": 1794765122.535758,
-    "2dce8a3e0023e6281603c734d119237d22a0869531f0c4844e72b0c8629ad095": 1794781224.241286
+    "2dce8a3e0023e6281603c734d119237d22a0869531f0c4844e72b0c8629ad095": 1794781224.241286,
+    "d2ae22574db3688840b0fa602579eaa31123cadff85eaf1b2fe910e03c5e52ee": 1794822945.943455,
+    "00465c2a6c8c78986f9cf8f498fc947107d4a2b473feaf7827c507cc0c9638f4": 1794822945.943455,
+    "1843c792acc362da2d223b30afad7e1eedd19a3b0e337dc341859e7e36c63f4f": 1794822945.943455,
+    "db4186fe7d68b859a4fd7454c41e33b52527225853c42fb5ffd0f85aef30ccc0": 1794822945.943455
   },
-  "digest": [
-    {
-      "id": "38357f92686a19a9aa9225970968fbc8b358e7f2838d5ae40c6a75f4e529c765",
-      "title": "TSMC employee data breach linked to cloud provider",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "at": 1794765122.535758,
-      "priority": 1
-    },
-    {
-      "id": "126b3ad6575a92070542b759e8fdd794b71a422fccb92ca30617c4914d4d8995",
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "at": 1794765122.535758,
-      "priority": 1
-    },
-    {
-      "id": "2dce8a3e0023e6281603c734d119237d22a0869531f0c4844e72b0c8629ad095",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "at": 1794781224.241286,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-15",
+  "digest": [],
+  "last_digest": "2026-11-16",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
