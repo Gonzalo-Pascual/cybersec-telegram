@@ -2320,7 +2320,11 @@
     "2a62c2b769f168411acad6a1ecf1a26735290cbb18c3a5657f9ef8735f57db72": 1794860174.040374,
     "78215995c5726723a1f53b4f820743b9b29106e44359e656d4d34c1152727465": 1794860174.040374,
     "90f1d5b02f74d2a1576111ae100a6ff265933ff79152c55449319882c800238f": 1794860174.040374,
-    "95cca29690c3021f196544f793e54f22d725e199ea32b61bccf0971facdd3626": 1794860174.040374
+    "95cca29690c3021f196544f793e54f22d725e199ea32b61bccf0971facdd3626": 1794860174.040374,
+    "e2d44e705a9cbc3d5edf18949ac21144f4ec1bc2f5ee37adefbbeccb76c4234a": 1794884364.169701,
+    "8ed9183c3b6cd25dca0e0129f33d4e65b145e59261c095b29c68653accb9a207": 1794884364.169701,
+    "d4716e2699655547a84cb7d1f59e85451f43daf0f75ea92d9167271affd436a6": 1794884364.169701,
+    "1bb88b885b5db7993f676aa37d97ff646bfc0757fc5abf9e7fd9e14d512f5d54": 1794884364.169701
   },
   "digest": [
     {
@@ -2426,6 +2430,38 @@
       "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
       "at": 1794860174.040374,
       "priority": 2
+    },
+    {
+      "id": "e2d44e705a9cbc3d5edf18949ac21144f4ec1bc2f5ee37adefbbeccb76c4234a",
+      "title": "Optimizely supply chain attack infects major brands' sites with malware",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+      "at": 1794884364.169701,
+      "priority": 1
+    },
+    {
+      "id": "8ed9183c3b6cd25dca0e0129f33d4e65b145e59261c095b29c68653accb9a207",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "at": 1794884364.169701,
+      "priority": 1
+    },
+    {
+      "id": "d4716e2699655547a84cb7d1f59e85451f43daf0f75ea92d9167271affd436a6",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "at": 1794884364.169701,
+      "priority": 1
+    },
+    {
+      "id": "1bb88b885b5db7993f676aa37d97ff646bfc0757fc5abf9e7fd9e14d512f5d54",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "at": 1794884364.169701,
+      "priority": 1
     }
   ],
   "last_digest": "2026-11-16",
