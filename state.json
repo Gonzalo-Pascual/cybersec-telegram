@@ -2324,147 +2324,23 @@
     "e2d44e705a9cbc3d5edf18949ac21144f4ec1bc2f5ee37adefbbeccb76c4234a": 1794884364.169701,
     "8ed9183c3b6cd25dca0e0129f33d4e65b145e59261c095b29c68653accb9a207": 1794884364.169701,
     "d4716e2699655547a84cb7d1f59e85451f43daf0f75ea92d9167271affd436a6": 1794884364.169701,
-    "1bb88b885b5db7993f676aa37d97ff646bfc0757fc5abf9e7fd9e14d512f5d54": 1794884364.169701
+    "1bb88b885b5db7993f676aa37d97ff646bfc0757fc5abf9e7fd9e14d512f5d54": 1794884364.169701,
+    "9354461a8b2544254c6919306a3f8dbb3b2eadc9d80713ef1cc6dc6c57d7bcc0": 1794915642.782114,
+    "9c1fbd5ad7eccdf573c69550e0e72cc55bc2ffac50fad357158658f4fc646d2a": 1794915642.782114,
+    "3cbcec4d4f622bf9db5e252336e2d8515c6a815b2cbbd86b352fb0e1c17123e7": 1794915642.782114,
+    "b64e4f39066b0e67b800c73ea73cd987ed994f8637b332cc3d4e293e342919a4": 1794915642.782114,
+    "f7a057d8824364051f79c783bc589dd2981f6ba7a7944ad9615c7324a01e6cad": 1794915642.782114,
+    "6bed2ee4e3d8bb5bb7629202155e056af4da5c3919e788fa7755a4962b90ee48": 1794915642.782114,
+    "d6852d41ddbac8abc01d078e7704124ff5b298e4d912c1099f0ede6fe09e4f73": 1794915642.782114,
+    "e9922d5479113355d3bc26c024b5f99734bfebbe97e64a7511e48bedb2e560c1": 1794915642.782114,
+    "d46320d834191fdaef3a2d1df3789a69e97fc16de4c7de8e5b8978fae7d8f8ee": 1794915642.782114,
+    "d60d987187d895bcc0eec35b377acec369636835b65e9afdc60219c67fb0d8a7": 1794915642.782114,
+    "70e2caef18bd344bb815e5e68a43260bc724d52c44079f4e627847d637e89bf0": 1794915642.782114,
+    "e1fb024e4b31b645d571aac183445515555108866d33c144a45ef5d8f1f93b71": 1794915642.782114,
+    "9c8c5ecf167bb7d81c57e0ea785ffb566df0c4c4d70c92e8a6116e4483028a9d": 1794915642.782114
   },
-  "digest": [
-    {
-      "id": "d5207138f209dc79ca03c09a1412bafa38393e02d7dcdd8af19b3d9a6365cf07",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "a4b5c0a37f55470b6baa64221c54103ea81a364ebba492a68016968db5b70b51",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "2e932ac01fdd9e5bb52e539df15f616eac604197328c97670105c58359ede63c",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "5732636d81e5ebee499482f78845bb3b039a810abb10c2dee7c0c3f7a7690244",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "0229c7f383a856d0c0b3fb9456ced989e2d9295a271b9bf5e210958bf7efa983",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "55d47cb8eeb109e590ed9da01155526835b60b78f8b2aeaae3e761f6837caebb",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "at": 1794860174.040374,
-      "priority": 2
-    },
-    {
-      "id": "37c34a968c619d3fa8a00f8f61642c2276408158324629f6e89466e586f73f20",
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "80b303c8c7273ff5d597747ae15de7ec4c6e8b85a506b61b31c728bbab8a3824",
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "9a4fbbf2ca6b793d4ca706c44f34abd4eb4ac20f15da762643dfb0e3a49a2641",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "2a62c2b769f168411acad6a1ecf1a26735290cbb18c3a5657f9ef8735f57db72",
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "at": 1794860174.040374,
-      "priority": 2
-    },
-    {
-      "id": "78215995c5726723a1f53b4f820743b9b29106e44359e656d4d34c1152727465",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "90f1d5b02f74d2a1576111ae100a6ff265933ff79152c55449319882c800238f",
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "at": 1794860174.040374,
-      "priority": 1
-    },
-    {
-      "id": "95cca29690c3021f196544f793e54f22d725e199ea32b61bccf0971facdd3626",
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "at": 1794860174.040374,
-      "priority": 2
-    },
-    {
-      "id": "e2d44e705a9cbc3d5edf18949ac21144f4ec1bc2f5ee37adefbbeccb76c4234a",
-      "title": "Optimizely supply chain attack infects major brands' sites with malware",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
-      "at": 1794884364.169701,
-      "priority": 1
-    },
-    {
-      "id": "8ed9183c3b6cd25dca0e0129f33d4e65b145e59261c095b29c68653accb9a207",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "at": 1794884364.169701,
-      "priority": 1
-    },
-    {
-      "id": "d4716e2699655547a84cb7d1f59e85451f43daf0f75ea92d9167271affd436a6",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "at": 1794884364.169701,
-      "priority": 1
-    },
-    {
-      "id": "1bb88b885b5db7993f676aa37d97ff646bfc0757fc5abf9e7fd9e14d512f5d54",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "at": 1794884364.169701,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-16",
+  "digest": [],
+  "last_digest": "2026-11-17",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2645,6 +2521,14 @@
     "CVE-2026-129354": {
       "score": 9.3,
       "at": 1794860197.1253114
+    },
+    "CVE-2026-123039": {
+      "score": 7.8,
+      "at": 1794915647.5204012
+    },
+    "CVE-2026-112209": {
+      "score": 5.3,
+      "at": 1794915654.6366432
     }
   }
 }
