@@ -2337,9 +2337,92 @@
     "d60d987187d895bcc0eec35b377acec369636835b65e9afdc60219c67fb0d8a7": 1794915642.782114,
     "70e2caef18bd344bb815e5e68a43260bc724d52c44079f4e627847d637e89bf0": 1794915642.782114,
     "e1fb024e4b31b645d571aac183445515555108866d33c144a45ef5d8f1f93b71": 1794915642.782114,
-    "9c8c5ecf167bb7d81c57e0ea785ffb566df0c4c4d70c92e8a6116e4483028a9d": 1794915642.782114
+    "9c8c5ecf167bb7d81c57e0ea785ffb566df0c4c4d70c92e8a6116e4483028a9d": 1794915642.782114,
+    "2649180f798de24b10a588831a6930d8eaff26c0a1e4d2fee11d9c5832cf8a59": 1794945693.95551,
+    "eb340953f43f781bd6b781dbc8a5608705b8dcac7398cc381a2e601880f9667c": 1794945693.95551,
+    "7a46b3beaee89dd4b2c476e4c49ef8fef41ecc325ab1626767eaa13ce2381a1e": 1794945693.95551,
+    "8f03d6de8c9317d2611dc3cd2783ae00a25693deaf05a736e6dec7e49055f343": 1794945693.95551,
+    "ab1eb22dc8a1cf322e7814a8f75bfdf9350bb3d86bdac67cba430147d0595e99": 1794945693.95551,
+    "8c2938cc1499d55f1e8dd9e1a08269892c698fc330e31c85e3a3f5ddf4b743bf": 1794945693.95551,
+    "bc626a4cad04e3c2fddda33302bd143b5e353ef26d9e63c5f8e1068497c5c3e5": 1794945693.95551,
+    "d288d9ad5341ef4933ab8ba5c3f98ab69db4993693be169b6ab4770c2d889784": 1794945693.95551,
+    "a89ef1ccbd59db0c36e0a93f0d57c5d2d264137c32b3b20171b52a4e0b1aba9d": 1794945693.95551,
+    "kev:CVE-2026-115731": 1794945693.95551
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "2649180f798de24b10a588831a6930d8eaff26c0a1e4d2fee11d9c5832cf8a59",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "eb340953f43f781bd6b781dbc8a5608705b8dcac7398cc381a2e601880f9667c",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "7a46b3beaee89dd4b2c476e4c49ef8fef41ecc325ab1626767eaa13ce2381a1e",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "8f03d6de8c9317d2611dc3cd2783ae00a25693deaf05a736e6dec7e49055f343",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "at": 1794945693.95551,
+      "priority": 2
+    },
+    {
+      "id": "ab1eb22dc8a1cf322e7814a8f75bfdf9350bb3d86bdac67cba430147d0595e99",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "8c2938cc1499d55f1e8dd9e1a08269892c698fc330e31c85e3a3f5ddf4b743bf",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "bc626a4cad04e3c2fddda33302bd143b5e353ef26d9e63c5f8e1068497c5c3e5",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "d288d9ad5341ef4933ab8ba5c3f98ab69db4993693be169b6ab4770c2d889784",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "a89ef1ccbd59db0c36e0a93f0d57c5d2d264137c32b3b20171b52a4e0b1aba9d",
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+      "at": 1794945693.95551,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-17",
   "cvss_cache": {
     "CVE-2026-109619": {
