@@ -2361,9 +2361,82 @@
     "0116882845714518a2318ce8fd4fe41d459524b463a394797d46d75b4178af10": 1794997461.602011,
     "6088b3d7315135be62ce96d99fd86098bfccadfd973dc44d1b9c6e7bcdc2b973": 1794997461.602011,
     "b3083fba4f09959cf668d7871287c4bfd47103a6f4b087212e85b06c7cea8cbf": 1794997461.602011,
-    "da1c6fe8c4381758be544605f8d56b57317c0f58a156e8039da5636f5f78d110": 1794997461.602011
+    "da1c6fe8c4381758be544605f8d56b57317c0f58a156e8039da5636f5f78d110": 1794997461.602011,
+    "e6c82b3a267e107ee0b77e1cb8abd1449850e7fccd03a9700dc2ffbd3489dfa2": 1795028376.488854,
+    "4e02e411cce17c61ce2fb150967783e870f2918d06d33cc2f6f8a7553ef6c1d0": 1795028376.488854,
+    "ae5ebec54c4070f4c8bc35cd63a552cf5c31d8de8fde9a53f0f03f9791a0f4fd": 1795028376.488854,
+    "0318dcd295b979294e1efb1a91e4f80402ec2896df5ee25790b8b16ee30a3d91": 1795028376.488854,
+    "5d8d5aa75a81a17929eae6ec79089e87ca14f442a28bdf7e95ffda57e0603e03": 1795028376.488854,
+    "c28555d70b984a68924cb572bf249b10a0d3ec0dce03fc7e89993e32bc15b755": 1795028376.488854,
+    "b5dea2f4e21d3adf1ba9a8b13d23bba4079308605f70cff9636fc20b7a110c4a": 1795028376.488854,
+    "6f5effd33b96ef9f633ebc0b9886c9614a22a79c3467c6ac40adb1234cdfeb9c": 1795028376.488854
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "e6c82b3a267e107ee0b77e1cb8abd1449850e7fccd03a9700dc2ffbd3489dfa2",
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "at": 1795028376.488854,
+      "priority": 1
+    },
+    {
+      "id": "4e02e411cce17c61ce2fb150967783e870f2918d06d33cc2f6f8a7553ef6c1d0",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "at": 1795028376.488854,
+      "priority": 1
+    },
+    {
+      "id": "ae5ebec54c4070f4c8bc35cd63a552cf5c31d8de8fde9a53f0f03f9791a0f4fd",
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "at": 1795028376.488854,
+      "priority": 1
+    },
+    {
+      "id": "0318dcd295b979294e1efb1a91e4f80402ec2896df5ee25790b8b16ee30a3d91",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "at": 1795028376.488854,
+      "priority": 2
+    },
+    {
+      "id": "5d8d5aa75a81a17929eae6ec79089e87ca14f442a28bdf7e95ffda57e0603e03",
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "at": 1795028376.488854,
+      "priority": 1
+    },
+    {
+      "id": "c28555d70b984a68924cb572bf249b10a0d3ec0dce03fc7e89993e32bc15b755",
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "at": 1795028376.488854,
+      "priority": 2
+    },
+    {
+      "id": "b5dea2f4e21d3adf1ba9a8b13d23bba4079308605f70cff9636fc20b7a110c4a",
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "at": 1795028376.488854,
+      "priority": 1
+    },
+    {
+      "id": "6f5effd33b96ef9f633ebc0b9886c9614a22a79c3467c6ac40adb1234cdfeb9c",
+      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "at": 1795028376.488854,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-18",
   "cvss_cache": {
     "CVE-2026-109619": {
