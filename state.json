@@ -2347,7 +2347,11 @@
     "bc626a4cad04e3c2fddda33302bd143b5e353ef26d9e63c5f8e1068497c5c3e5": 1794945693.95551,
     "d288d9ad5341ef4933ab8ba5c3f98ab69db4993693be169b6ab4770c2d889784": 1794945693.95551,
     "a89ef1ccbd59db0c36e0a93f0d57c5d2d264137c32b3b20171b52a4e0b1aba9d": 1794945693.95551,
-    "kev:CVE-2026-115731": 1794945693.95551
+    "kev:CVE-2026-115731": 1794945693.95551,
+    "5151a6e223f28e439a761bcb2b4973b855494e32e2b46e4bf79bfe6eacf9ee64": 1794968427.359082,
+    "2730b527059f10517c219e0890cdc6756bf3679499f08dc3cc1dc1e30221005c": 1794968427.359082,
+    "d4b80abc94a3cca122a810854862d732fe250455c5c3822736292574f167597f": 1794968427.359082,
+    "bf30f36961aa318c379c7e05ec3505bbee720368002fbb8e6243ece8ece5075a": 1794968427.359082
   },
   "digest": [
     {
@@ -2420,6 +2424,38 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
       "at": 1794945693.95551,
+      "priority": 1
+    },
+    {
+      "id": "5151a6e223f28e439a761bcb2b4973b855494e32e2b46e4bf79bfe6eacf9ee64",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "at": 1794968427.359082,
+      "priority": 1
+    },
+    {
+      "id": "2730b527059f10517c219e0890cdc6756bf3679499f08dc3cc1dc1e30221005c",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "at": 1794968427.359082,
+      "priority": 2
+    },
+    {
+      "id": "d4b80abc94a3cca122a810854862d732fe250455c5c3822736292574f167597f",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "at": 1794968427.359082,
+      "priority": 1
+    },
+    {
+      "id": "bf30f36961aa318c379c7e05ec3505bbee720368002fbb8e6243ece8ece5075a",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "at": 1794968427.359082,
       "priority": 1
     }
   ],
