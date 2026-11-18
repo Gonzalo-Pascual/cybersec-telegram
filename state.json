@@ -2351,115 +2351,20 @@
     "5151a6e223f28e439a761bcb2b4973b855494e32e2b46e4bf79bfe6eacf9ee64": 1794968427.359082,
     "2730b527059f10517c219e0890cdc6756bf3679499f08dc3cc1dc1e30221005c": 1794968427.359082,
     "d4b80abc94a3cca122a810854862d732fe250455c5c3822736292574f167597f": 1794968427.359082,
-    "bf30f36961aa318c379c7e05ec3505bbee720368002fbb8e6243ece8ece5075a": 1794968427.359082
+    "bf30f36961aa318c379c7e05ec3505bbee720368002fbb8e6243ece8ece5075a": 1794968427.359082,
+    "5fa168ccf1d00b663a1eba2ebfd145d5baa753c209f8bd9f513516ec0413fd10": 1794997461.602011,
+    "74ff7ce182e3c8fd562f2a3c9f14ad1516163095af4314ff21c1fc004acdf562": 1794997461.602011,
+    "f291f981652b3024ade304a3d6160d7b5a782c22fd7ff6984f05ed379fe3cd6f": 1794997461.602011,
+    "a7f98a2e72a74cf8355697259dd2a27a374ce5b31a27a3a65ff28ab448330e3f": 1794997461.602011,
+    "ceabdcfd0f55ef1a4dfa386f64714f246fb15673d011b9dce328f0f431299511": 1794997461.602011,
+    "1f9fa7a7b1cf2d914ea9952b4955c3102fe459f292f69d10ef6ef6bddb6fc253": 1794997461.602011,
+    "0116882845714518a2318ce8fd4fe41d459524b463a394797d46d75b4178af10": 1794997461.602011,
+    "6088b3d7315135be62ce96d99fd86098bfccadfd973dc44d1b9c6e7bcdc2b973": 1794997461.602011,
+    "b3083fba4f09959cf668d7871287c4bfd47103a6f4b087212e85b06c7cea8cbf": 1794997461.602011,
+    "da1c6fe8c4381758be544605f8d56b57317c0f58a156e8039da5636f5f78d110": 1794997461.602011
   },
-  "digest": [
-    {
-      "id": "2649180f798de24b10a588831a6930d8eaff26c0a1e4d2fee11d9c5832cf8a59",
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "eb340953f43f781bd6b781dbc8a5608705b8dcac7398cc381a2e601880f9667c",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "7a46b3beaee89dd4b2c476e4c49ef8fef41ecc325ab1626767eaa13ce2381a1e",
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "8f03d6de8c9317d2611dc3cd2783ae00a25693deaf05a736e6dec7e49055f343",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "at": 1794945693.95551,
-      "priority": 2
-    },
-    {
-      "id": "ab1eb22dc8a1cf322e7814a8f75bfdf9350bb3d86bdac67cba430147d0595e99",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "8c2938cc1499d55f1e8dd9e1a08269892c698fc330e31c85e3a3f5ddf4b743bf",
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "bc626a4cad04e3c2fddda33302bd143b5e353ef26d9e63c5f8e1068497c5c3e5",
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "d288d9ad5341ef4933ab8ba5c3f98ab69db4993693be169b6ab4770c2d889784",
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "a89ef1ccbd59db0c36e0a93f0d57c5d2d264137c32b3b20171b52a4e0b1aba9d",
-      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "at": 1794945693.95551,
-      "priority": 1
-    },
-    {
-      "id": "5151a6e223f28e439a761bcb2b4973b855494e32e2b46e4bf79bfe6eacf9ee64",
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "at": 1794968427.359082,
-      "priority": 1
-    },
-    {
-      "id": "2730b527059f10517c219e0890cdc6756bf3679499f08dc3cc1dc1e30221005c",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "at": 1794968427.359082,
-      "priority": 2
-    },
-    {
-      "id": "d4b80abc94a3cca122a810854862d732fe250455c5c3822736292574f167597f",
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "at": 1794968427.359082,
-      "priority": 1
-    },
-    {
-      "id": "bf30f36961aa318c379c7e05ec3505bbee720368002fbb8e6243ece8ece5075a",
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "at": 1794968427.359082,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-17",
+  "digest": [],
+  "last_digest": "2026-11-18",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2648,6 +2553,18 @@
     "CVE-2026-112209": {
       "score": 5.3,
       "at": 1794915654.6366432
+    },
+    "CVE-2026-112213": {
+      "score": 6.9,
+      "at": 1794997467.1495516
+    },
+    "CVE-2026-74127": {
+      "score": null,
+      "at": 1794997474.3690674
+    },
+    "CVE-2026-114938": {
+      "score": 8.1,
+      "at": 1794997481.487786
     }
   }
 }
