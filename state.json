@@ -2380,9 +2380,169 @@
     "kev:CVE-2026-40217": 1795050259.041535,
     "kev:CVE-2026-90817": 1795050259.041535,
     "kev:CVE-2026-90436": 1795050259.041535,
-    "b34766c40e803f2e5bc38bb44acb101e42f727737f24e528a1f2702fa3552f26": 1795077960.96952
+    "b34766c40e803f2e5bc38bb44acb101e42f727737f24e528a1f2702fa3552f26": 1795077960.96952,
+    "f08b4252caad3d3f977c2f4b82c08635c332d08ddda622f2a909263300cd6390": 1795110256.520957,
+    "9c71c941881403b104327278736db0bed6f223598fdbf2e728dab6e17e268f38": 1795110256.520957,
+    "66f30f42f4f7c85e537d5cc280195a006d09032a2cccff4e39e0ccfe7a3604d7": 1795110256.520957,
+    "e8d6d1e4d1703ebf0640b0c114fca36773e1bfc2433df355228486b8a68421ac": 1795110256.520957,
+    "c4f965bbf39fead440543381446e4180ba40d24432d307e68796f735a8e3d63e": 1795110256.520957,
+    "45c3c3129a5dd590904b5afcf89f9041de6bb57f83533e52fd1ebcca4e15992a": 1795110256.520957,
+    "1353194819601b92b8978feacab54cdd5dbfe0a0b30cb4aeb966aa8c0796ee14": 1795110256.520957,
+    "3e12d0ecd8266c19008b310bc0df2e30555d328ef5d2f5b8839b31ce72d23cc6": 1795110256.520957,
+    "b263d5c6833c2f07d31621be0c88b4c9208ed8374934230456ca06913c936640": 1795110256.520957,
+    "8dd3b1152a3eb9aa19bc211425cdea266cecd673948095d5551fa5452f600d2e": 1795110256.520957,
+    "9c6bc626cab6e290a1be8d814ab8467a213ea27145f583b60048af4650bc2b02": 1795110256.520957,
+    "60153385bf67f70808da9c8a22987b10e4a00a4cfa6724c064e1e9792a603219": 1795110256.520957,
+    "7d7db06640c4851557314787685203a25d0d565988fd946cf2de128d1abb6e89": 1795110256.520957,
+    "e62411673346c5cdfaed22761708ca632a327a528c2397fbe21e00f71e5b9424": 1795110256.520957,
+    "304c7d70d11af2bae8abef2d806913ffbcc5b1e8624feadc58a51fc859daecda": 1795110256.520957,
+    "7c57a868b02a09581f7d5c1d7dea368570ea87d52151de7ae96b782dbafa6319": 1795110256.520957,
+    "ce0adc003748ea2db680ea979d129329dce79fcbfeda26816c4a30451e21d5fa": 1795110256.520957,
+    "b1474f872efd091381e5064db7ae00a5ff8f644993f3b889cd91bd04a79cf152": 1795110256.520957,
+    "018f9eaf536d18b564c4189b3b02e262441923e5754cf0f71bc73b61740e46a9": 1795110256.520957,
+    "d20ba500f3bf20edb6c528a650a9e89b6f09d8884635bc9e95f85aee69b9a91c": 1795110256.520957,
+    "2b34b763b5d86319b81828d7c92b82e12ca14f518d6d50946cd717738c6e46f0": 1795110256.520957,
+    "5712283d01b2db46ec586ca0ba9c754055a778fc742fc977ae6acf1db89fd81a": 1795110256.520957,
+    "ea61004ebcb6a4554610354b07aeadf16e9d4cf6b314aca7f500a2ecffa25ae0": 1795110256.520957,
+    "dd6d4273291b0ea6075d04ba02aca4d95cd114fb5b40f5ced37ac741cd5a4f16": 1795110256.520957,
+    "0de36cacbf728407b9632c082109539601bcade32660714034523ae0dbbb8f8d": 1795110256.520957,
+    "20108a47564dac42de64716542183a9a0833985b74efc08683a986cc9e4ceea8": 1795110256.520957,
+    "b809a6ff99715666def781954605654123bd1a418c7c77ca99b6e35d36e9d843": 1795110256.520957,
+    "729059b98bc55bcdb7ce4c94c93970e3a944f368d883e39fa9b56132f5353d34": 1795110256.520957,
+    "32de1d7ae5670fc33937a95478dd89cf34bf1de67387b489c612c8c09d1589c3": 1795110256.520957,
+    "ec73b1a8ff82b464406750f038122e913a26e67e01349be049f6d171ed48d09f": 1795110256.520957,
+    "89e250e5b79039fc51024dcb346f587163bc9a79d542f5b441e3d3c03a081479": 1795110256.520957
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "7c57a868b02a09581f7d5c1d7dea368570ea87d52151de7ae96b782dbafa6319",
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "ce0adc003748ea2db680ea979d129329dce79fcbfeda26816c4a30451e21d5fa",
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "b1474f872efd091381e5064db7ae00a5ff8f644993f3b889cd91bd04a79cf152",
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "018f9eaf536d18b564c4189b3b02e262441923e5754cf0f71bc73b61740e46a9",
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "d20ba500f3bf20edb6c528a650a9e89b6f09d8884635bc9e95f85aee69b9a91c",
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "2b34b763b5d86319b81828d7c92b82e12ca14f518d6d50946cd717738c6e46f0",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "5712283d01b2db46ec586ca0ba9c754055a778fc742fc977ae6acf1db89fd81a",
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "ea61004ebcb6a4554610354b07aeadf16e9d4cf6b314aca7f500a2ecffa25ae0",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "dd6d4273291b0ea6075d04ba02aca4d95cd114fb5b40f5ced37ac741cd5a4f16",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "0de36cacbf728407b9632c082109539601bcade32660714034523ae0dbbb8f8d",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "20108a47564dac42de64716542183a9a0833985b74efc08683a986cc9e4ceea8",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "b809a6ff99715666def781954605654123bd1a418c7c77ca99b6e35d36e9d843",
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "729059b98bc55bcdb7ce4c94c93970e3a944f368d883e39fa9b56132f5353d34",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "32de1d7ae5670fc33937a95478dd89cf34bf1de67387b489c612c8c09d1589c3",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "at": 1795110256.520957,
+      "priority": 1
+    },
+    {
+      "id": "ec73b1a8ff82b464406750f038122e913a26e67e01349be049f6d171ed48d09f",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "at": 1795110256.520957,
+      "priority": 2
+    },
+    {
+      "id": "89e250e5b79039fc51024dcb346f587163bc9a79d542f5b441e3d3c03a081479",
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "at": 1795110256.520957,
+      "priority": 2
+    }
+  ],
   "last_digest": "2026-11-19",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2403,7 +2563,7 @@
     },
     "CVE-2026-111497": {
       "score": 9.2,
-      "at": 1793812986.3508458
+      "at": 1795110276.7185967
     },
     "CVE-2026-4337": {
       "score": null,
@@ -2592,6 +2752,14 @@
     "CVE-2026-129448": {
       "score": 9.8,
       "at": 1795050271.2067769
+    },
+    "CVE-2026-79845": {
+      "score": 5.5,
+      "at": 1795110269.6025274
+    },
+    "CVE-2026-120382": {
+      "score": null,
+      "at": 1795110284.8600612
     }
   }
 }
