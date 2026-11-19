@@ -2369,7 +2369,17 @@
     "5d8d5aa75a81a17929eae6ec79089e87ca14f442a28bdf7e95ffda57e0603e03": 1795028376.488854,
     "c28555d70b984a68924cb572bf249b10a0d3ec0dce03fc7e89993e32bc15b755": 1795028376.488854,
     "b5dea2f4e21d3adf1ba9a8b13d23bba4079308605f70cff9636fc20b7a110c4a": 1795028376.488854,
-    "6f5effd33b96ef9f633ebc0b9886c9614a22a79c3467c6ac40adb1234cdfeb9c": 1795028376.488854
+    "6f5effd33b96ef9f633ebc0b9886c9614a22a79c3467c6ac40adb1234cdfeb9c": 1795028376.488854,
+    "83449911ee88100dfcc6fbb861dbb38f5bb2a714b0e850d7a4841cf5de5f49db": 1795050259.041535,
+    "fce046682234423d4ee918b96cce50f9195e8dbf298f91b43eec0889e7f1e07a": 1795050259.041535,
+    "bb191dbf47c35cbaf9d5f2dcd8727b811fa09a77dadd1a64549200f2773212d4": 1795050259.041535,
+    "aeeca9adc6238c966defa0931c999be026010cf801c91b8e726aa5810d933abc": 1795050259.041535,
+    "b1b490572dfa33300d7bbcc86cd6ff8748c645fb4e726bd488e78d1391460941": 1795050259.041535,
+    "e3cfb4ef3ed9dc1f03aa1b2ea52eab0905422b97ac2f0f6aed5769f324d815b7": 1795050259.041535,
+    "kev:CVE-2024-10441": 1795050259.041535,
+    "kev:CVE-2026-40217": 1795050259.041535,
+    "kev:CVE-2026-90817": 1795050259.041535,
+    "kev:CVE-2026-90436": 1795050259.041535
   },
   "digest": [
     {
@@ -2435,6 +2445,54 @@
       "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
       "at": 1795028376.488854,
       "priority": 1
+    },
+    {
+      "id": "83449911ee88100dfcc6fbb861dbb38f5bb2a714b0e850d7a4841cf5de5f49db",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "at": 1795050259.041535,
+      "priority": 1
+    },
+    {
+      "id": "fce046682234423d4ee918b96cce50f9195e8dbf298f91b43eec0889e7f1e07a",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "at": 1795050259.041535,
+      "priority": 1
+    },
+    {
+      "id": "bb191dbf47c35cbaf9d5f2dcd8727b811fa09a77dadd1a64549200f2773212d4",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "at": 1795050259.041535,
+      "priority": 1
+    },
+    {
+      "id": "aeeca9adc6238c966defa0931c999be026010cf801c91b8e726aa5810d933abc",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "at": 1795050259.041535,
+      "priority": 2
+    },
+    {
+      "id": "b1b490572dfa33300d7bbcc86cd6ff8748c645fb4e726bd488e78d1391460941",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "at": 1795050259.041535,
+      "priority": 1
+    },
+    {
+      "id": "e3cfb4ef3ed9dc1f03aa1b2ea52eab0905422b97ac2f0f6aed5769f324d815b7",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "at": 1795050259.041535,
+      "priority": 2
     }
   ],
   "last_digest": "2026-11-18",
@@ -2577,7 +2635,7 @@
     },
     "CVE-2026-90436": {
       "score": 9.8,
-      "at": 1794414103.6718466
+      "at": 1795050282.7579544
     },
     "CVE-2026-108186": {
       "score": 9.6,
@@ -2638,6 +2696,14 @@
     "CVE-2026-114938": {
       "score": 8.1,
       "at": 1794997481.487786
+    },
+    "CVE-2026-123007": {
+      "score": 9.2,
+      "at": 1795050262.6075964
+    },
+    "CVE-2026-129448": {
+      "score": 9.8,
+      "at": 1795050271.2067769
     }
   }
 }
