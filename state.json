@@ -2415,7 +2415,10 @@
     "30da657deb94dcb5fa08b6b55a477090203338c99ff5742ea08a5b6d1ceac4ee": 1795132512.356098,
     "2b9cbabe5ba092edea46c2a4e0c5ffa785df90ab5c7cedf1ab80c55f8340feb0": 1795132512.356098,
     "7cc955f7030d74549bdd1122696035cbba903680f8482f1841a817b000df3912": 1795132512.356098,
-    "04aa83eed139472327cecf40a3c42501f874999d2b82387fb3e22b9701d84271": 1795132512.356098
+    "04aa83eed139472327cecf40a3c42501f874999d2b82387fb3e22b9701d84271": 1795132512.356098,
+    "400073e9bb5bc25ec770e4cdeb80880281411f45e95ed36ddcf7c69c2a4b6362": 1795157874.826639,
+    "fbe70008049ae99d1fb1e29bcda64f17e3a56f9fddb8ecff46af013330fa363a": 1795157874.826639,
+    "d4d7429add1bccdc3831357751cdd53696919ef629bc0a38c66f132fc24d2d37": 1795157874.826639
   },
   "digest": [
     {
@@ -2577,6 +2580,30 @@
       "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "at": 1795132512.356098,
       "priority": 1
+    },
+    {
+      "id": "400073e9bb5bc25ec770e4cdeb80880281411f45e95ed36ddcf7c69c2a4b6362",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "at": 1795157874.826639,
+      "priority": 1
+    },
+    {
+      "id": "fbe70008049ae99d1fb1e29bcda64f17e3a56f9fddb8ecff46af013330fa363a",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "at": 1795157874.826639,
+      "priority": 1
+    },
+    {
+      "id": "d4d7429add1bccdc3831357751cdd53696919ef629bc0a38c66f132fc24d2d37",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "at": 1795157874.826639,
+      "priority": 2
     }
   ],
   "last_digest": "2026-11-19",
