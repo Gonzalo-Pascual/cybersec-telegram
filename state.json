@@ -2418,195 +2418,27 @@
     "04aa83eed139472327cecf40a3c42501f874999d2b82387fb3e22b9701d84271": 1795132512.356098,
     "400073e9bb5bc25ec770e4cdeb80880281411f45e95ed36ddcf7c69c2a4b6362": 1795157874.826639,
     "fbe70008049ae99d1fb1e29bcda64f17e3a56f9fddb8ecff46af013330fa363a": 1795157874.826639,
-    "d4d7429add1bccdc3831357751cdd53696919ef629bc0a38c66f132fc24d2d37": 1795157874.826639
+    "d4d7429add1bccdc3831357751cdd53696919ef629bc0a38c66f132fc24d2d37": 1795157874.826639,
+    "a2d3d6c6cb0696f8084f26614c16b30cabd4072617ee26ca590ace5281d36066": 1795190474.393388,
+    "39de9d82e1ba0b9fa39ec3c64f4993726c48c1086e10d02a11f5c3d8668db556": 1795190474.393388,
+    "edc5b167634bb39ee9df611109652f46a8db9aa33f4343ceec44fec7eede619c": 1795190474.393388,
+    "347a511ebb921fa388ac78c2830a6060a4352b576a12f9dcfa61371d8c8167ce": 1795190474.393388,
+    "fdcae1e13c37cf3af7c8130cf51654ba0bf360957b2f9c008a274a8b7ae6b2d1": 1795190474.393388,
+    "5a6a179b2a0ae52858abe9e99e95accf41e92ad86e4d380633cdc1332e32a471": 1795190474.393388,
+    "9bcfc190693816fdab449cadc7ebac040ea296050bcbafadfc7248e1600c2a4f": 1795190474.393388,
+    "185e60604fe3e1baa4ebb5f9f1181dfe26edb64756dde892624556896365befb": 1795190474.393388,
+    "eef5c54272d70b7373ce6597075668ebfdbf7c8666d6e47778e9d0f3f63bba76": 1795190474.393388,
+    "4a5f7ec0ccc2dd6ddb5f99000db8016f7880eab1c4ecc9d5f10de6f306fc8b2c": 1795190474.393388,
+    "f7f1a85104f722e5a78143456affb0437af98b2012f984a60ff8450a06e19999": 1795190474.393388,
+    "e135ea77996c3394a6275bb78b766ec6eec1071fea9a270df5f8843cd10aaa04": 1795190474.393388,
+    "e3cd9e0f7cd8b0abc276505a9572f66ad6d708ba63667f11518fe462e2cc4de5": 1795190474.393388,
+    "23b5e82dd85a38b28dd484fd0b87275de888b4bdf57b51b19ce0ad2bd0da7190": 1795190474.393388,
+    "637e629f0cea7357ccbbe49cb4d7f94f0ef8549d00b1bce2ffbc9ef55e688fe1": 1795190474.393388,
+    "2a547f2b9db5e50d55f8a204411f95d4ab70728a1a4b714290fdc900d52ed5cc": 1795190474.393388,
+    "a926ea25da1f5d147089a25e170807e43ddc2632454a3577d589feeab64ca501": 1795190474.393388
   },
-  "digest": [
-    {
-      "id": "7c57a868b02a09581f7d5c1d7dea368570ea87d52151de7ae96b782dbafa6319",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "ce0adc003748ea2db680ea979d129329dce79fcbfeda26816c4a30451e21d5fa",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "b1474f872efd091381e5064db7ae00a5ff8f644993f3b889cd91bd04a79cf152",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "018f9eaf536d18b564c4189b3b02e262441923e5754cf0f71bc73b61740e46a9",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "d20ba500f3bf20edb6c528a650a9e89b6f09d8884635bc9e95f85aee69b9a91c",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "2b34b763b5d86319b81828d7c92b82e12ca14f518d6d50946cd717738c6e46f0",
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "5712283d01b2db46ec586ca0ba9c754055a778fc742fc977ae6acf1db89fd81a",
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "ea61004ebcb6a4554610354b07aeadf16e9d4cf6b314aca7f500a2ecffa25ae0",
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "dd6d4273291b0ea6075d04ba02aca4d95cd114fb5b40f5ced37ac741cd5a4f16",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "0de36cacbf728407b9632c082109539601bcade32660714034523ae0dbbb8f8d",
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "20108a47564dac42de64716542183a9a0833985b74efc08683a986cc9e4ceea8",
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "b809a6ff99715666def781954605654123bd1a418c7c77ca99b6e35d36e9d843",
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "729059b98bc55bcdb7ce4c94c93970e3a944f368d883e39fa9b56132f5353d34",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "32de1d7ae5670fc33937a95478dd89cf34bf1de67387b489c612c8c09d1589c3",
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "at": 1795110256.520957,
-      "priority": 1
-    },
-    {
-      "id": "ec73b1a8ff82b464406750f038122e913a26e67e01349be049f6d171ed48d09f",
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "89e250e5b79039fc51024dcb346f587163bc9a79d542f5b441e3d3c03a081479",
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "at": 1795110256.520957,
-      "priority": 2
-    },
-    {
-      "id": "30da657deb94dcb5fa08b6b55a477090203338c99ff5742ea08a5b6d1ceac4ee",
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "at": 1795132512.356098,
-      "priority": 1
-    },
-    {
-      "id": "2b9cbabe5ba092edea46c2a4e0c5ffa785df90ab5c7cedf1ab80c55f8340feb0",
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "at": 1795132512.356098,
-      "priority": 1
-    },
-    {
-      "id": "7cc955f7030d74549bdd1122696035cbba903680f8482f1841a817b000df3912",
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "at": 1795132512.356098,
-      "priority": 1
-    },
-    {
-      "id": "04aa83eed139472327cecf40a3c42501f874999d2b82387fb3e22b9701d84271",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "at": 1795132512.356098,
-      "priority": 1
-    },
-    {
-      "id": "400073e9bb5bc25ec770e4cdeb80880281411f45e95ed36ddcf7c69c2a4b6362",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "at": 1795157874.826639,
-      "priority": 1
-    },
-    {
-      "id": "fbe70008049ae99d1fb1e29bcda64f17e3a56f9fddb8ecff46af013330fa363a",
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "at": 1795157874.826639,
-      "priority": 1
-    },
-    {
-      "id": "d4d7429add1bccdc3831357751cdd53696919ef629bc0a38c66f132fc24d2d37",
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "at": 1795157874.826639,
-      "priority": 2
-    }
-  ],
-  "last_digest": "2026-11-19",
+  "digest": [],
+  "last_digest": "2026-11-20",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2806,7 +2638,7 @@
     },
     "CVE-2026-114938": {
       "score": 8.1,
-      "at": 1794997481.487786
+      "at": 1795190507.136619
     },
     "CVE-2026-123007": {
       "score": 9.2,
@@ -2823,6 +2655,14 @@
     "CVE-2026-120382": {
       "score": null,
       "at": 1795110284.8600612
+    },
+    "CVE-2026-124767": {
+      "score": 8.7,
+      "at": 1795190492.9486907
+    },
+    "CVE-2026-131888": {
+      "score": null,
+      "at": 1795190500.0590096
     }
   }
 }
