@@ -2435,9 +2435,50 @@
     "23b5e82dd85a38b28dd484fd0b87275de888b4bdf57b51b19ce0ad2bd0da7190": 1795190474.393388,
     "637e629f0cea7357ccbbe49cb4d7f94f0ef8549d00b1bce2ffbc9ef55e688fe1": 1795190474.393388,
     "2a547f2b9db5e50d55f8a204411f95d4ab70728a1a4b714290fdc900d52ed5cc": 1795190474.393388,
-    "a926ea25da1f5d147089a25e170807e43ddc2632454a3577d589feeab64ca501": 1795190474.393388
+    "a926ea25da1f5d147089a25e170807e43ddc2632454a3577d589feeab64ca501": 1795190474.393388,
+    "09249d8be70b1f5ed8d47161e82d004cb0a0306150f0eaa012396c0ff2a3a009": 1795214229.067156,
+    "cfb25151042d19384f3f595b87b1c487dcbdbfbd046125a8f33c54387509d26c": 1795214229.067156,
+    "096022839bd12ae52197a91f4c1187037018b8b824b1fb171eb1d6d57255da5b": 1795214229.067156,
+    "1784f8b0d2eb4f05f7059fae81e18a51393a4fe697381f355cb45f68d661096d": 1795214229.067156,
+    "kev:CVE-2026-129448": 1795214229.067156,
+    "kev:CVE-2026-123890": 1795214229.067156,
+    "kev:CVE-2025-42884": 1795214229.067156,
+    "kev:CVE-2026-76466": 1795214229.067156
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "09249d8be70b1f5ed8d47161e82d004cb0a0306150f0eaa012396c0ff2a3a009",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "at": 1795214229.067156,
+      "priority": 1
+    },
+    {
+      "id": "cfb25151042d19384f3f595b87b1c487dcbdbfbd046125a8f33c54387509d26c",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "at": 1795214229.067156,
+      "priority": 1
+    },
+    {
+      "id": "096022839bd12ae52197a91f4c1187037018b8b824b1fb171eb1d6d57255da5b",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "at": 1795214229.067156,
+      "priority": 1
+    },
+    {
+      "id": "1784f8b0d2eb4f05f7059fae81e18a51393a4fe697381f355cb45f68d661096d",
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "at": 1795214229.067156,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-20",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2646,7 +2687,7 @@
     },
     "CVE-2026-129448": {
       "score": 9.8,
-      "at": 1795050271.2067769
+      "at": 1795214298.4608324
     },
     "CVE-2026-79845": {
       "score": 5.5,
@@ -2663,6 +2704,10 @@
     "CVE-2026-131888": {
       "score": null,
       "at": 1795190500.0590096
+    },
+    "CVE-2026-76466": {
+      "score": 9.8,
+      "at": 1795214309.424799
     }
   }
 }
