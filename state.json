@@ -2444,43 +2444,14 @@
     "kev:CVE-2026-123890": 1795214229.067156,
     "kev:CVE-2025-42884": 1795214229.067156,
     "kev:CVE-2026-76466": 1795214229.067156,
-    "55d823acc0cd0ae8269e2d7b60ba223044cf578844523a2fa280ca42b5053e88": 1795231729.664814
+    "55d823acc0cd0ae8269e2d7b60ba223044cf578844523a2fa280ca42b5053e88": 1795231729.664814,
+    "1ca5cd3c75ea6393b375709e669a951fcac945f1d0e7ee7b14196d14006e7320": 1795261211.443871,
+    "2151c7c2435107d53175fc51d006a0fab55b4abb08f37f5e2e6ec85483b713fe": 1795261211.443871,
+    "04388a5dc44be3f9066c80a912cb3504b6371f382ae3baa4c836b1ebc548b592": 1795261211.443871,
+    "59185d8f05f1d4e77e3b548712f42245605f3f7cbdfcf616105590a08a752e7b": 1795261211.443871
   },
-  "digest": [
-    {
-      "id": "09249d8be70b1f5ed8d47161e82d004cb0a0306150f0eaa012396c0ff2a3a009",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "at": 1795214229.067156,
-      "priority": 1
-    },
-    {
-      "id": "cfb25151042d19384f3f595b87b1c487dcbdbfbd046125a8f33c54387509d26c",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "at": 1795214229.067156,
-      "priority": 1
-    },
-    {
-      "id": "096022839bd12ae52197a91f4c1187037018b8b824b1fb171eb1d6d57255da5b",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "at": 1795214229.067156,
-      "priority": 1
-    },
-    {
-      "id": "1784f8b0d2eb4f05f7059fae81e18a51393a4fe697381f355cb45f68d661096d",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "at": 1795214229.067156,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-20",
+  "digest": [],
+  "last_digest": "2026-11-21",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
