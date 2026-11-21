@@ -2452,7 +2452,8 @@
     "0c2be102f07b21fe50430ef212cb20d19ca914cc6e6d46a9f5b8bc1ac311e8b3": 1795284827.112437,
     "434b1fd6147bae579900061ca3be34c0e6c52002852310f417ae9f5523da3aad": 1795284827.112437,
     "8e69c19663b56679ca83f6aca2e193ce916b0956c58d73e0b50a2620785ba54e": 1795284827.112437,
-    "36654661f0cd7b879a3d6d49933a1f7ae6e8b04d8fcc56f5f21bbe00d3801d03": 1795284827.112437
+    "36654661f0cd7b879a3d6d49933a1f7ae6e8b04d8fcc56f5f21bbe00d3801d03": 1795284827.112437,
+    "f2b22cdca8165b8d85bc5e7f34b60f1868d708699e9af08453c00a412dedd304": 1795303709.324732
   },
   "digest": [
     {
@@ -2485,6 +2486,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
       "at": 1795284827.112437,
+      "priority": 1
+    },
+    {
+      "id": "f2b22cdca8165b8d85bc5e7f34b60f1868d708699e9af08453c00a412dedd304",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "at": 1795303709.324732,
       "priority": 1
     }
   ],
