@@ -2448,9 +2448,46 @@
     "1ca5cd3c75ea6393b375709e669a951fcac945f1d0e7ee7b14196d14006e7320": 1795261211.443871,
     "2151c7c2435107d53175fc51d006a0fab55b4abb08f37f5e2e6ec85483b713fe": 1795261211.443871,
     "04388a5dc44be3f9066c80a912cb3504b6371f382ae3baa4c836b1ebc548b592": 1795261211.443871,
-    "59185d8f05f1d4e77e3b548712f42245605f3f7cbdfcf616105590a08a752e7b": 1795261211.443871
+    "59185d8f05f1d4e77e3b548712f42245605f3f7cbdfcf616105590a08a752e7b": 1795261211.443871,
+    "0c2be102f07b21fe50430ef212cb20d19ca914cc6e6d46a9f5b8bc1ac311e8b3": 1795284827.112437,
+    "434b1fd6147bae579900061ca3be34c0e6c52002852310f417ae9f5523da3aad": 1795284827.112437,
+    "8e69c19663b56679ca83f6aca2e193ce916b0956c58d73e0b50a2620785ba54e": 1795284827.112437,
+    "36654661f0cd7b879a3d6d49933a1f7ae6e8b04d8fcc56f5f21bbe00d3801d03": 1795284827.112437
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "0c2be102f07b21fe50430ef212cb20d19ca914cc6e6d46a9f5b8bc1ac311e8b3",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "at": 1795284827.112437,
+      "priority": 1
+    },
+    {
+      "id": "434b1fd6147bae579900061ca3be34c0e6c52002852310f417ae9f5523da3aad",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "at": 1795284827.112437,
+      "priority": 1
+    },
+    {
+      "id": "8e69c19663b56679ca83f6aca2e193ce916b0956c58d73e0b50a2620785ba54e",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "at": 1795284827.112437,
+      "priority": 1
+    },
+    {
+      "id": "36654661f0cd7b879a3d6d49933a1f7ae6e8b04d8fcc56f5f21bbe00d3801d03",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "at": 1795284827.112437,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-21",
   "cvss_cache": {
     "CVE-2026-109619": {
