@@ -2453,51 +2453,12 @@
     "434b1fd6147bae579900061ca3be34c0e6c52002852310f417ae9f5523da3aad": 1795284827.112437,
     "8e69c19663b56679ca83f6aca2e193ce916b0956c58d73e0b50a2620785ba54e": 1795284827.112437,
     "36654661f0cd7b879a3d6d49933a1f7ae6e8b04d8fcc56f5f21bbe00d3801d03": 1795284827.112437,
-    "f2b22cdca8165b8d85bc5e7f34b60f1868d708699e9af08453c00a412dedd304": 1795303709.324732
+    "f2b22cdca8165b8d85bc5e7f34b60f1868d708699e9af08453c00a412dedd304": 1795303709.324732,
+    "c53e9ca235861743191b1824f4cd62037780a7d40eb074b65827e21bc2a95e29": 1795348416.173459,
+    "63bad1fbdaafd187eaeb3483227b6614ee6dc8f736a163c371f67166bc7b1514": 1795348416.173459
   },
-  "digest": [
-    {
-      "id": "0c2be102f07b21fe50430ef212cb20d19ca914cc6e6d46a9f5b8bc1ac311e8b3",
-      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-      "at": 1795284827.112437,
-      "priority": 1
-    },
-    {
-      "id": "434b1fd6147bae579900061ca3be34c0e6c52002852310f417ae9f5523da3aad",
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "at": 1795284827.112437,
-      "priority": 1
-    },
-    {
-      "id": "8e69c19663b56679ca83f6aca2e193ce916b0956c58d73e0b50a2620785ba54e",
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "at": 1795284827.112437,
-      "priority": 1
-    },
-    {
-      "id": "36654661f0cd7b879a3d6d49933a1f7ae6e8b04d8fcc56f5f21bbe00d3801d03",
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "at": 1795284827.112437,
-      "priority": 1
-    },
-    {
-      "id": "f2b22cdca8165b8d85bc5e7f34b60f1868d708699e9af08453c00a412dedd304",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "at": 1795303709.324732,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-21",
+  "digest": [],
+  "last_digest": "2026-11-22",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
