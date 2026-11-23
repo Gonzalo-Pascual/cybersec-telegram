@@ -2458,35 +2458,11 @@
     "63bad1fbdaafd187eaeb3483227b6614ee6dc8f736a163c371f67166bc7b1514": 1795348416.173459,
     "62eb6478a571f4b86cf0f2320dbc88c49558de4acb77c6410ead8e00f9e29cb7": 1795375593.996105,
     "109d8f17134ed068287de12128127ddb27af11dfc6f3d47b5ecab62928d4f19d": 1795375593.996105,
-    "7a22ea75dc16e0c852e479dbfcb6ee5e56180b5911fd3ba7f677b72b5f9e6317": 1795375593.996105
+    "7a22ea75dc16e0c852e479dbfcb6ee5e56180b5911fd3ba7f677b72b5f9e6317": 1795375593.996105,
+    "59c103883859963753bb1c479ee3635afddacfad09fc9fbb304756fa90616de8": 1795421068.379888
   },
-  "digest": [
-    {
-      "id": "62eb6478a571f4b86cf0f2320dbc88c49558de4acb77c6410ead8e00f9e29cb7",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "at": 1795375593.996105,
-      "priority": 1
-    },
-    {
-      "id": "109d8f17134ed068287de12128127ddb27af11dfc6f3d47b5ecab62928d4f19d",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "at": 1795375593.996105,
-      "priority": 1
-    },
-    {
-      "id": "7a22ea75dc16e0c852e479dbfcb6ee5e56180b5911fd3ba7f677b72b5f9e6317",
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "at": 1795375593.996105,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-22",
+  "digest": [],
+  "last_digest": "2026-11-23",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
