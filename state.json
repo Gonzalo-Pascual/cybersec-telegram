@@ -2486,147 +2486,26 @@
     "49800a8cbc7b6b82904dbf7dbeb092b32113b6d02280f1e2e83b3691cf960876": 1795495751.065324,
     "746b923f234ecb4a5731dc75b6300c956c37709941ee0ec93d1a6108ad63736a": 1795495751.065324,
     "kev:CVE-2026-133968": 1795495751.065324,
-    "kev:CVE-2026-134624": 1795495751.065324
+    "kev:CVE-2026-134624": 1795495751.065324,
+    "9e4ea715e638b42486647aeaa2c772167c513afebba7c605dad7b1b48dd8c5a6": 1795533716.313645,
+    "54aed93a5dfa32e81a68021a61ef3e1cc9d36f7fbd5804840f2f946b577c4e64": 1795533716.313645,
+    "9fe1855d884480da5e2b9d8d7383f1ff7509a35fb5632c929972dcd070b8e65b": 1795533716.313645,
+    "a099a367631b645d2d2d39977aa821432324253a0a1cf031773388272cd57bd5": 1795533716.313645,
+    "3dbee33e1410934eec04ca1946c9d4384e794b8160cb4512e04088429fb5d857": 1795533716.313645,
+    "42488d7b3479f19da7def630a5433d79b7422b5773518268ba0eb9845ed9406b": 1795533716.313645,
+    "ea75c7acc91033f595c77539505be1311614583302b88737d4376bc66c2bfb15": 1795533716.313645,
+    "00594a90458a176dc2a07b7e9403e8c1faeb81e0ca3dcf13b190c3b953247b39": 1795533716.313645,
+    "4a86e0c8990f11a50ac0313dc7b7abfed5692fab0790480c0a1dabf6bf9eebbd": 1795533716.313645,
+    "b3050185bd4b1ad728d4a071bb36ca79bfb700aaf15244339d3fecc2216c33b4": 1795533716.313645,
+    "e58477d9e72649de381a037638786c2e9d8081ad42a542c28233836b5764ef75": 1795533716.313645,
+    "3cb460413889683d3422b6d5f1c8ecb82cf2c4001ad24409c11ac46b39e1bd26": 1795533716.313645,
+    "4e1ada2e8d089330a6ffeaebaa93844807f73fd8ea6744281ce567792700058c": 1795533716.313645,
+    "7349a1ac557d93870cdbed89888bbef57c6d66f675b805cff1eb41d196865b7f": 1795533716.313645,
+    "03bb3c0de4ca0b4803f4a1e33b21f7d0b2ca0cafabd0bedd6226f5e0815b9344": 1795533716.313645,
+    "b37bffb09ef94db74c3c949821612eeef3f772a0f6b4e1a9c5a65ada4100003a": 1795533716.313645
   },
-  "digest": [
-    {
-      "id": "19ec416ca6b3ff001c45f42e856c85843340e938e493148cf0605a99f7fa21f1",
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "7675d47e70a8b4294d5167d1c2eb229aaf9ae9f3df2e723e66386e7f54602246",
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "f1c8eba860221cf3c3fe3f0527dfe577170bd57d46399d364e8f13f1d9159292",
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "63505e4ca0eea63775fadc21bd4087abab5940ac30aef5def560d47e31820e7a",
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "2900f6091bc01a14265c2437e71dee5d92c9c40458d7345e23ba3ba8d1b34662",
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "ef46a292ebff351564cd1e5724728a3dcc4a4e2e0dea32414a41e3f481fd92d3",
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "at": 1795464708.14572,
-      "priority": 2
-    },
-    {
-      "id": "f5655fdd655a15cda12b56333ba25ceac2febbdeeed7c7b1352b6000a613e973",
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "e4f8bb79b1a7936d3bca43cd1ac751fe89841beb49749d968bc65f5dfb098014",
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "at": 1795464708.14572,
-      "priority": 2
-    },
-    {
-      "id": "e588adeeea02a61e78c402087d5eafd8f479ec9282162dca4d782a97198b947c",
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "0dcc45639fb3388f53c2cf65c68bbb6b0ff08f44282fbd82a740e281374f4331",
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "e517ad86d56ee7509557ebeae4621a8dbc8e99fbc15bc9f005b0737e2cb86d32",
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "51b1b18e080b3376e4683acea2945225732fa79a4dd85036eb8cbf13e90b462c",
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "38eca61121a8fb7dba6b3c12033b70d4e41dc754513ca1dd07bf2a2f9555d40c",
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "6e3d38c2e5beb1a99339b9498359dcf61c51dc0e135103f2161a2510aac0571c",
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "d5075d4538ee5fea04ea16758b48aa1bf52c93ec754d96e5d49ccd4f2cec4dcd",
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "e3a3eaa915bb4e43a0040bc92a46c614b0c6bfffd09d8719e46b829a9d00e630",
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "at": 1795464708.14572,
-      "priority": 1
-    },
-    {
-      "id": "746b923f234ecb4a5731dc75b6300c956c37709941ee0ec93d1a6108ad63736a",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "at": 1795495751.065324,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-23",
+  "digest": [],
+  "last_digest": "2026-11-24",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2863,6 +2742,18 @@
     "CVE-2026-113425": {
       "score": 9.2,
       "at": 1795464730.616402
+    },
+    "CVE-2026-125735": {
+      "score": 8.6,
+      "at": 1795533722.403125
+    },
+    "CVE-2026-115560": {
+      "score": 9.2,
+      "at": 1795533729.5590189
+    },
+    "CVE-2026-126714": {
+      "score": 9.2,
+      "at": 1795533737.9441895
     }
   }
 }
