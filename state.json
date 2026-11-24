@@ -2481,7 +2481,12 @@
     "38eca61121a8fb7dba6b3c12033b70d4e41dc754513ca1dd07bf2a2f9555d40c": 1795464708.14572,
     "6e3d38c2e5beb1a99339b9498359dcf61c51dc0e135103f2161a2510aac0571c": 1795464708.14572,
     "d5075d4538ee5fea04ea16758b48aa1bf52c93ec754d96e5d49ccd4f2cec4dcd": 1795464708.14572,
-    "e3a3eaa915bb4e43a0040bc92a46c614b0c6bfffd09d8719e46b829a9d00e630": 1795464708.14572
+    "e3a3eaa915bb4e43a0040bc92a46c614b0c6bfffd09d8719e46b829a9d00e630": 1795464708.14572,
+    "520ae3d9df15336224cf549ceb56e58b36f976a655c9d1d6be61975edc2c0f68": 1795495751.065324,
+    "49800a8cbc7b6b82904dbf7dbeb092b32113b6d02280f1e2e83b3691cf960876": 1795495751.065324,
+    "746b923f234ecb4a5731dc75b6300c956c37709941ee0ec93d1a6108ad63736a": 1795495751.065324,
+    "kev:CVE-2026-133968": 1795495751.065324,
+    "kev:CVE-2026-134624": 1795495751.065324
   },
   "digest": [
     {
@@ -2610,6 +2615,14 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
       "at": 1795464708.14572,
+      "priority": 1
+    },
+    {
+      "id": "746b923f234ecb4a5731dc75b6300c956c37709941ee0ec93d1a6108ad63736a",
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "at": 1795495751.065324,
       "priority": 1
     }
   ],
