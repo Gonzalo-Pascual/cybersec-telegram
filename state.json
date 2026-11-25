@@ -2513,75 +2513,14 @@
     "31ed4adb92d57b77a6bf5b04a77ef106a2bc6302f225d2e792ce8d0540e60b24": 1795564737.38303,
     "kev:CVE-2026-132224": 1795564737.38303,
     "kev:CVE-2026-131914": 1795564737.38303,
-    "kev:CVE-2026-132165": 1795564737.38303
+    "kev:CVE-2026-132165": 1795564737.38303,
+    "be1cdf64f64ccc57a4f046e3d8a6cc546be1ad6b731c48fe0bec0734c8b208d4": 1795594483.152076,
+    "be7893fb0556820c493c7c4ae421b4103bc1480177cc384fe0fddffe11618aac": 1795594483.152076,
+    "d6e7c2e9bada8dc40bd45bcc7fe1d2778dae65400ddf35a6d07f30cc073ce9b6": 1795594483.152076,
+    "0cb0e449a1c177d75da1872ab13e9e3b7bae135b6ab77c60559aef802edf4840": 1795594483.152076
   },
-  "digest": [
-    {
-      "id": "28211d5cf668b4972e1aac3dd9c3f061a7aa88ebee55268722142506af06cfe3",
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "60752c9a207fbea5210273b2fffbd8470993996eb60576e4051409946f725b21",
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "23053e8f100f90e118bcfd95e48a075137389987eedcead50da8cdf995c27aaf",
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "f72996d64a5c654f7d50bffd51ef7e55fc16cd4969f44fccd28bcc9bf877a616",
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "630ef54e0a6b42b0ec54a210b5690f76f51fd5d9442a7fd940bda17fbe4369b9",
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "49c93cd714af23e22cc68154797fbe428599314da74b5d561b4b4074ec11fb2c",
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "4a932aaa5359fdff04ae9c7c3ee7ef302a9a61de43222d60dd5fe6ce44da45bd",
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "at": 1795564737.38303,
-      "priority": 1
-    },
-    {
-      "id": "31ed4adb92d57b77a6bf5b04a77ef106a2bc6302f225d2e792ce8d0540e60b24",
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "at": 1795564737.38303,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-24",
+  "digest": [],
+  "last_digest": "2026-11-25",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
