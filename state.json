@@ -2534,7 +2534,19 @@
     "375c7bfbc556ae4a4659d64a355783b86c8e5d61d1a5a1aa8b1c6910fc4983d1": 1795632146.18543,
     "71239870aea25b3a732daac66509808cdfa22c4dc5aef73df1834db068864dab": 1795632146.18543,
     "701fdaf7e1edc080415b34e86e9c5226d4ad7e068e4fee17be6f44a0ad5a90ea": 1795632146.18543,
-    "kev:CVE-2026-103406": 1795632146.18543
+    "kev:CVE-2026-103406": 1795632146.18543,
+    "ece0b227d5cc404e6ae171b1b950d4a3211becfcf5f63b783ad9a0698a912903": 1795658247.390687,
+    "f80abfcf1c95ffaa410a386527b06512ee54d836b54f1311969105cf63db162f": 1795658247.390687,
+    "f914a267ff61d93036055eabca0f2a8980f4c0eb12f55387de7e850ea2e5a560": 1795658247.390687,
+    "kev:CVE-2026-133469": 1795658247.390687,
+    "kev:CVE-2025-41450": 1795658247.390687,
+    "kev:CVE-2023-25914": 1795658247.390687,
+    "kev:CVE-2023-25915": 1795658247.390687,
+    "kev:CVE-2026-133324": 1795658247.390687,
+    "kev:CVE-2026-133275": 1795658247.390687,
+    "kev:CVE-2026-133311": 1795658247.390687,
+    "kev:CVE-2026-133303": 1795658247.390687,
+    "kev:CVE-2026-133323": 1795658247.390687
   },
   "digest": [
     {
@@ -2631,6 +2643,30 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
       "at": 1795632146.18543,
+      "priority": 1
+    },
+    {
+      "id": "ece0b227d5cc404e6ae171b1b950d4a3211becfcf5f63b783ad9a0698a912903",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "at": 1795658247.390687,
+      "priority": 1
+    },
+    {
+      "id": "f80abfcf1c95ffaa410a386527b06512ee54d836b54f1311969105cf63db162f",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "at": 1795658247.390687,
+      "priority": 1
+    },
+    {
+      "id": "f914a267ff61d93036055eabca0f2a8980f4c0eb12f55387de7e850ea2e5a560",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "at": 1795658247.390687,
       "priority": 1
     }
   ],
