@@ -2546,131 +2546,16 @@
     "kev:CVE-2026-133275": 1795658247.390687,
     "kev:CVE-2026-133311": 1795658247.390687,
     "kev:CVE-2026-133303": 1795658247.390687,
-    "kev:CVE-2026-133323": 1795658247.390687
+    "kev:CVE-2026-133323": 1795658247.390687,
+    "5ed2b47fd0312e25eb73800815bc7a0d92bd5ee24b0b1758d2686ef358dea4a4": 1795689800.064637,
+    "e2edbe46fefbded9eabfa585e3e96cade16d6dfd94aea402e801903fc2bf1ef4": 1795689800.064637,
+    "6d02a2ecb38d8d36a1b6c493de29bf8e4a6c5d6277af3d3f293914e4288a680c": 1795689800.064637,
+    "b76344cce9f4296ba67d92e1da200e991544d156fd36fab792e372d811859da3": 1795689800.064637,
+    "a9aee5bcf72b2e6066692101045c07dbbdfdc91dbc4fed23e5efee29b2d6a52b": 1795689800.064637,
+    "0de3d4fb7d36441d4c23caad272f603c01285e897e42ed21e872bb22007d8d10": 1795689800.064637
   },
-  "digest": [
-    {
-      "id": "a3dc65f1b635fad792a6a15d977dc032654830d0d3205e47b3aec4b48edb39a5",
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "2aef82a6c6486cd467a5b483bca34d8c2d78cf4ae859834bbd06267d005f7aa5",
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "b65bba61d417f04324d8683e31da8bc6570834f05a9a6a3795dfdda81aa89dc6",
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "b0b6d9f71bece650599da0b93dac71563b393e102173727357db9b068d5c412f",
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "922d9a6900829f56114fa837a75e41a9b8b58b1413d323afa3acf18ef80662aa",
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "472041e11493d037842aafa18f56b0da2eaa7dc37c029b236273e218dbe7992e",
-      "title": "Microsoft confirms authentication issues after November updates",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "209040ebdfa7736ddc90aaba3682693161b00b91c653802f3a0373966777224a",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "7e27c20206016552a030ea19fa5bf69da52c498364c19477089cb83c5f958834",
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "66594594a49ad08d43831d45e633712d3bf27e572ae0b1cb1543a65150fd1c61",
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "375c7bfbc556ae4a4659d64a355783b86c8e5d61d1a5a1aa8b1c6910fc4983d1",
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "71239870aea25b3a732daac66509808cdfa22c4dc5aef73df1834db068864dab",
-      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "701fdaf7e1edc080415b34e86e9c5226d4ad7e068e4fee17be6f44a0ad5a90ea",
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "at": 1795632146.18543,
-      "priority": 1
-    },
-    {
-      "id": "ece0b227d5cc404e6ae171b1b950d4a3211becfcf5f63b783ad9a0698a912903",
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "at": 1795658247.390687,
-      "priority": 1
-    },
-    {
-      "id": "f80abfcf1c95ffaa410a386527b06512ee54d836b54f1311969105cf63db162f",
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "at": 1795658247.390687,
-      "priority": 1
-    },
-    {
-      "id": "f914a267ff61d93036055eabca0f2a8980f4c0eb12f55387de7e850ea2e5a560",
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "at": 1795658247.390687,
-      "priority": 1
-    }
-  ],
-  "last_digest": "2026-11-25",
+  "digest": [],
+  "last_digest": "2026-11-26",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2927,6 +2812,14 @@
     "CVE-2026-123914": {
       "score": null,
       "at": 1795632188.19183
+    },
+    "CVE-2026-127041": {
+      "score": 8.8,
+      "at": 1795689803.8802426
+    },
+    "CVE-2026-135899": {
+      "score": 6.3,
+      "at": 1795689810.9761195
     }
   }
 }
