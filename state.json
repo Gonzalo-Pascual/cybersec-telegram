@@ -2552,9 +2552,64 @@
     "6d02a2ecb38d8d36a1b6c493de29bf8e4a6c5d6277af3d3f293914e4288a680c": 1795689800.064637,
     "b76344cce9f4296ba67d92e1da200e991544d156fd36fab792e372d811859da3": 1795689800.064637,
     "a9aee5bcf72b2e6066692101045c07dbbdfdc91dbc4fed23e5efee29b2d6a52b": 1795689800.064637,
-    "0de3d4fb7d36441d4c23caad272f603c01285e897e42ed21e872bb22007d8d10": 1795689800.064637
+    "0de3d4fb7d36441d4c23caad272f603c01285e897e42ed21e872bb22007d8d10": 1795689800.064637,
+    "09916beebb2705d5ccd74de066b7fe0af4444ab805381aa6c17dd1251423e530": 1795722753.584643,
+    "ec593b3838beaf12ca68de071f1780e6d5f0eb86fe61116f0142cdbe51d95d00": 1795722753.584643,
+    "5ac6b8be9cbfea2a5d2fe4befaf55444a45c16212fc1c22d38a3a0d20038fba3": 1795722753.584643,
+    "d791e152c4957b8dfe84a5767990798d7c05e01e8f3eb6aba0feeeac443304a8": 1795722753.584643,
+    "eb4fc404bccca9c1ae085e35b9e4ff3184c8e816bb9c514aa2633ac341803de2": 1795722753.584643,
+    "590f52282bfb7e78c5a96b32844989701ba05826fa503f897f1822fad9560108": 1795722753.584643
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "09916beebb2705d5ccd74de066b7fe0af4444ab805381aa6c17dd1251423e530",
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "at": 1795722753.584643,
+      "priority": 1
+    },
+    {
+      "id": "ec593b3838beaf12ca68de071f1780e6d5f0eb86fe61116f0142cdbe51d95d00",
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "at": 1795722753.584643,
+      "priority": 1
+    },
+    {
+      "id": "5ac6b8be9cbfea2a5d2fe4befaf55444a45c16212fc1c22d38a3a0d20038fba3",
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "at": 1795722753.584643,
+      "priority": 1
+    },
+    {
+      "id": "d791e152c4957b8dfe84a5767990798d7c05e01e8f3eb6aba0feeeac443304a8",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "at": 1795722753.584643,
+      "priority": 1
+    },
+    {
+      "id": "eb4fc404bccca9c1ae085e35b9e4ff3184c8e816bb9c514aa2633ac341803de2",
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "at": 1795722753.584643,
+      "priority": 1
+    },
+    {
+      "id": "590f52282bfb7e78c5a96b32844989701ba05826fa503f897f1822fad9560108",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "at": 1795722753.584643,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-26",
   "cvss_cache": {
     "CVE-2026-109619": {
