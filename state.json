@@ -2558,7 +2558,9 @@
     "5ac6b8be9cbfea2a5d2fe4befaf55444a45c16212fc1c22d38a3a0d20038fba3": 1795722753.584643,
     "d791e152c4957b8dfe84a5767990798d7c05e01e8f3eb6aba0feeeac443304a8": 1795722753.584643,
     "eb4fc404bccca9c1ae085e35b9e4ff3184c8e816bb9c514aa2633ac341803de2": 1795722753.584643,
-    "590f52282bfb7e78c5a96b32844989701ba05826fa503f897f1822fad9560108": 1795722753.584643
+    "590f52282bfb7e78c5a96b32844989701ba05826fa503f897f1822fad9560108": 1795722753.584643,
+    "cf82b38aa5155883e1d6b910a59e788587965cbe8432b830734aaa1293455ae2": 1795746939.330266,
+    "54815f9dbf2951ca28581f89b8907980be83a493177210f01f24752abd5e225d": 1795746939.330266
   },
   "digest": [
     {
@@ -2608,6 +2610,22 @@
       "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
       "at": 1795722753.584643,
       "priority": 1
+    },
+    {
+      "id": "cf82b38aa5155883e1d6b910a59e788587965cbe8432b830734aaa1293455ae2",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "at": 1795746939.330266,
+      "priority": 1
+    },
+    {
+      "id": "54815f9dbf2951ca28581f89b8907980be83a493177210f01f24752abd5e225d",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "at": 1795746939.330266,
+      "priority": 2
     }
   ],
   "last_digest": "2026-11-26",
