@@ -2560,75 +2560,20 @@
     "eb4fc404bccca9c1ae085e35b9e4ff3184c8e816bb9c514aa2633ac341803de2": 1795722753.584643,
     "590f52282bfb7e78c5a96b32844989701ba05826fa503f897f1822fad9560108": 1795722753.584643,
     "cf82b38aa5155883e1d6b910a59e788587965cbe8432b830734aaa1293455ae2": 1795746939.330266,
-    "54815f9dbf2951ca28581f89b8907980be83a493177210f01f24752abd5e225d": 1795746939.330266
+    "54815f9dbf2951ca28581f89b8907980be83a493177210f01f24752abd5e225d": 1795746939.330266,
+    "f3973af070c5abdc7b32fd7e66f472263c5bb4f764d60dde36e6dec0ec3cb5e4": 1795778708.646274,
+    "04029931647d084ff79704e19a8b738171bf18a5b49bf42e9a97ae937928c834": 1795778708.646274,
+    "fb878337b4b620e7f550db4c06d7d9d5d8416269ddd4d8bab5e0ce8708edd8be": 1795778708.646274,
+    "b20424ec8639803749685666ea01298b2ba05e83576a7cb8ac51df28dd534b8c": 1795778708.646274,
+    "a2c5dddd6cb33585034b7244fd3d755279a329ad076eeb1759e3c76af71a6a63": 1795778708.646274,
+    "4cb2e8e01ba370f323afcd53e07c6f4af4511e2c88d6667ab1e7579e82f5b4b1": 1795778708.646274,
+    "eea1d1a65f861c253acc35c7ecaf24a08a5869ed1b6707de85f0a7350cbbb778": 1795778708.646274,
+    "59ca8f576821ad103e1c09cc9eb30d427a71d6d3dd210c27190cb45e576a4943": 1795778708.646274,
+    "3f28f1afe9c6514dc69d690d89e537a30a9bdd4a8b43ee91b33e67fe02fef632": 1795778708.646274,
+    "5a17e35a94620649500afbbb8df34cc6413df289104ae3e784b724781df0e18d": 1795778708.646274
   },
-  "digest": [
-    {
-      "id": "09916beebb2705d5ccd74de066b7fe0af4444ab805381aa6c17dd1251423e530",
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-      "at": 1795722753.584643,
-      "priority": 1
-    },
-    {
-      "id": "ec593b3838beaf12ca68de071f1780e6d5f0eb86fe61116f0142cdbe51d95d00",
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "at": 1795722753.584643,
-      "priority": 1
-    },
-    {
-      "id": "5ac6b8be9cbfea2a5d2fe4befaf55444a45c16212fc1c22d38a3a0d20038fba3",
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "at": 1795722753.584643,
-      "priority": 1
-    },
-    {
-      "id": "d791e152c4957b8dfe84a5767990798d7c05e01e8f3eb6aba0feeeac443304a8",
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "at": 1795722753.584643,
-      "priority": 1
-    },
-    {
-      "id": "eb4fc404bccca9c1ae085e35b9e4ff3184c8e816bb9c514aa2633ac341803de2",
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "at": 1795722753.584643,
-      "priority": 1
-    },
-    {
-      "id": "590f52282bfb7e78c5a96b32844989701ba05826fa503f897f1822fad9560108",
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "at": 1795722753.584643,
-      "priority": 1
-    },
-    {
-      "id": "cf82b38aa5155883e1d6b910a59e788587965cbe8432b830734aaa1293455ae2",
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "at": 1795746939.330266,
-      "priority": 1
-    },
-    {
-      "id": "54815f9dbf2951ca28581f89b8907980be83a493177210f01f24752abd5e225d",
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-      "at": 1795746939.330266,
-      "priority": 2
-    }
-  ],
-  "last_digest": "2026-11-26",
+  "digest": [],
+  "last_digest": "2026-11-27",
   "cvss_cache": {
     "CVE-2026-109619": {
       "score": 9.2,
@@ -2893,6 +2838,10 @@
     "CVE-2026-135899": {
       "score": 6.3,
       "at": 1795689810.9761195
+    },
+    "CVE-2026-99362": {
+      "score": 9.8,
+      "at": 1795778734.7753422
     }
   }
 }
