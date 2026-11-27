@@ -2570,9 +2570,98 @@
     "eea1d1a65f861c253acc35c7ecaf24a08a5869ed1b6707de85f0a7350cbbb778": 1795778708.646274,
     "59ca8f576821ad103e1c09cc9eb30d427a71d6d3dd210c27190cb45e576a4943": 1795778708.646274,
     "3f28f1afe9c6514dc69d690d89e537a30a9bdd4a8b43ee91b33e67fe02fef632": 1795778708.646274,
-    "5a17e35a94620649500afbbb8df34cc6413df289104ae3e784b724781df0e18d": 1795778708.646274
+    "5a17e35a94620649500afbbb8df34cc6413df289104ae3e784b724781df0e18d": 1795778708.646274,
+    "797e2ae7dc540fba75009078a3f81eca6b86050de36f27e805120755e25b1d94": 1795810409.123966,
+    "9e87fe2c7d9a2c4041e045986dc7a455734896bbdcd682d1d2c2c59fee5853e9": 1795810409.123966,
+    "028788e6fccbe5101d1c5ef33a9f34a4c4c101fc57a71d3edcf856d435be6c79": 1795810409.123966,
+    "189fed33166eb40fd88468b079fa73397776735573a28c43ee2ee94c36f4f237": 1795810409.123966,
+    "ed81cee4936b8125e433d76c6dd6784c858d675eeb14fd0e53229a3db357eda3": 1795810409.123966,
+    "90adc599ef8151378dcf34b12c40379097352e0bb500fbe1bba7518262f5deb2": 1795810409.123966,
+    "a8ab64006abe3ae6446e51d7c0b03159220c22eb2bdf2bb079aad6b9944e175c": 1795810409.123966,
+    "f3af1883ad514ec99009e5148fefb8739381b42a9a624c7ee5734ca8624b1b80": 1795810409.123966,
+    "190707ff13148503dd89b7978990f2a4361d6a6c2b6f867d2a5e72d67d69e848": 1795810409.123966,
+    "0dd2edc77c5695dd94091212bf03475bd1448a8a54b78014ae29093249c8934c": 1795810409.123966,
+    "e5f97f6ace5f6dca333e9bc99f8762890610196177dcde51ead73fbce18d115c": 1795810409.123966,
+    "4cf4805b9b43d9aa616038dd061f28c75bf1c7f8ac92228d8c2459cf260d1d20": 1795810409.123966,
+    "a184d3c5d08a4f2d33e91aab0f8e20551b98d12f07955fdc525647dee1067b00": 1795810409.123966,
+    "kev:CVE-2026-120705": 1795810409.123966,
+    "kev:CVE-2026-129243": 1795810409.123966,
+    "kev:CVE-2026-136716": 1795810409.123966
   },
-  "digest": [],
+  "digest": [
+    {
+      "id": "ed81cee4936b8125e433d76c6dd6784c858d675eeb14fd0e53229a3db357eda3",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "90adc599ef8151378dcf34b12c40379097352e0bb500fbe1bba7518262f5deb2",
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "a8ab64006abe3ae6446e51d7c0b03159220c22eb2bdf2bb079aad6b9944e175c",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "f3af1883ad514ec99009e5148fefb8739381b42a9a624c7ee5734ca8624b1b80",
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "190707ff13148503dd89b7978990f2a4361d6a6c2b6f867d2a5e72d67d69e848",
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "0dd2edc77c5695dd94091212bf03475bd1448a8a54b78014ae29093249c8934c",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "e5f97f6ace5f6dca333e9bc99f8762890610196177dcde51ead73fbce18d115c",
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "at": 1795810409.123966,
+      "priority": 2
+    },
+    {
+      "id": "4cf4805b9b43d9aa616038dd061f28c75bf1c7f8ac92228d8c2459cf260d1d20",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "at": 1795810409.123966,
+      "priority": 1
+    },
+    {
+      "id": "a184d3c5d08a4f2d33e91aab0f8e20551b98d12f07955fdc525647dee1067b00",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "at": 1795810409.123966,
+      "priority": 1
+    }
+  ],
   "last_digest": "2026-11-27",
   "cvss_cache": {
     "CVE-2026-109619": {
@@ -2777,7 +2866,7 @@
     },
     "CVE-2026-123007": {
       "score": 9.2,
-      "at": 1795050262.6075964
+      "at": 1795810452.4327152
     },
     "CVE-2026-129448": {
       "score": 9.8,
@@ -2821,7 +2910,7 @@
     },
     "CVE-2026-126714": {
       "score": 9.2,
-      "at": 1795533737.9441895
+      "at": 1795810436.9539378
     },
     "CVE-2026-133737": {
       "score": 5.1,
@@ -2842,6 +2931,10 @@
     "CVE-2026-99362": {
       "score": 9.8,
       "at": 1795778734.7753422
+    },
+    "CVE-2026-112189": {
+      "score": 5.1,
+      "at": 1795810445.3913205
     }
   }
 }
